@@ -1,0 +1,13 @@
+### Bibi Shirif
+- Capital: Zayn al-Qamar (population: ~1.5 million)
+- Geography
+  - Located in the southern and eastern part of West Yanorra.
+  - Borders Duvessa to the north and Southmoa to the east.
+- Major Locations
+  - **Zayn al-Qamar**
+    - Bibi Shirif's capital and largest city.
+    - Known for its rich history, cultural diversity, and vibrant markets.
+  - **Qasr Marcel**
+    - On the island of Dudbinia, off the south east coast of Bibi Shirif.
+    - A significant religious and cultural center in Bibi Shirif.
+    - Home to the Great Mosque of Zayn al-Qamar, a major pilgrimage site.

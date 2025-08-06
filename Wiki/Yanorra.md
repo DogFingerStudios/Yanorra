@@ -17,7 +17,7 @@ Yanorra - World Overview
 * Rotational cycle ≈ 1 Earth day
 * Yearly cycle = Increasingly unpredictable, no longer follows a fixed calendar. Calendar system is based on cycles (i.e. days) rather than years.
 
-## Satellites
+## Celestial Satellites
 
 Yanorra has two satellites. Their competing gravitation has made sea travel difficult -- an issue amplified by The Drift.
 
@@ -62,117 +62,60 @@ Since The Drift, several attempts to cross the Eastvoid Ocean in search of Aunqa
 
 ## West Yanorra
 
-### Bibi Shirif
-- Capital: Zayn al-Qamar (population: ~1.5 million)
-- Geography
-  - Located in the southern and eastern part of West Yanorra.
-  - Borders Duvessa to the north and Southmoa to the east.
-- Major Locations
-  - **Zayn al-Qamar**
-    - Bibi Shirif's capital and largest city.
-    - Known for its rich history, cultural diversity, and vibrant markets.
-  - **Qasr Marcel**
-    - On the island of Dudbinia, off the south east coast of Bibi Shirif.
-    - A significant religious and cultural center in Bibi Shirif.
-    - Home to the Great Mosque of Zayn al-Qamar, a major pilgrimage site.
+West Yanorra is divided into four major nations, each with its own unique culture, history, and geography. 
 
-### Endotoku
-- Capital: Ornerston (population: 300,000 million)
+- **Eanorra**: the eastern part of West Yanorra, which includes Duvessa, and Bibi Shirif and the Three Sisters (Totoku, Endotoku, Obetoku).
+- **Sounorra**: the sparsely populated southern region of West Yanorra, which includes Hav, and the far southern wildlands.
+- **Wanorra**: the western part of West Yanorra, which includes Ronobetu, Tsutodo, and S'Tsutodo.
+- **Dudbinia**: A large island in the southeastern region of West Yanorra
 
-### [Duvessa](./Duvessa.md)
-- Capital: Côte du Soleil (population: ~800,000 million)
-- Largest city: Port Sable (population: ~1.2 million)
-- History
-  - Prior to The Drift, Duvessa was a prosperous maritime nation, known for its trade routes and naval power in the Brooding Sea
-  - The Drift caused significant environmental changes, leading to unstable waters in the Brooding Sea and a decline in trade. 
-  - The nation is now divided between the authoritarian **Ordre-Inka-Roi** (DO) and the **Sombra Insurgents**, who oppose DO's rule.
-- Government
-  - Controlled by authoritarian Ordre-Inka-Roi (DO).
-  - Ongoing civil war between DO and Sombra Insurgents.
-- Geography
-  - Northern coast borders the northern Westvoid Ocean, and is mostly rocky and inhospitable.
-  - Eastern coast borders the Valka Ocean.
-  - Southern border is mountainous and borders Southmoa and Bibi Shirif
-  - In the north, a group of islands known as **The Riftlands** act as a resting point for ships traveling to Velu. North of The Riftlands **The Far Riftlands**, more commonly called **The Farlands**. Even further north, the **Noxoch Isle** marks the edge of the known northern territory.
-- Provinces
-  - **Nothmoa**
-    - Capital: Port Moa (population: ~80,000)
-    - Northernmost province, bordering the Riftlands.
-    - Known for its rugged terrain and harsh winters.
-- Major Locations
-  - **Port Sable**
-    - Duvessa's main maritime city.
-    - Launch point for supply and refugee routes to the Riftlands.
-    - Trade, black market activity, and surveillance hub.
-  - **The Riftlands**
-    - A chain of islands northeast of Duvessa, acting as a maritime rest stop between Duvessa and Velu.
-      - **Sable Island** – Largest, contains Sabletown port.
-      - **Saint Armandre** – Former monastic island, now ruins.
-      - **Iskay** – Twin peaks, fog-heavy terrain.
-      - **Morn’e** – Gloomy, failed colonial agriculture site.
-      - **Yana Wat’a** – “Black Island,” associated with death.
-      - **Aguillon** – Sharp terrain, historically used for exile.
-      - **Quelvasto** – Salt-scarred, uninhabitable.
-      - **Sopoko** – Feared ghost island, spiritually avoided.
-  - **The Farlands**
-    - A group of islands north of the Riftlands, less inhabited and more dangerous.
-      - **Saint Aveline** – Main island, partially inhabited, now under siege.
-      - **Port Veiskar** – Small, nearly-abandoned fjord town.
-      - **Karrholm** – Misty, bog-like island with ruinous structures.
-  - **Noxoch Isle**
-    - Northernmost landmass.
-    - Uninhabited, storm-battered, considered cursed.
-    - Marks the edge of known, reachable northern territory.
+### List of States and Territories in West Yanorra
 
-### Hav
-- Capital: Flord-Clif (population: 50,000)
-- A large, isolated and sparsely populated landmass, located south of East and West Yanorra. Hav is only accessible by sea from southern East Yanorra.
-
-### Obetoku
-- Capital: Sanceibei (population: ~700,000)
-
-### Ronobetu
-- Capital: Cam Tower (population: ~1.9 million)
-
-### Samerland
-- Capital: Thetbury (population: ~1.2 million)
-
-### Southmoa
-- Capital: Moa City (population: ~1 million)
-
-### Stanshonia
-- Capital: Carmouth (population: ~1.5 million)
-
-### S'Tsutodo
-- Capital: Dima Eta (population: ~700,000 million)
-- Geography
-  - Located in the southern part of West Yanorra.
-  - Borders the Brooding Sea to the south Ronobetu to the west.
-  - Known for its rugged terrain, dense forests, and mountainous regions.
-
-### Thornbelt
-- Capital: Holt (population: ~800,000)
-
-### Totoku
-- Capital: Totoku (population: ~600,000)
-
-### Tsutodo
-- Capital: Cliford (population: 400,000)
+| Name                              | Area (approx.)    | Population     | Capital         | Region  |
+|------------------------------------|-------------------|----------------|-----------------|---------|
+| [Bibi Shirif](./Bibi_Shirif.md)    | 220,000 sq km     | ~1.5 million   | Zayn al-Qamar   | Wanorra |
+| [Duvessa](./Duvessa.md)            | 310,000 sq km     | ~800,000       | Côte du Soleil  | Wanorra |
+| [Endotoku](./Endotoku.md)          | 180,000 sq km     | ~300,000       | Ornerston       | Wanorra |
+| [Hav](./Hav.md)                    | 500,000 sq km     | ~50,000        | Flord-Clif      | Dudbinia |
+| [Obetoku](./Obetoku.md)            | 120,000 sq km     | ~700,000       | Sanceibei       | Wanorra |
+| [Ronobetu](./Ronobetu.md)          | 350,000 sq km     | ~1.9 million   | Cam Tower       | Eanorra |
+| [S'Tsutodo](./S_Tsutodo.md)        | 200,000 sq km     | ~700,000       | Dima Eta        | Eanorra |
+| [Samerland](./Samerland.md)        | N/A               | ~1.2 million   | Thetbury        | Dudbinia |
+| [Soumoa](./Soumoa.md)              | 140,000 sq km     | ~1 million     | Moa City        | Wanorra |
+| [Stanshonia](./Stanshonia.md)      | N/A               | ~1.5 million   | Carmouth        | Dudbinia |
+| [Thornbelt](./Thornbelt.md)        | 210,000 sq km     | ~800,000       | Holt            | Eanorra |
+| [Totoku](./Totoku.md)              | 80,000 sq km      | ~600,000       | Totoku          | Wanorra |
+| [Tsutodo](./Tsutodo.md)            | 160,000 sq km     | ~400,000       | Cliford         | Eanorra |
 
 ## The Brooding Sea
-- Sea separating eastern West Yanorra (Duvessa, Southmoa, etc.) from western West Yanorra (Ronobetu, Tsutodo, etc.)
+- Sea separating Eanorra and Wanorra, with Thornbelt in the north acting as a land bridge between the two sub-continents.
 - Cold, unstable waters with large swells and unpredictable storms
 - Given the relative proximity of East-West Yanorra and West-West Yanorra, the Brooding Sea is considered a dangerous barrier to maritime travel. Less than 200 miles apart at its narrowest point, only about 20% of ships attempting to cross the Brooding Sea survive the journey.
+
+## East Yanorra
+
+### List of States and Territories in East Yanorra
+
+| Name                              | Area (approx.)    | Population     | Capital         | Region  |
+|------------------------------------|-------------------|----------------|-----------------|---------|
+| [Reddelstone](./Reddelstone.md)    | 150,000 sq km     | ~300,000       | Paz             | East Yanorra    |
+| [Velu](./Velu.md)                    | 200,000 sq km     | ~500,000       | Byad            | East Yanorra    |
+
+
+## Aunqara
+- Mythical land beyond the Eastvoid Ocean.
+- Believed to hold relics, knowledge, or salvation.
+- No confirmed sightings.
 
 ## Valka Ocean
 - Large ocean separating East Yanorra (Velu) from West Yanorra (Duvessa).
 - Ships have not been able to navigate it since The Drift.
 - Travel from West Yanorra to East Yanorra now requires a stop in the Riftlands.
 
-## Aunqara
-- Mythical land beyond the Eastvoid Ocean.
-- Believed to hold relics, knowledge, or salvation.
-- No confirmed sightings.
+## Eastvoid Ocean
+- Ocean separating East Yanorra from the mythical land of Aunqara.
+
+## Westvoid Ocean
 
 # Calendar System (Post-Drift)
 - Time is measured in planetary rotations ("cycles").

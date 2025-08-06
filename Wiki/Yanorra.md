@@ -40,34 +40,27 @@ Since The Drift, several attempts to cross the Eastvoid Ocean in search of Aunqa
 
 ## East Yanorra
 
-### Reddelstone
-- Capital: Paz (pop: ~300,000)
 
-### [Velu](./Velu.md)
-- Capital: Byad (population: ~500,000)
-- Government
-  - Stable and authoritarian, with moderate democratic elements.
-  - Known for tight border control and strict immigration policy.
-  - Relatively insulated from the worst effects of The Drift.
-- Economy
-  - Relatively isolationist, with limited trade.
-  - Main exports: agricultural products, textiles, and some manufactured goods.
-- Major Locations
-  - **Gate Thaurin**
-    - Primary point of entry into Velu.
-    - Operates as a controlled and fortified immigration port.
-    - Acts as a political chokepoint: heavily surveilled, selectively open.
-    - All sanctioned trade and movement to Velu from Duvessa passes through here.
-    - Rumors persist of undocumented refugees and smuggled correspondence being turned away or "disappeared."
+### List of States and Territories in East Yanorra
+
+| Name                              | Area (approx.)    | Population     | Capital         |
+|------------------------------------|-------------------|----------------|-----------------|
+| [Reddelstone](./Reddelstone.md)    | 150,000 sq km     | ~300,000       | Paz             |
+| [Velu](./Velu.md)                  | 200,000 sq km     | ~500,000       | Byad            |
+
 
 ## West Yanorra
 
-West Yanorra is divided into four major nations, each with its own unique culture, history, and geography. 
+West Yanorra is the western most continent in the known world of Yanorra. It is divided into four major regions:
 
-- **Eanorra**: the eastern part of West Yanorra, which includes Duvessa, and Bibi Shirif and the Three Sisters (Totoku, Endotoku, Obetoku).
-- **Sounorra**: the sparsely populated southern region of West Yanorra, which includes Hav, and the far southern wildlands.
-- **Wanorra**: the western part of West Yanorra, which includes Ronobetu, Tsutodo, and S'Tsutodo.
-- **Dudbinia**: A large island in the southeastern region of West Yanorra
+- **Dudbinia**: A large island in the southeastern region of West Yanorr.
+
+- **Eanorra** - The eastern part of West Yanorra, which includes Duvessa, Moe,  Bibi Shirif and the Three Sisters (Totoku, Endotoku, Obetoku).   
+
+- **Sounorra** - A sparsely populated large island in the southern region of West Yanorra. Sounorra is known for it's wildlands and harsh weather.
+
+- **Wanorra** - The western part of West Yanorra, which includes Ronobetu, Tsutodo, and S'Tsutodo.
+
 
 ### List of States and Territories in West Yanorra
 
@@ -87,20 +80,16 @@ West Yanorra is divided into four major nations, each with its own unique cultur
 | [Totoku](./Totoku.md)              | 80,000 sq km      | ~600,000       | Totoku          | Wanorra |
 | [Tsutodo](./Tsutodo.md)            | 160,000 sq km     | ~400,000       | Cliford         | Eanorra |
 
+### The Three Sisters
+
+The Three Sisters are a group of three nations located in southern Eanorra. The name __Three Sisters__ comes from pre-Drift ruler, Kind Aputoku, who ruled all of Eanorra and gifted his three daughters (Ende, Obe, and Tsue) with the lands that would each become their own nation. 
+
+In the modern era, the three nations share culture and language, as well as resources. Free trade exists between the three nations, though they remain politically independent. 
+
 ## The Brooding Sea
 - Sea separating Eanorra and Wanorra, with Thornbelt in the north acting as a land bridge between the two sub-continents.
 - Cold, unstable waters with large swells and unpredictable storms
 - Given the relative proximity of East-West Yanorra and West-West Yanorra, the Brooding Sea is considered a dangerous barrier to maritime travel. Less than 200 miles apart at its narrowest point, only about 20% of ships attempting to cross the Brooding Sea survive the journey.
-
-## East Yanorra
-
-### List of States and Territories in East Yanorra
-
-| Name                              | Area (approx.)    | Population     | Capital         | Region  |
-|------------------------------------|-------------------|----------------|-----------------|---------|
-| [Reddelstone](./Reddelstone.md)    | 150,000 sq km     | ~300,000       | Paz             | East Yanorra    |
-| [Velu](./Velu.md)                    | 200,000 sq km     | ~500,000       | Byad            | East Yanorra    |
-
 
 ## Aunqara
 - Mythical land beyond the Eastvoid Ocean.

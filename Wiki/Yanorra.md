@@ -43,7 +43,7 @@ Since The Drift, several attempts to cross the Eastvoid Ocean in search of Aunqa
 ### Reddelstone
 - Capital: Paz (pop: ~300,000)
 
-### Velu
+### [Velu](./Velu.md)
 - Capital: Byad (population: ~500,000)
 - Government
   - Stable and authoritarian, with moderate democratic elements.
@@ -79,7 +79,7 @@ Since The Drift, several attempts to cross the Eastvoid Ocean in search of Aunqa
 ### Endotoku
 - Capital: Ornerston (population: 300,000 million)
 
-### Duvessa
+### [Duvessa](./Duvessa.md)
 - Capital: Côte du Soleil (population: ~800,000 million)
 - Largest city: Port Sable (population: ~1.2 million)
 - History

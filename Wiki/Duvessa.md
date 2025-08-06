@@ -2,6 +2,8 @@
 
 **Duvessa** is a coastal nation on the northern shores of West Yanorra, a continent on the planet Yanorra. Known for its strategic control over maritime trade routes and its role in the ongoing civil war between the authoritarian **Dornish Order (DO)** and the **Sombra Insurgents**, Duvessa is a key geopolitical player in the post-Drift world.
 
+<a href="../Maps/Duvessa.png" target="_blank"><img src="../Maps/Duvessa.png" width="50%" height="50%"></a>
+
 ## Overview
 
 **Name**: Duvessa  
@@ -17,7 +19,7 @@
 
 ## Geography
 
-**Location**: Northern coast of West Yanorra, bordering the Valka Ocean to the east, the Westvoid Ocean to the north, and the Brooding Sea separating it from western West Yanorra nations like Ronobetu.  
+**Location**: Northern coast of Eanorra (the eastern coast of West Yanorra), bordering the Valka Ocean to the east, the Westvoid Ocean to the north, and the Brooding Sea in the west, separating it from western Wanorra nations like Ronobetu and Tsutodo.  
 **Terrain**: Rocky and inhospitable northern coast; mountainous southern border adjacent to Southmoa and Bibi Shirif; fertile coastal plains around Port Sable.  
 - **Provinces**:  
   - **Normoa**: Capital - Port Moa (~80,000), acquired after the Duvessa-Moa War (~100,000 cycles ago, ~274 Earth years). Known for rugged terrain and harsh winters.  
@@ -30,19 +32,23 @@
 
 ## History
 
-### Pre-Drift Era
+### Pre-Drift Era (~500,000 cycles ago, ~1,369 Earth years)
 
-Before *The Drift*, Duvessa was a maritime powerhouse, dominating the Brooding Sea with a vast fleet of advanced vessels. As a key hub in **Eanorra**, the eastern region of **West Yanorra**, Duvessa connected the fertile plains of **Wanorra** (western West Yanorra, including Ronobetu) to **East Yanorra**’s nations like Bibi Shirif and Moa, as well as the Three Sisters (Totoku, Endotoku, Obetoku). Its ports, **Fort 32** and **Fort Gotoku**, thrived, exporting maize, tapestries, and rare ores while importing spices and manuscripts using direct maritime routes across the Brooding Sea. Duvessa’s innovative ship designs enabled reliable crossings to Ronobetu.
+Before The Drift, Duvessa was a maritime powerhouse, dominating the Brooding Sea with a vast fleet of advanced vessels. 
 
-In the east, Duvessa established multiple trade routes with Velu. The nation’s advanced shipbuilding industry and mercantile class thrived, establishing Duvessa as a key player in regional trade to its west and east. The society was cosmopolitan, with sun-venerating rituals and communal gatherings.
+As a key hub in Eanorra, the eastern region of West Yanorra, Duvessa connected the fertile plains of Ronobetu in Wanorra (the western part of West Yanorra, including Ronobetu) to Eanorra’s nations, like Bibi Shirif, and the Three Sisters (Totoku, Endotoku, Obetoku) across the Brooding Sea. In the west of Duvessa, cities such as Fort 32 and Fort Gotoku thrived.
+
+In the east, Duvessa established multiple trade routes with Velu. Port Sable and Cöte du Soleil became major trade hubs as innovative ship designs enabled reliable crossings of the Valka Ocean to Velu. This fostered a prosperous, cosmopolitan society with sun-venerating rituals and communal gatherings.
+
+Before The Drift, Duvessa had established itself as a key player in regional trade to its west and east. The society was cosmopolitan, with sun-venerating rituals and communal gatherings.
 
 ### Post-Drift Era
 
-The Drift transformed the Brooding Sea into a treacherous expanse of violent swells and unpredictable storms.
+The Drift transformed the tidal system in Yanorra, making sea travel, an already perilous endeavor, even more dangerous.
 
-In the west, all trade routes to Ronobetu were cut off and the once-thriving ports of Fort 32 and Fort Gotoku became ghost towns as ships were lost in the Brooding Sea. As a result, Thornbelt, the only land route to Ronobetu, increased tariffs on goods traveling from Ronobetu to Duvessa, leading to skyrocketing food prices.
+ In the west, all trade routes to Ronobetu were cut off and the once-thriving ports of Fort 32 and Fort Gotoku became ghost towns as ships who attempted to cross the Brooding Sea, were lost to the unpredictable tides and storms. Because of this, Thornbelt, the only land route to Ronobetu, increased tariffs on goods traveling from Ronobetu to Duvessa, leading to skyrocketing food prices.
 
-In the east, all trade routes to Velu became perilous, except for the passage through the Riftlands. This became the sole maritime route to travel between East and West Yanorra. This lead to a population boom in Sabletown, which became a key stopover for ships traveling to Gate Thaurin in Velu.
+In the east, all trade routes to Velu became perilous, except for the passage through the Riftlands. This became the sole maritime route to travel between East and West Yanorra. This lead to a population boom in Sabletown, which became a key stopover for ships traveling to Velu's Gate Thaurin.
 
 These changes lead to widespread famine and unrest in Duvessa, with the Dornish Order (DO) rising to power by promising stability and control. The DO enforced strict rationing and authoritarian rule, suppressing dissent and consolidating power.
 

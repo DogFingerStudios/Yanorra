@@ -17,11 +17,11 @@
 
 ## Geography
 
-**Location**: Northern coast of West Yanorra, bordering the Virelich Ocean to the east, the Westvoid Ocean to the north, and the Brooding Sea separating it from western West Yanorra nations like Ronobetu.  
+**Location**: Northern coast of West Yanorra, bordering the Valka Ocean to the east, the Westvoid Ocean to the north, and the Brooding Sea separating it from western West Yanorra nations like Ronobetu.  
 **Terrain**: Rocky and inhospitable northern coast; mountainous southern border adjacent to Southmoa and Bibi Shirif; fertile coastal plains around Port Sable.  
 - **Provinces**:  
   - **Normoa**: Capital - Port Moa (~80,000), acquired after the Duvessa-Moa War (~100,000 cycles ago, ~274 Earth years). Known for rugged terrain and harsh winters.  
-  - **Kutboga**: Capital - Fort 32 (population ~60K), borders Thornbelt, the Brooding Sea, and the Virelich Ocean. 
+  - **Kutboga**: Capital - Fort 32 (population ~60K), borders Thornbelt, the Brooding Sea, and the Valka Ocean. 
 - **Key Islands**:  
   - **The Riftlands**: A chain of islands northeast of Duvessa, serving as a maritime rest stop for trade with Velu. Includes Sable Island (Sabletown port), Saint Armandre, Iskay, Morn’e, Yana Wat’a, Aguillon, Quelvasto, and Sopoko.  
   - **The Farlands**: Northern islands, including Saint Aveline (partially inhabited, under siege), Port Veiskar, and Karrholm.  
@@ -32,27 +32,25 @@
 
 ### Pre-Drift Era
 
-Before The Drift, Duvessa was a preeminent maritime power, commanding the Brooding Sea with a formidable navy and thriving trade networks. The nation served as a vital conduit, linking the fertile agricultural heartland of Ronobetu in western West Yanorra to eastern West Yanorra. 
+Before *The Drift*, Duvessa was a maritime powerhouse, dominating the Brooding Sea with a vast fleet of advanced vessels. As a key hub in **Eanorra**, the eastern region of **West Yanorra**, Duvessa connected the fertile plains of **Wanorra** (western West Yanorra, including Ronobetu) to **East Yanorra**’s nations like Bibi Shirif and Moa, as well as the Three Sisters (Totoku, Endotoku, Obetoku). Its ports, **Fort 32** and **Fort Gotoku**, thrived, exporting maize, tapestries, and rare ores while importing spices and manuscripts using direct maritime routes across the Brooding Sea. Duvessa’s innovative ship designs enabled reliable crossings to Ronobetu.
 
-Duvessa’s ports, particularly Fort 32 and Fort Gotoku, bustled with commerce, exporting grains, textiles, and rare minerals while importing exotic goods and cultural influences from across the Brooding Sea. This golden age saw Duvessa establish a sophisticated shipbuilding industry and a robust mercantile class, fostering a cosmopolitan society. 
-
-Advancements in ship design and navigation technology allowed Duvessa to navigate the even more treacherous Virelich Ocean, enabling trade with the multiple ports in Velu.
+In the east, Duvessa established multiple trade routes with Velu. The nation’s advanced shipbuilding industry and mercantile class thrived, establishing Duvessa as a key player in regional trade to its west and east. The society was cosmopolitan, with sun-venerating rituals and communal gatherings.
 
 ### Post-Drift Era
 
-The Drift transformed the Brooding Sea into a treacherous expanse of violent swells and unpredictable storms, destroying much of Duvessa’s fleet and severing its trade routes. 
+The Drift transformed the Brooding Sea into a treacherous expanse of violent swells and unpredictable storms.
 
 In the west, all trade routes to Ronobetu were cut off and the once-thriving ports of Fort 32 and Fort Gotoku became ghost towns as ships were lost in the Brooding Sea. As a result, Thornbelt, the only land route to Ronobetu, increased tariffs on goods traveling from Ronobetu to Duvessa, leading to skyrocketing food prices.
 
-In the east, all trade routes to Velu became perilous, except for the passage through the Riftlands. This became the sole maritime route for Duvessa, leading to the establishment of Sabletown as a key stopover for ships traveling to Gate Thaurin in Velu.
+In the east, all trade routes to Velu became perilous, except for the passage through the Riftlands. This became the sole maritime route to travel between East and West Yanorra. This lead to a population boom in Sabletown, which became a key stopover for ships traveling to Gate Thaurin in Velu.
 
 These changes lead to widespread famine and unrest in Duvessa, with the Dornish Order (DO) rising to power by promising stability and control. The DO enforced strict rationing and authoritarian rule, suppressing dissent and consolidating power.
 
 ### Duvessa-Moa War
 
-Twenty years (~73 cycles) after The Drift, the Dornish Order (DO) faced a significant challenge from Moa, a rival naval nation. Moa attempted to seize Duvessa’s northern territory bordering the Thornbelt land-bridge, igniting the Duvessa-Moa War.
+Twenty years (~73 centara) after The Drift, the Dornish Order (DO) faced a significant challenge from the rival nation of Moa. Moa attempted to seize Duvessa’s northern territory bordering the Thornbelt land-bridge, igniting the Duvessa-Moa War.
 
-Duvessa not only successfully repelled the invasion, but was able to seize Moa's northern territory, including the port city of Port Moa. This victory allowed Duvessa to annex Normoa, a rugged and insular region with a population of around 80,000, while Soumoa remained an independent remnant of the former Moa.
+Duvessa not only successfully repelled the invasion, but was able to seize Moa's northern territory, including the coastal city of Port Moa. This victory allowed Duvessa to annex Normoa, a rugged and insular region with a population of around 80,000, while Soumoa remained an independent remnant of the former Moa.
 
 ### Current Era
 

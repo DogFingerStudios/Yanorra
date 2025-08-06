@@ -26,7 +26,7 @@ Yanorra has two satellites. Their competing gravitation has made sea travel diff
 
 # Geography
 
-The known world consists of two main continents: **East Yanorra** and **West Yanorra**, separated by the **Virelich Ocean**. Each continent contains several nations and loosely organized regions.
+The known world consists of two main continents: **East Yanorra** and **West Yanorra**, separated by the **Valka Ocean**. Each continent contains several nations and loosely organized regions.
 
 ## Historical Context
 
@@ -91,7 +91,7 @@ Since The Drift, several attempts to cross the Eastvoid Ocean in search of Aunqa
   - Ongoing civil war between DO and Sombra Insurgents.
 - Geography
   - Northern coast borders the northern Westvoid Ocean, and is mostly rocky and inhospitable.
-  - Eastern coast borders the Virelich Ocean.
+  - Eastern coast borders the Valka Ocean.
   - Southern border is mountainous and borders Southmoa and Bibi Shirif
   - In the north, a group of islands known as **The Riftlands** act as a resting point for ships traveling to Velu. North of The Riftlands **The Far Riftlands**, more commonly called **The Farlands**. Even further north, the **Noxoch Isle** marks the edge of the known northern territory.
 - Provinces
@@ -164,7 +164,7 @@ Since The Drift, several attempts to cross the Eastvoid Ocean in search of Aunqa
 - Cold, unstable waters with large swells and unpredictable storms
 - Given the relative proximity of East-West Yanorra and West-West Yanorra, the Brooding Sea is considered a dangerous barrier to maritime travel. Less than 200 miles apart at its narrowest point, only about 20% of ships attempting to cross the Brooding Sea survive the journey.
 
-## Virelich Ocean
+## Valka Ocean
 - Large ocean separating East Yanorra (Velu) from West Yanorra (Duvessa).
 - Ships have not been able to navigate it since The Drift.
 - Travel from West Yanorra to East Yanorra now requires a stop in the Riftlands.

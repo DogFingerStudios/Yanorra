@@ -1,6 +1,6 @@
 # Velu
 
-**Velu** is a prominent agricultural nation located in East Yanorra, known for its fertile lands and strict immigration policies. Positioned as a critical trade partner for Duvessa, Velu plays a significant role in the post-Drift economy, supplying agricultural goods across the Virelich Ocean.
+**Velu** is a prominent agricultural nation located in East Yanorra, known for its fertile lands and strict immigration policies. Positioned as a critical trade partner for Duvessa, Velu plays a significant role in the post-Drift economy, supplying agricultural goods across the Valka Ocean.
 
 ## Overview
 
@@ -15,12 +15,12 @@
 
 ## Geography
 
-- **Location**: Central East Yanorra, bordered by the Virelich Ocean to the west, with maritime trade routes connecting to Duvessa via the Riftlands. Neighboring nations include Bibi Shirif to the north and the Three Sisters (Totoku, Endotoku, Obetoku) to the south.  
+- **Location**: Central East Yanorra, bordered by the Valka Ocean to the west, with maritime trade routes connecting to Duvessa via the Riftlands. Neighboring nations include Bibi Shirif to the north and the Three Sisters (Totoku, Endotoku, Obetoku) to the south.  
 - **Terrain**: Fertile plains and river valleys ideal for agriculture, with coastal regions fortified for trade and defense. The western coast is lined with cliffs and mountains, providing natural barriers against invasions.
 - **Key Regions**:  
   - **Gate Thaurin**: The capital and primary port, a heavily fortified coastal city controlling access to Velu’s agricultural exports.  
   - **Inland Plains**: Expansive farmlands producing grains, vegetables, and livestock, critical for trade with Duvessa and other East Yanorra nations.  
-- **Climate**: Post-Drift climate with short, hot summers and cold, wet winters. Fertile soils benefit from seasonal rains, though storms from the Virelich Ocean occasionally disrupt coastal trade.
+- **Climate**: Post-Drift climate with short, hot summers and cold, wet winters. Fertile soils benefit from seasonal rains, though storms from the Valka Ocean occasionally disrupt coastal trade.
 
 ## History
 
@@ -52,7 +52,7 @@ Velu remains East Yanorra’s agricultural powerhouse, exporting food to Duvessa
 
 Velu stays neutral in Duvessa’s civil war, though its reliance on the Riftlands keeps it entangled in regional dynamics. The Anqaran people, now split between Velu’s coastal cliffs and Reddelstone, maintain their distinct rituals -- such as solstice harvest festivals -- despite ongoing debates about their Anqharan origins and Erik the Explorer’s voyages, which remain unprovable due to the unnavigable Eastvoid Ocean.
 
-Velu has advanced its communication technology, developing a cable-phone system capable of transmitting data across the Virelich Ocean, enabling near-instant contact with Duvessa, Bibi Shirif, and the Three Sisters. Packet radio and shortwave relays connect Velu’s rural farming communities, improving internal coordination. These technologies, shared with other East Yanorra nations, have strengthened regional networks despite post-Drift infrastructure challenges. H
+Velu has advanced its communication technology, developing a cable-phone system capable of transmitting data across the Valka Ocean, enabling near-instant contact with Duvessa, Bibi Shirif, and the Three Sisters. Packet radio and shortwave relays connect Velu’s rural farming communities, improving internal coordination. These technologies, shared with other East Yanorra nations, have strengthened regional networks despite post-Drift infrastructure challenges. H
 
 owever, Velu’s insular policies and dependence on Duvessa’s trade routes continue to fuel diplomatic friction, while the Anqaran cultural legacy endures as a point of pride and contention.
 
@@ -73,7 +73,7 @@ owever, Velu’s insular policies and dependence on Duvessa’s trade routes con
 - **Trade Hubs**:  
   - **Gate Thaurin**: Fortified port city, controlling all maritime trade and immigration.  
   - **Riftlands (via Duvessa)**: Key stopover for Velu’s exports to reach West Yanorra and other East Yanorra nations.  
-- **Challenges**: Dependence on Duvessa’s maritime routes, vulnerability to Virelich Ocean storms, and black-market smuggling driven by regional food shortages.
+- **Challenges**: Dependence on Duvessa’s maritime routes, vulnerability to Valka Ocean storms, and black-market smuggling driven by regional food shortages.
 
 ## Culture
 
@@ -107,7 +107,7 @@ owever, Velu’s insular policies and dependence on Duvessa’s trade routes con
 
 ## Environment
 
-- **Post-Drift Effects**: Seasonal rains support agriculture, but coastal storms from the Virelich Ocean disrupt trade. Short summers and cold, wet winters.  
+- **Post-Drift Effects**: Seasonal rains support agriculture, but coastal storms from the Valka Ocean disrupt trade. Short summers and cold, wet winters.  
 - **Natural Resources**: Fertile soils, rivers for irrigation, and livestock. Limited non-agricultural resources.
 
 ## Notable Events

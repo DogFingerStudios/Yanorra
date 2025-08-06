@@ -2,7 +2,7 @@
 
 **Velu** is a prominent agricultural nation located in East Yanorra, known for its fertile lands and strict immigration policies. Positioned as a critical trade partner for Duvessa, Velu plays a significant role in the post-Drift economy, supplying agricultural goods across the Valka Ocean.
 
-<a href="../Maps/Duvessa.png" target="_blank"><img src="../Maps/Velu.png" width="50%" height="50%"></a>
+<a href="../Maps/Velu.png" target="_blank"><img src="../Maps/Velu.png" width="50%" height="50%"></a>
 
 ## Overview
 

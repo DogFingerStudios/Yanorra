@@ -69,7 +69,7 @@ West Yanorra is the western most continent in the known world of Yanorra. It is 
 | [Bibi Shirif](./Bibi_Shirif.md)    | 220,000 sq km     | ~1.5 million   | Zayn al-Qamar   | Wanorra |
 | [Duvessa](./Duvessa.md)            | 310,000 sq km     | ~800,000       | Côte du Soleil  | Wanorra |
 | [Endotoku](./Endotoku.md)          | 180,000 sq km     | ~300,000       | Ornerston       | Wanorra |
-| [Hav](./Hav.md)                    | 500,000 sq km     | ~50,000        | Flord-Clif      | Dudbinia |
+| [Hav](./Hav.md)                    | 500,000 sq km     | ~50,000        | Flord-Clif      | Sounorra |
 | [Obetoku](./Obetoku.md)            | 120,000 sq km     | ~700,000       | Sanceibei       | Wanorra |
 | [Ronobetu](./Ronobetu.md)          | 350,000 sq km     | ~1.9 million   | Cam Tower       | Eanorra |
 | [S'Tsutodo](./S_Tsutodo.md)        | 200,000 sq km     | ~700,000       | Dima Eta        | Eanorra |

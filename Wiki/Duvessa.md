@@ -20,6 +20,7 @@
 ## Geography
 
 **Location**: Northern coast of Eanorra (the eastern coast of West Yanorra), bordering the Valka Ocean to the east, the Westvoid Ocean to the north, and the Brooding Sea in the west, separating it from western Wanorra nations like Ronobetu and Tsutodo.  
+
 **Terrain**: Rocky and inhospitable northern coast; mountainous southern border adjacent to Southmoa and Bibi Shirif; fertile coastal plains around Port Sable.  
 - **Provinces**:  
   - **Normoa**: Capital - Port Moa (~80,000), acquired after the Duvessa-Moa War (~100,000 cycles ago, ~274 Earth years). Known for rugged terrain and harsh winters.  

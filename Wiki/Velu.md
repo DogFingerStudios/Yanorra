@@ -1,5 +1,12 @@
 # Velu
 
+#### Table of Contents
+- [Overview](#overview)
+- [Geography](#geography)
+- [History](#history)
+- [Technology](#technology)
+- [Notable Events](#notable-events)
+
 **Velu** is a prominent agricultural nation located in East Yanorra, known for its fertile lands and strict immigration policies. Positioned as a critical trade partner for Duvessa, Velu plays a significant role in the post-Drift economy, supplying agricultural goods across the Valka Ocean.
 
 <a href="../Maps/Velu.png" target="_blank"><img src="../Maps/Velu.png" width="50%" height="50%"></a>
@@ -110,7 +117,7 @@ Velu has advanced its communication technology, developing a cable-phone system 
 - **Post-Drift Effects**: Seasonal rains support agriculture, but coastal storms from the Valka Ocean disrupt trade. Short summers and cold, wet winters.  
 - **Natural Resources**: Fertile soils, rivers for irrigation, and livestock. Limited non-agricultural resources.
 
-## Notable Events
+## Notable Events {#notable-events}
 
 - **The Drift (~146,100 cycles ago, ~400 Earth years)**: Disrupted trade with Ronobetu, forcing reliance on Duvessa’s Riftlands route.  
 - **Velu’s Immigration Policy Shift (Post-Drift)**: Implementation of strict controls to protect agricultural resources, centered at Gate Thaurin.

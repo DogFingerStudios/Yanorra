@@ -1,4 +1,6 @@
-# S'Tsutodo
+# Endotoku
+
+- Capital: Totoku (population: ~600,000)
 
 #### Table of Contents
 - [Overview](#overview)
@@ -15,16 +17,16 @@
 - [Environment](#environment)
 - [Notable Events](#notable-events)
 
-**Tsutodo** is a nation.
+**Endotoku** is a landloced mountainous country located in southern Eanorra. It is one of the three nations collectively known as the **Three Sisters** (Totoku, Obetoku, and Endotoku).
 
-<a href="../Maps/Tsutodo.png" target="_blank"><img src="../Maps/Tsutodo.png" width="50%" height="50%"></a>
+<a href="../Maps/Totuku.png" target="_blank"><img src="../Maps/Totuku.png" width="50%" height="50%"></a>
 
 ## Overview
 
-- **Name**: S'Tsutodo  
-- **Capital**: Dima Eta (population: ~700,000)
+- **Name**: Endotoku  
+- **Capital**: TBD (population: TBD)
 - **Largest City**: (TBD)
-- **Area**: (TBD) km² ((TBD) sq mi)
+- **Area**: (TBD) km² (15,000 sq mi)
 - **Government**: (TBD)
 - **Official Language**: (TBD)  
 - **Population**: (TBD) (estimated)  
@@ -32,10 +34,6 @@
 - **Religion**: (TBD)  
 
 ## Geography
-
-- Located in the southern part of West Yanorra.
-- Borders the Brooding Sea to the south Ronobetu to the west.
-- Known for its rugged terrain, dense forests, and mountainous regions.
 
 ### Location
 

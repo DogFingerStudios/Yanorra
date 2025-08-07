@@ -15,7 +15,7 @@
 - [Environment](#environment)
 - [Notable Events](#notable-events)
 
-**Obetoku** is a mostly coastal country located in Eanorra, known for its beautiful beaches and rich marine life. It is one of the three nations known as the "Three Sisters" (along with Totoku and Endotokuy).
+**Obetoku** is a mostly coastal country located in Eanorra, known for its beautiful beaches and rich marine life. It is one of the three nations known as the "Three Sisters" (along with Totoku and Endotoku).
 
 <a href="../Maps/Obetoku.png" target="_blank"><img src="../Maps/Obetoku.png" width="50%" height="50%"></a>
 

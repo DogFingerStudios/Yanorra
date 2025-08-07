@@ -26,7 +26,7 @@ Yanorra has two satellites. Their competing gravitation has made sea travel diff
 
 # Geography
 
-The known world consists of two main continents: **East Yanorra** and **West Yanorra**, separated by the **Valka Ocean**. Each continent contains several nations and loosely organized regions.
+The known world consists of two main continents: **East Yanorra** and **West Yanorra**, separated by the **Veloku Ocean**. Each continent contains several nations and loosely organized regions.
 
 ## Historical Context
 
@@ -96,7 +96,7 @@ In the modern era, the three nations share culture and language, as well as reso
 - Believed to hold relics, knowledge, or salvation.
 - No confirmed sightings.
 
-## Valka Ocean
+## Veloku Ocean
 - Large ocean separating East Yanorra (Velu) from West Yanorra (Duvessa).
 - Ships have not been able to navigate it since The Drift.
 - Travel from West Yanorra to East Yanorra now requires a stop in the Riftlands.

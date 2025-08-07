@@ -19,12 +19,12 @@
 
 ## Geography
 
-**Location**: Northern coast of Eanorra (the eastern coast of West Yanorra), bordering the Valka Ocean to the east, the Westvoid Ocean to the north, and the Brooding Sea in the west, separating it from western Wanorra nations like Ronobetu and Tsutodo.  
+**Location**: Northern coast of Eanorra (the eastern coast of West Yanorra), bordering the Veloku Ocean to the east, the Westvoid Ocean to the north, and the Brooding Sea in the west, separating it from western Wanorra nations like Ronobetu and Tsutodo.  
 
 **Terrain**: Rocky and inhospitable northern coast; mountainous southern border adjacent to Southmoa and Bibi Shirif; fertile coastal plains around Port Sable.  
 - **Provinces**:  
   - **Normoa**: Capital - Port Moa (~80,000), acquired after the Duvessa-Moa War (~100,000 cycles ago, ~274 Earth years). Known for rugged terrain and harsh winters.  
-  - **Kutboga**: Capital - Fort 32 (population ~60K), borders Thornbelt, the Brooding Sea, and the Valka Ocean. 
+  - **Kutboga**: Capital - Fort 32 (population ~60K), borders Thornbelt, the Brooding Sea, and the Veloku Ocean. 
 - **Key Islands**:  
   - **The Riftlands**: A chain of islands northeast of Duvessa, serving as a maritime rest stop for trade with Velu. Includes Sable Island (Sabletown port), Saint Armandre, Iskay, Morn’e, Yana Wat’a, Aguillon, Quelvasto, and Sopoko.  
   - **The Farlands**: Northern islands, including Saint Aveline (partially inhabited, under siege), Port Veiskar, and Karrholm.  
@@ -39,7 +39,7 @@ Before The Drift, Duvessa was a maritime powerhouse, dominating the Brooding Sea
 
 As a key hub in Eanorra, the eastern region of West Yanorra, Duvessa connected the fertile plains of Ronobetu in Wanorra (the western part of West Yanorra, including Ronobetu) to Eanorra’s nations, like Bibi Shirif, and the Three Sisters (Totoku, Endotoku, Obetoku) across the Brooding Sea. In the west of Duvessa, cities such as Fort 32 and Fort Gotoku thrived.
 
-In the east, Duvessa established multiple trade routes with Velu. Port Sable and Cöte du Soleil became major trade hubs as innovative ship designs enabled reliable crossings of the Valka Ocean to Velu. This fostered a prosperous, cosmopolitan society with sun-venerating rituals and communal gatherings.
+In the east, Duvessa established multiple trade routes with Velu. Port Sable and Cöte du Soleil became major trade hubs as innovative ship designs enabled reliable crossings of the Veloku Ocean to Velu. This fostered a prosperous, cosmopolitan society with sun-venerating rituals and communal gatherings.
 
 Before The Drift, Duvessa had established itself as a key player in regional trade to its west and east. The society was cosmopolitan, with sun-venerating rituals and communal gatherings.
 

@@ -7,7 +7,7 @@
 - [Technology](#technology)
 - [Notable Events](#notable-events)
 
-**Velu** is a prominent agricultural nation located in East Yanorra, known for its fertile lands and strict immigration policies. Positioned as a critical trade partner for Duvessa, Velu plays a significant role in the post-Drift economy, supplying agricultural goods across the Valka Ocean.
+**Velu** is a prominent agricultural nation located in East Yanorra, known for its fertile lands and strict immigration policies. Positioned as a critical trade partner for Duvessa, Velu plays a significant role in the post-Drift economy, supplying agricultural goods across the Veloku Ocean.
 
 <a href="../Maps/Velu.png" target="_blank"><img src="../Maps/Velu.png" width="50%" height="50%"></a>
 
@@ -26,7 +26,7 @@
 
 ### Location
 
-Velu is located in the northern half of East Yanorra, bordered by the Valka Ocean to the west, with maritime trade routes in the north connecting to Duvessa via the Riftlands. To the south lie sparsely populated and unclaimed lands, while the eastern coast faces the Eastvoid Ocean.
+Velu is located in the northern half of East Yanorra, bordered by the Veloku Ocean to the west, with maritime trade routes in the north connecting to Duvessa via the Riftlands. To the south lie sparsely populated and unclaimed lands, while the eastern coast faces the Eastvoid Ocean.
 
 ### Terrain 
 
@@ -40,7 +40,7 @@ Velu is located in the northern half of East Yanorra, bordered by the Valka Ocea
 
 ## Climate
 
- Post-Drift climate with short, hot summers and cold, wet winters. Fertile soils benefit from seasonal rains, though storms from the Valka Ocean occasionally disrupt coastal trade.
+ Post-Drift climate with short, hot summers and cold, wet winters. Fertile soils benefit from seasonal rains, though storms from the Veloku Ocean occasionally disrupt coastal trade.
 
 ## History
 
@@ -52,7 +52,7 @@ Shortly before The Drift, Erik the Explorer, a legendary Velu navigator, claimed
 
 ### The Drift (~146,100 cycles ago, ~400 Earth years)
 
-The Drift rendered the Valka Ocean unnavigable and severed Velu’s direct trade routes with most points in West Yanorra. The Eastvoid Ocean, already treacherous, became inaccessible no more than a few miles offshore, casting further doubt on Erik’s Anqhara voyages. 
+The Drift rendered the Veloku Ocean unnavigable and severed Velu’s direct trade routes with most points in West Yanorra. The Eastvoid Ocean, already treacherous, became inaccessible no more than a few miles offshore, casting further doubt on Erik’s Anqhara voyages. 
 
 Velu’s agricultural surplus, critical for West Yanorra, was rerouted through Duvessa’s Riftlands, a chain of islands that became the sole maritime trade conduit. The Anqaran people, still influential in Velu’s agriculture, helped adapt farming practices to the disrupted climate, while Velu’s economy grew increasingly dependent on Duvessa’s trade infrastructure.
 
@@ -72,7 +72,7 @@ Velu remains East Yanorra’s agricultural and economic powerhouse, exporting fo
 
 Velu stays neutral in Duvessa’s civil war, though its reliance on The Riftlands keeps it entangled in regional dynamics. The Anqaran people, now split between Velu’s coastal cliffs and Reddelstone, maintain their distinct rituals -- such as solstice harvest festivals -- despite ongoing debates about their Anqharan origins and Erik the Explorer’s voyages, which remain unprovable due to the unnavigable Eastvoid Ocean.
 
-Velu has advanced its communication technology, developing a cable-phone system capable of transmitting data across the Valka Ocean, enabling near-instant contact with Duvessa, Bibi Shirif, and the Three Sisters. Packet radio and shortwave relays connect Velu’s rural farming communities, improving internal coordination. These technologies, shared with other East Yanorra nations, have strengthened regional networks despite post-Drift infrastructure challenges.
+Velu has advanced its communication technology, developing a cable-phone system capable of transmitting data across the Veloku Ocean, enabling near-instant contact with Duvessa, Bibi Shirif, and the Three Sisters. Packet radio and shortwave relays connect Velu’s rural farming communities, improving internal coordination. These technologies, shared with other East Yanorra nations, have strengthened regional networks despite post-Drift infrastructure challenges.
 
 ## Politics
 
@@ -91,7 +91,7 @@ Velu has advanced its communication technology, developing a cable-phone system 
 - **Trade Hubs**:  
   - **Gate Thaurin**: Fortified port city, controlling all maritime trade and immigration.  
   - **Riftlands (via Duvessa)**: Key stopover for Velu’s exports to reach West Yanorra and other East Yanorra nations.  
-- **Challenges**: Dependence on Duvessa’s maritime routes, vulnerability to Valka Ocean storms, and black-market smuggling driven by regional food shortages.
+- **Challenges**: Dependence on Duvessa’s maritime routes, vulnerability to Veloku Ocean storms, and black-market smuggling driven by regional food shortages.
 
 ## Culture
 
@@ -125,7 +125,7 @@ Velu has advanced its communication technology, developing a cable-phone system 
 
 ## Environment
 
-- **Post-Drift Effects**: Seasonal rains support agriculture, but coastal storms from the Valka Ocean disrupt trade. Short summers and cold, wet winters.  
+- **Post-Drift Effects**: Seasonal rains support agriculture, but coastal storms from the Veloku Ocean disrupt trade. Short summers and cold, wet winters.  
 - **Natural Resources**: Fertile soils, rivers for irrigation, and livestock. Limited non-agricultural resources.
 
 ## Notable Events {#notable-events}

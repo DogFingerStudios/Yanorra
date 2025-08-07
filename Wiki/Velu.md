@@ -24,12 +24,23 @@
 
 ## Geography
 
-- **Location**: Central East Yanorra, bordered by the Valka Ocean to the west, with maritime trade routes connecting to Duvessa via the Riftlands. Neighboring nations include Bibi Shirif to the north and the Three Sisters (Totoku, Endotoku, Obetoku) to the south.  
-- **Terrain**: Fertile plains and river valleys ideal for agriculture, with coastal regions fortified for trade and defense. The western coast is lined with cliffs and mountains, providing natural barriers against invasions.
-- **Key Regions**:  
-  - **Gate Thaurin**: The capital and primary port, a heavily fortified coastal city controlling access to Velu’s agricultural exports.  
-  - **Inland Plains**: Expansive farmlands producing grains, vegetables, and livestock, critical for trade with Duvessa and other East Yanorra nations.  
-- **Climate**: Post-Drift climate with short, hot summers and cold, wet winters. Fertile soils benefit from seasonal rains, though storms from the Valka Ocean occasionally disrupt coastal trade.
+### Location
+
+Velu is located in the northern half of East Yanorra, bordered by the Valka Ocean to the west, with maritime trade routes in the north connecting to Duvessa via the Riftlands. To the south lie sparsely populated and unclaimed lands, while the eastern coast faces the Eastvoid Ocean.
+
+### Terrain 
+
+ Fertile plains and river valleys ideal for agriculture, with mountainous coastal regions fortified for trade and defense. The western coast is lined with cliffs and mountains, providing natural barriers against invasions.
+
+
+### Key Regions
+
+- **Gate Thaurin** The capital and primary port, a heavily fortified coastal city controlling access to Velu’s agricultural exports.  
+- **Inland Plains**: Expansive farmlands producing grains, vegetables, and livestock, critical for trade with Duvessa and other East Yanorra nations.  
+
+## Climate
+
+ Post-Drift climate with short, hot summers and cold, wet winters. Fertile soils benefit from seasonal rains, though storms from the Valka Ocean occasionally disrupt coastal trade.
 
 ## History
 

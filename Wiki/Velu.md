@@ -62,7 +62,7 @@ Velu solidified its agricultural dominance by fortifying Gate Thaurin, transform
 
 The Anqaran people, marginalized by Velu’s centralized policies, were displaced from the fertile plains to the rugged mountains and coastal cliffs. There, they formed insular communities, preserving their unique agricultural techniques and rituals, blending Anqharan traditions with Velu’s culture.
 
-Around 80 centara (~220 Earth years) after The Drift, the Anqaran declared independence, establishing Reddelstone, a small nation in the mountains near near the now mostly empty Velu city of Big Bay. Velu’s government, prioritizing agricultural exports, largely ignored Reddelstone, allowing it to develop as an independent, self-sufficient enclave. Velu adopted Anqaran techniques, such as terraced farming and seed preservation, to enhance its output, maintaining its role as a key food supplier to Duvessa, Bibi Shirif, and the Three Sisters. 
+About 800 centara (~220 Earth years) after The Drift, the Anqaran people declared independence, establishing Reddelstone, a small nation in the mountains near near the now mostly empty Velu city of Big Bay. Velu’s government, prioritizing agricultural exports, largely ignored Reddelstone, allowing it to develop as an independent, self-sufficient enclave. Velu adopted Anqaran techniques, such as terraced farming and seed preservation, to enhance its output, maintaining its role as a key food supplier to Duvessa, Bibi Shirif, and the Three Sisters. 
 
 Tensions with Duvessa grew due to Duvessa's control over the Riftlands trade route, fostering resentment among Velu’s leaders and the Anqaran diaspora.
 

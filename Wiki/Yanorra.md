@@ -24,6 +24,10 @@ Yanorra has two satellites. Their competing gravitation has made sea travel diff
 * **Serya** – Larger moon, stable, linked to timekeeping and tradition.
 * **Mirelda** – Smaller, erratic moon associated with misfortune and tidal chaos.
 
+## Local Star
+
+Yanorra orbits a single star called the **Ember Mother** which has a slight red hue. The Ember Mother has remained stable since The Drift. 
+
 # Geography
 
 The known world consists of two main continents: **East Yanorra** and **West Yanorra**, separated by the **Veloku Ocean**. Each continent contains several nations and loosely organized regions.
@@ -43,8 +47,9 @@ Since The Drift, several attempts to cross the Eastvoid Ocean in search of Aunqa
 
 ### List of States and Territories in East Yanorra
 
-| Name                              | Area (approx.)    | Population     | Capital         |
+| Name                               | Area (approx.)    | Population     | Capital         |
 |------------------------------------|-------------------|----------------|-----------------|
+| [Barrel](./Barrel.md)              | 41,000 sq km      | (TBD)          | Seshai          |
 | [Reddelstone](./Reddelstone.md)    | 150,000 sq km     | ~300,000       | Paz             |
 | [Velu](./Velu.md)                  | 200,000 sq km     | ~500,000       | Byad            |
 
@@ -106,13 +111,16 @@ In the modern era, the three nations share culture and language, as well as reso
 
 ## Westvoid Ocean
 
+(TBD)
+
 # Calendar System (Post-Drift)
+
 - Time is measured in planetary rotations ("cycles").
 - Traditional years are no longer used. Instead, time is logged in:
-  - **1 day** = 1 cycle
-  - **1 decara** = 10 cycles
-  - **1 centara** = 1,000 cycles (100 decara)
-  - **1 milarna** = 1,000 centara = 1,000,000 cycles
+    - 1 cycle   = day
+    - 1 decara  = 10 cycles
+    - 1 centara = 100 cycles
+    - 1 milarna = 1,000 cycles
 - Dates are recorded in the format: **centara.decara.day**  
   Example: `142.22.8` = 142,228 days since The Drift
 - The current date is approximately `146.10.0` (146,100 days since The Drift)

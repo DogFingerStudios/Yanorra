@@ -80,21 +80,21 @@ The loss reshaped the nation’s culture. Songs, festivals, and seafaring tradit
 
 ### The Barrel Island
 
-The Barrel Islands is an archipelago located in the southern Veloku Ocean, roughly halfway between East Yanorra and West Yanorra, that served as a vital resupply point for maritime trade before The Drift.
+The Barrel Islands are an archipelago located in the southern Veloku Ocean, roughly halfway between East Yanorra and West Yanorra, that once served as a vital resupply point for maritime trade before The Drift.
 
 When The Drift disrupted Yanorra’s orbit and climate, the Veloku Ocean was transformed almost overnight. Warm currents vanished, replaced by chaotic, colliding flows; entire weather systems shifted unpredictably; and storms of unprecedented violence swept the open waters.
 
-The Barrel Islands, once a bustling midpoint of civilization, suddenly became inaccessible to the trade network as all known routes became impassable. Survivors from failed voyages spoke of towering rogue waves, or skies that blackened in minutes before crushing winds shattered their masts.
+The Barrel Islands, once a bustling midpoint of civilization, suddenly became inaccessible to the trade network as all known routes turned impassable. Survivors from failed voyages spoke of towering rogue waves, or skies that blackened in minutes before crushing winds tore masts to splinters.
 
-The islands quickly became a legend — their harbors, settlements, and people swallowed by the unreachable horizon.
+The islands quickly became legend — their harbors, settlements, and people swallowed by the unreachable horizon. 
 
-Every year, on the same cycle, Barrel holds the **Voyage of Remembrance**.
+This began a tradition known as the **Voyage of Remembrance**. 
 
-A single stout vessel is prepared over many decara — its hull reinforced, its sails sewn with hand-dyed cloth, its figurehead carved anew each year. Volunteers — often descendants of families who once lived on the islands — load it with supplies, livestock, crafted gifts, and handwritten letters.
+Every year on the same day, known as **Island Day**, a single stout vessel is prepared over many decara — its hull reinforced, its sails sewn with hand-dyed cloth, and its figurehead carved anew each year. Volunteers, often descendants of families who once lived on the islands, load it with supplies, livestock, crafted gifts, and handwritten letters.
 
-The ship departs at dawn amid ceremonies, the docks crowded with thousands of onlookers. Bells toll, horns sound, and flower petals are scattered on the waves as the vessel slips into the southern horizon.
+The ship departs at dawn amid ceremonies, the docks crowded with thousands of onlookers. Bells toll, horns sound, and flower petals are scattered on the waves as the vessel slips into the southern horizon. No ship has ever returned. 
 
-No ship has ever returned. Other voyages from somewhat nearby nations such as Samerland and Bibi Shirif have been attempted, but all have ended in failure. 
+Voyages from other nations, such as Samerland and Bibi Shirif, have also been attempted, but all ended in failure. The only anomaly came decades ago, when the remains of a small fishing boat washed ashore near Seshai, its hull shattered but its mast still intact — carved in a style unrecognized by any shipbuilder in Barrel or beyond.
 
 Some claim this is proof the islanders still live, taking in the voyagers but forbidding their return. Others believe the expeditions are swallowed by the ocean. 
 

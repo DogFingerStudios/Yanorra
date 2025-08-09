@@ -55,7 +55,7 @@ These changes lead to widespread famine and unrest in Duvessa, with the Dornish 
 
 ### Duvessa-Moa War
 
-Twenty years (~73 centara) after The Drift, the Dornish Order (DO) faced a significant challenge from the rival nation of Moa. Moa attempted to seize Duvessa’s northern territory bordering the Thornbelt land-bridge, igniting the Duvessa-Moa War.
+Approximately 73 centara (~20 years) after The Drift, the Dornish Order (DO) faced a significant challenge from the rival nation of Moa. Moa attempted to seize Duvessa’s northern territory bordering the Thornbelt land-bridge, igniting the Duvessa-Moa War.
 
 Duvessa not only successfully repelled the invasion, but was able to seize Moa's northern territory, including the coastal city of Port Moa. This victory allowed Duvessa to annex Normoa, a rugged and insular region with a population of around 80,000, while Soumoa remained an independent remnant of the former Moa.
 
@@ -89,7 +89,7 @@ Duvessa remains locked in a civil war between the DO and the Sombra Insurgents, 
 
 ## Culture
 
-- **Cultural Influences**: A fusion of Qheswa (native) traditions and colonial (French-like) elements, seen in architecture, language, and religious practices.  
+- **Cultural Influences**:
 - **Religion**:  
   - **Inti-Tahuantinsuyo**: DO-enforced sun worship, blending Quechua rituals with militaristic traditions. Propaganda posters proclaim slogans like “One Sun, One People, One Order!”  
   - **Yana-Pacha**: Sombra Insurgent ideology, emphasizing rebellion against the DO’s sun worship, with the motto “Pour Yana-Pacha—mort à l’Inti!”  

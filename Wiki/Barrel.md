@@ -35,7 +35,15 @@
 
 Barrel is a nation located in East Yanorra. It is bordered by Velu to the east, and the Veloku Ocean to the west. The shores of barrel are flat and fertile land, with the interior being very mountainous and rugged. 
 
-### The Barrel Islands
+### Key Regions
+
+#### Sashai
+
+#### Brater Lake
+
+Brater Lake is a large freshwater lake located in the interior of Barrel. It is surrounded by steep mountains and dense forests, making it a secluded and picturesque area. On its shore is the town of Brater, which serves as a fishing port for the region. The lake is known for its crystal-clear waters and abundant fish population.
+
+#### The Barrel Islands
 
 The Barrel islands are a large archipelago located roughly halfway between East Yanorra and West Yanorra in the southern Veloku Ocean. The islands were characterized by steep cliffs and lush forests. In total there were over 100 islands, with the largest being about 150 km in length
 

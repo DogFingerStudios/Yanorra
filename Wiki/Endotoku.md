@@ -1,5 +1,7 @@
 # Endotoku
 
+<span y-type="mapelement" y-zoom="5" y-center="-10.66, -40.85" y-minzoom="2" y-scrollwheelzoom="true" y-debug="true"/>
+
 - Capital: Totoku (population: ~600,000)
 
 #### Table of Contents

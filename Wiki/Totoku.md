@@ -1,5 +1,7 @@
 # Totoku
 
+<span y-type="mapelement" y-zoom="5" y-center="-13.80, -38.91" y-minzoom="2" y-scrollwheelzoom="true" y-debug="true"/>
+
 - Capital: Totoku (population: ~600,000)
 
 #### Table of Contents

@@ -1,5 +1,7 @@
 # Ronobetu
 
+<span y-type="mapelement" y-zoom="4" y-center="-4.09, -63.15" y-minzoom="2" y-scrollwheelzoom="true" y-debug="true"/>
+
 #### Table of Contents
 - [Overview](#overview)
 - [Geography](#geography)

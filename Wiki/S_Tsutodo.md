@@ -1,5 +1,7 @@
 # S'Tsutodo
 
+<span y-type="mapelement" y-zoom="5" y-center="-13.91, -64.89" y-minzoom="2" y-scrollwheelzoom="true" y-debug="true"/>
+
 #### Table of Contents
 - [Overview](#overview)
 - [Geography](#geography)

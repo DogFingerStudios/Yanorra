@@ -1,5 +1,7 @@
 # The Three Sisters
 
+<span y-type="mapelement" y-zoom="5" y-center="-12.68, -41.13" y-minzoom="2" y-scrollwheelzoom="true" y-debug="true"/>
+
 **The Three Sisters** is a group of three closely linked nations located in the southern reaches of Eanorra. 
 
 ## Overview

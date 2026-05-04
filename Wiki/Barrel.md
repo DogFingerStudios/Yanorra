@@ -1,5 +1,7 @@
 # Barrel
 
+<span y-type="mapelement" y-zoom="4" y-center="-2.99, 25.62" y-minzoom="2" y-scrollwheelzoom="true" y-debug="true"/>
+
 ## Table of Contents
 
 - [Overview](#overview)

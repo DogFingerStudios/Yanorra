@@ -1,5 +1,7 @@
 # Obetoku
 
+<span y-type="mapelement" y-zoom="5" y-center="-11.73, -43.13" y-minzoom="2" y-scrollwheelzoom="true" y-debug="true"/>
+
 #### Table of Contents
 - [Overview](#overview)
 - [Geography](#geography)

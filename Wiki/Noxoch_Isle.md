@@ -1,5 +1,7 @@
 # **Noxoch Isle**
 
+<span y-type="mapelement" y-zoom="7" y-center="38.86, -5.47" y-minzoom="2" y-scrollwheelzoom="true" />
+
 **Noxoch Isle** is a remote landmass located north of Saint Aveline and beyond the established boundaries of the Farlands. Its existence is widely accepted, though its current condition, habitability, and accessibility remain unresolved.
 
 The isle appears on several pre- and early post-Drift maritime charts, typically without detail and often annotated with warnings regarding unreliable currents and atmospheric disturbance. No verified surface survey of Noxoch Isle has been conducted in the last several centara.

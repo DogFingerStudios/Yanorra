@@ -12,6 +12,11 @@
 
 **Terrain**: The island is ringed by steep cliffs and difficult waters, with Alonah-Clif regarded as the only known safe point of entry. Even there, access is limited: the harbor settlement is enclosed by walls, and all passage into the inner island is strictly forbidden, whether by cliff, gate, or Alonah-built barriers.
 
+<figure style="max-width: 500px; margin: auto; text-align: center;">
+    <img src="../Images/Alonah_Cliffs1.png" alt="Alonah Cliffs" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 0.9em;">Alonah Cliffs showing the red lights notifying ships that landing is forbidden</figcaption>
+</figure>
+
 ---
 
 ## Climate and Environment
@@ -33,6 +38,11 @@ Its border practices, however, are unmistakable: the harbor is open to trade, bu
 The only confirmed settlement is **Alonah-Clif**, a fortified port town built into the island's outer approach. It serves as a provisioning stop, overnight harbor, and tightly supervised point of contact for passing crews.
 
 No reliable count exists for the island's total population. It is unknown how many Alonah live within the port itself and how many reside beyond the sealed interior.
+
+ <figure style="max-width: 500px; margin: auto; text-align: center;">
+  <img src="../Images/Alonah_Clif_Inn.png" alt="Alonah Clif Inn" style="width: 100%; height: auto;" />
+  <figcaption style="font-size: 0.9em;">A view of the harbor from the larger inn in Alonah-Clif</figcaption>
+</figure>
 
 ---
 

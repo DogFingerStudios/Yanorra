@@ -3,7 +3,7 @@
 ![](../Maps/SaintAveline-GlobeView.jpeg)
 ![](../Maps/SaintAveline-LocalizedView.png)
 
-<span y-type="mapelement" y-zoom="7" y-center="34.15, -5.25" y-minzoom="2" y-maxzoom="7" y-scrollwheelzoom="true" y-debug="true"/>
+<span y-type="mapelement" y-zoom="11" y-center="33.88, -5.48" y-minzoom="2" y-maxzoom="20" y-scrollwheelzoom="true" y-debug="true"/>
 
 **Saint Aveline** is a remote island settlement located in [The Farlands](./The_Farlands.md), far north of the primary trade routes between Duvessa and Velu. It is widely regarded as one of the most isolated inhabited places in the known world.
 

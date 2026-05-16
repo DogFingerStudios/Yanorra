@@ -1,6 +1,6 @@
 # Alonah
 
-<span y-type="mapelement" y-zoom="7" y-center="-19.68, -63.95" y-minzoom="2" y-scrollwheelzoom="true" y-debug="true"/>
+<span y-type="mapelement" y-zoom="10" y-center="-19.66, -64.57" y-minzoom="2" y-scrollwheelzoom="true" y-debug="true"/>
 
 **Alonah** is an island settlement region located roughly halfway between [Tsutodo](./Tsutodo.md) and [Hav](./Hav.md). Though little is known of the island's interior, it is recognized by sailors across the southern routes as the site of **Alonah-Clif**, a tightly controlled port stop opened after [The Drift](./The_Drift.md) to aid vessels crossing between Dima Eta in Tsutodo and Flord-Clif in Hav.
 

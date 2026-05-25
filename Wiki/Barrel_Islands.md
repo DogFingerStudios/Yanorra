@@ -1,6 +1,6 @@
 # Barrel Islands
 
-<span y-type="mapelement" y-zoom="4" y-center="-2.99, 25.62" y-minzoom="2" y-scrollwheelzoom="true" y-debug="true"/>
+<span y-type="mapelement" y-zoom="5" y-center="-28.00, -0.06" y-minzoom="2" y-scrollwheelzoom="true" y-debug="true"/>
 
 **The Barrel Islands** are a lost archipelago in the southern Veloku Ocean, remembered in records as lying roughly midway between the eastern and western reaches of Yanorra. Everything written about the islands in the current era is drawn from historical logs, survivor fragments, and pre-Drift charts.
 

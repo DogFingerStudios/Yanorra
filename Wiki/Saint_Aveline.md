@@ -1,3 +1,22 @@
+---
+id: saintaveline
+category: places
+subcategory: island
+
+title: Saint Aveline
+info_panel:
+
+    diplay_type: island
+    location: [The Farlands](./The_Farlands.md)
+    population: 500-1000
+    area: 15 sq mi
+    largest_settlement: [Saint Aveline](./Saint_Aveline.md)
+    nation: [Duvessa](./Duvessa.md)
+    government: Local Council under Duvessa's nominal jurisdiction
+    economy: Subsistence fishing, limited agriculture, scavenging, and repair work
+    religion: Localized spiritual practices with some influence from Duvessan traditions
+    tags: [island, remote, volcanic, settlement, Duvessa, The Farlands]
+---
 # Saint Aveline
 
 <span y-type="mapelement" y-zoom="11" y-center="33.88, -5.48" y-minzoom="2" y-maxzoom="20" y-scrollwheelzoom="true" y-debug="true"/>

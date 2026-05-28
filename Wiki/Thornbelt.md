@@ -1,3 +1,16 @@
+---
+id: nation_thornbelt
+title: Thornbelt
+type: nation
+category: places
+subcategory: nations
+region: Eanorra
+summary: A nation located in Eanorra, known for its rich history, cultural diversity, and vibrant markets.
+capital: Holt
+status: confirmed
+map_feature_id: nation_thornbelt
+show_in_indexes: true
+---
 # Thornbelt
 
 <link rel="stylesheet" href="../ai-generated.css">

@@ -1,3 +1,16 @@
+---
+id: nation_hav
+title: Hav
+type: nation
+category: places
+subcategory: nations
+region: Soumoa
+summary: A large, isolated and sparsely populated country located in Soumoa. Hav is only accessible by sea from southern Eanorra.
+capital: Flord-Clif
+status: confirmed
+map_feature_id: nation_hav
+show_in_indexes: true
+---
 # Hav
 
 <span y-type="mapelement" y-zoom="4" y-center="-31.03, -55.15" y-minzoom="2" y-maxzoom="7" y-scrollwheelzoom="true" y-debug="true"/>

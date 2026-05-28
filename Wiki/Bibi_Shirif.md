@@ -1,3 +1,16 @@
+---
+id: nation_bibishirif
+title: Bibi Shirif
+type: nation
+category: places
+subcategory: nations
+region: Eanorra
+summary: A nation located in Eanorra, known for its rich history, cultural diversity, and vibrant markets.
+capital: Zayn al-Qamar
+status: confirmed
+map_feature_id: nation_bibishirif
+show_in_indexes: true
+---
 # Bibi Shirif
 
 **Bibi Shirif** is a nation.

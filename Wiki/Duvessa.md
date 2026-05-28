@@ -1,3 +1,17 @@
+---
+id: nation_duvessa
+title: Duvessa
+type: nation
+category: places
+subcategory: nations
+region: West Yanorra
+summary: A major western power connected to the Riftlands trade route.
+capital: Côte du Soleil
+status: confirmed
+map_feature_id: nation_duvessa
+show_in_indexes: true
+---
+
 # Duvessa
 
 <span y-type="mapelement" y-zoom="4" y-center="20.13, -29.00" y-minzoom="2" y-maxzoom="7" y-scrollwheelzoom="true" y-debug="true"/>

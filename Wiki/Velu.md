@@ -1,3 +1,16 @@
+---
+id: nation_velu
+title: Velu
+type: nation
+category: places
+subcategory: nations
+region: East Yanorra
+summary: A nation located in East Yanorra, known for its rich history, cultural diversity, and vibrant markets.
+capital: Byad
+status: confirmed
+map_feature_id: nation_velu
+show_in_indexes: true
+---
 # Velu
 
 <span y-type="mapelement" y-zoom="4" y-center="16.13, 22.81" y-minzoom="2" y-maxzoom="7" y-scrollwheelzoom="true" y-debug="true"/>

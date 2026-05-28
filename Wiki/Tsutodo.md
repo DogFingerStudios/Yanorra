@@ -1,3 +1,16 @@
+---
+id: nation_tsutodo
+title: Tsutodo
+type: nation
+category: places
+subcategory: nations
+region: Wanorra
+summary: A nation located in Wanorra, known for its rich history, cultural diversity, and vibrant markets.
+capital: Cliford
+status: confirmed
+map_feature_id: nation_tsutodo
+show_in_indexes: true
+---
 # Tsutodo
 
 - Capital: Totoku (population: ~600,000

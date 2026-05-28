@@ -1,3 +1,16 @@
+---
+id: nation_ronobetu
+title: Ronobetu
+type: nation
+category: places
+subcategory: nations
+region: Wanorra
+summary: A nation located in Wanorra, known for its rich history, cultural diversity, and vibrant markets.
+capital: Cam Tower
+status: confirmed
+map_feature_id: nation_ronobetu
+show_in_indexes: true
+---
 # Ronobetu
 
 <span y-type="mapelement" y-zoom="4" y-center="-4.09, -63.15" y-minzoom="2" y-scrollwheelzoom="true" y-debug="true"/>

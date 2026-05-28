@@ -1,3 +1,16 @@
+---
+id: nation_samariland
+title: Samariland
+type: nation
+category: places
+subcategory: nations
+region: Dudbinia
+summary: A nation located in Dudbinia, known for its rich history, cultural diversity, and vibrant markets.
+capital: Thetbury
+status: confirmed
+map_feature_id: nation_stsutodo
+show_in_indexes: true
+---
 # Samariland
 
 <span y-type="mapelement" y-zoom="5" y-center="-22.79, -30.23" y-minzoom="2" y-scrollwheelzoom="true" y-debug="true"/>

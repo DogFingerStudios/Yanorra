@@ -13,7 +13,7 @@ show_in_indexes: true
 ---
 # Velu
 
-<span y-type="mapelement" y-zoom="4" y-center="16.13, 22.81" y-minzoom="2" y-maxzoom="7" y-scrollwheelzoom="true" y-debug="true"/>
+<span y-type="mapelement" y-zoom="3" y-center="10.90, 29.71" y-minzoom="2" y-maxzoom="7" y-scrollwheelzoom="true" y-debug="true"/>
 
 #### Table of Contents
 - [Overview](#overview)

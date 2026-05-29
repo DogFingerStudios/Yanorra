@@ -76,10 +76,6 @@ This ambiguity is one reason the movement persists despite prohibitions.
 
 The following entries are commonly cited by harbor offices, military notices, and witness testimony. Numbers vary by source.
 
-## 145.8.19 - Saltglass Strand (north of Saint Aveline)
-
-Estimated 63-90 walkers entered during a rare calm interval between storm fronts. Four returned by morning in severe hypothermic shock. No bodies were recovered from the remaining group.
-
 ## 145.10.03 - Hautspeej Massacre, Outer Duvessa coast
 
 A prohibited gathering dispersed under warning fire from local Dornish detachments. The front rank continued into surf while rear ranks broke formation. Reported losses: 11 confirmed dead, 27 missing, unknown number fled inland.
@@ -87,6 +83,10 @@ A prohibited gathering dispersed under warning fire from local Dornish detachmen
 ## 146.1.27 - Pride Rock's Landing, Saint Aveline
 
 Small procession (estimated 22-30). Witnesses reported near-total wind drop for the duration of the entry. Twelve participants re-emerged two cycles later and refused formal debrief.
+
+## 146.2.19 - The Walk of 300 (Spencer, S'Tsutodo)
+
+Estimated 300 walkers entered at dusk in organized formation based on witness reports. Over multiple days, authorities recovered 288 confirmed dead from the shoreline and sea, marking the largest single-Walk casualty count on record. Following this event, the S'Tsutodo government initiated a severe crackdown on cult activity, banning gatherings and increasing coastal patrols.
 
 ## 146.3.11 - Sablelight Beach, Saint Aveline
 

@@ -30,9 +30,7 @@ show_in_indexes: true
 - [Environment](#environment)
 - [Notable Events](#notable-events)
 
-**Tsutodo** is a nation.
-
-<a href="../Maps/Tsutodo.png" target="_blank"><img src="../Maps/Tsutodo.png" width="50%" height="50%"></a>
+**S'Tsutodo** is a nation.
 
 ## Overview
 

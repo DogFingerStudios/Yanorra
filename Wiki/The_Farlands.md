@@ -1,3 +1,9 @@
+---
+id: thefarlands
+title: The Farlands
+category: places
+subcategory: island
+---
 # The Farlands
 
 <span y-type="mapelement" y-zoom="6" y-center="32.08, -4.47" y-minzoom="2" y-maxzoom="7" y-scrollwheelzoom="true" y-debug="true"/>

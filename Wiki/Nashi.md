@@ -1,15 +1,3 @@
----
-id: nashi
-title: Nashi
-type: plant
-category: natural_world
-subcategory: plants
-region: East Yanorra
-summary: A valuable but dangerously invasive Anqaran crop used for food, medicine, cloth, ceremony, trade, and concentrated preparations; infamous for overrunning the Eastern Void.
-status: confirmed
-show_in_indexes: true
----------------------
-
 # Nashi
 
 **Nashi** is a highly valued agricultural plant of Anqaran origin, known equally for its usefulness and its danger. In controlled cultivation, it produces a dark, bitter-sweet flesh used in food, drink, medicine, ceremony, and trade. Its fibers and oils are also prized in several industries. In unmanaged soil, however, nashi spreads aggressively through root-runners and can overwhelm surrounding crops, native vegetation, roads, riverbanks, and even small settlements.
@@ -104,6 +92,11 @@ There are also spiritual interpretations. Some Anqaran sects teach that nashi te
 
 The **Nashi Fields of the Southern Void** are the vast unmanaged nashi lands of the Eastern Void, stretching through the eastern coastal belt of East Yanorra between the **Chatunkut Mountains** and the **Eastvoid Ocean**. Although older maps still show roads, settlements, wells, river crossings, survey markers, and named districts, much of the region is now functionally unusable.
 
+<figure style="max-width: 500px; margin: auto; text-align: center;">
+    <img src="../Images/Nashi1.png" alt="Nashi Fields" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 0.9em;">A caravan heading through the Nashi Fields south to Saple Town</figcaption>
+</figure>
+
 People west of the Chatunkut Mountains often describe the Southern Void with the phrase **“Only nashi.”** This is not entirely true. Edge villages still exist. Watch posts remain. Burn crews maintain defensive belts. A few farms survive behind trenches, salt lines, and constant cutting. Birds still appear near the coast, and insects return in wet seasons. But beyond the maintained borders, the phrase becomes true enough.
 
 The Nashi Fields are not a single field but an enormous living occupation. They cover old farms, cart roads, shrine grounds, abandoned villages, half-buried walls, and former grazing lands. Several settlements remain visible only as rooflines, bell towers, stone chimneys, or upper windows rising from the stalks. In some places, nashi has grown through houses and sealed them from within. In others, entire streets are said to remain beneath the green, intact but unreachable.
@@ -113,6 +106,11 @@ Many smaller rivers and lakes have been consumed. Shallow ponds disappear beneat
 The **Chatunkut Mountains** are the chief reason the Nashi Fields have not spread into the prosperous western regions of East Yanorra. The range forms a hard natural barrier, with steep slopes, colder elevations, rockier soils, and controlled passes that can be watched, salted, burned, and defended. Nations west of the mountains argue over trade, tariffs, and borders, but almost all agree on one matter: the Chatunkut barrier must hold.
 
 The northern end of the Nashi Fields near **Khn** is widely considered the front line of the nashi invasion. Khn sits between the eastern shoulder of the Chatunkuts and the coast, fortified less like a town than a wound that refuses to close. Its outer defenses include walls, brine ditches, burn belts, bell fences, metal noise lines, salt pumps, cutting crews, and strict travel laws. Children are kept away from the eastern gate. Dogs are trained not to cross the bells. Visitors are warned not to sleep beyond the wall, not to taste unlicensed nashi, not to burn blue-flaming growth, and not to follow lights in the fields.
+
+<figure style="max-width: 500px; margin: auto; text-align: center;">
+    <img src="../Images/Nashi2.png" alt="Nashi Burn Unit outside of Khn" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 0.9em;">A Nashi burn unit outside of Khn</figcaption>
+</figure>
 
 Many people believe that if nashi breaks through Khn and the northern passes, the rest of Yanorra will eventually follow. Scholars consider this fear exaggerated in its simplest form, since climate, soil, elevation, and containment practice all shape nashi growth. Yet few dismiss it entirely. The Southern Void proves that given enough neglect, greed, rain, disturbed soil, and time, nashi can turn mapped land into forbidden country.
 

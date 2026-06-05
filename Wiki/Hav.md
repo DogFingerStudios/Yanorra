@@ -68,7 +68,7 @@ The southern border of Hav is characterized by a large mountain range called the
 
 ## History
 
-### Pre-Drift Era (~500,000 cycles ago, ~1,369 Earth years)
+### Pre-Drift Era (~500,000 days ago, ~1,369 Earth years)
 
 Hav was a sparsely populated region, primarily inhabited by nomadic tribes who relied on hunting and gathering. As neighboring S'Tsutodo to north searched for alternative food sources, they discovered the fertile valleys of Hav. 
 
@@ -76,7 +76,7 @@ S'Tsutodo's expansion into Hav, however, caused conflict with the indigenous tri
 
 Two hundred years before The Drift, Hav officially became a protectorate of Ronobetu, which established trade routes and military outposts to secure its interests in the region. This led to increased stability and the development of Hav's agricultural practices, particularly in the fertile valleys.
 
-### The Drift (~146,100 cycles ago, ~400 Earth years)
+### The Drift (~146,100 days ago, ~400 Earth years)
 
 After The Drift, many states adopted isolationist policies to protect their resources and populations. Hav, cut off from Ronobetu due to the Brooding Sea's dangers, focused on self-sufficiency and local governance.
 
@@ -84,7 +84,7 @@ S'Tsutodo, desperate for food, attempted to reassert control over Hav, but the i
 
 Instead, Hav's leaders declared independence, establishing a loose confederation of tribes and settlements. This confederation quickly normalized trade with S'Tsutodo, exchanging agricultural goods for manufactured items and technology.
 
-### Post-Drift Era (~145,000–130,000 cycles ago, ~397–356 Earth years)
+### Post-Drift Era (~145,000–130,000 days ago, ~397–356 Earth years)
 
 After The Drift, Hav remained isolated and relied on subsistence farming. Around 145.400.0 (~300 years ago), iron deposits in the Iron Peaks were developed, first through small forges and later larger smelters. This marked the beginning of Hav’s industrial growth.
 
@@ -96,7 +96,7 @@ Industrialization also displaced many clans in the southern valleys, leading to 
 
 Hav’s economy was based on iron and coal exports, giving it influence in trade with S’Tsutodo and Ronobetu. 
 
-### Current Era (~146,100 cycles, ~400 Earth years since The Drift)
+### Current Era (~146,100 days, ~400 Earth years since The Drift)
 
 In the present day, Hav is defined by its iron industry. Mining in the Iron Peaks continues to be the country’s economic foundation, with ore processed in Flord-Clif and exported through Harbortown Yval. Coal remains the primary fuel source, though small power stations provide electricity to parts of the capital and surrounding towns.
 

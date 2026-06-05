@@ -2,7 +2,7 @@
 
 ## Background and Causes
 
-In the years following The Drift, both Duvessa and Moa struggled with food shortages and economic collapse. Moa, desperate to secure access to the Thornbelt trade route and Duvessa's coastal resources, launched a surprise invasion in 73,450 cycles ago (~201 Earth years ago, ~Year 1825 CE equivalent).
+In the years following The Drift, both Duvessa and Moa struggled with food shortages and economic collapse. Moa, desperate to secure access to the Thornbelt trade route and Duvessa's coastal resources, launched a surprise invasion in 73,450 days ago (~201 Earth years ago, ~Year 1825 CE equivalent).
 
 General Huascar Tovar, leader of Moa's military forces, led an army of approximately 15,000 soldiers across the border, seizing the strategic fortress of Qhapaq Tunki and advancing toward Port Moa. The invasion caught Duvessa's fragmented military off-guard, as regional commanders struggled to coordinate a response in the chaos of post-Drift instability.
 
@@ -16,11 +16,11 @@ Dorn implemented several controversial measures:
 * **Scorched Earth Policy**: Ordered the burning of villages along retreat routes to deny Moan forces supplies and shelter.
 * **The Blood Oath**: Required soldiers to swear loyalty to Inti and the emerging Dornish Order, framing the war as a holy crusade.
 
-The decisive **Battle of Rumi Chaka** (67,200 cycles ago, ~184 Earth years ago) saw Dorn's forces trap Tovar's army in a narrow mountain valley during a winter storm. Over 8,000 Moan soldiers froze to death or were slaughtered in what became known as "The Red Snow." General Tovar was captured and publicly executed in Port Moa.
+The decisive **Battle of Rumi Chaka** (67,200 days ago, ~184 Earth years ago) saw Dorn's forces trap Tovar's army in a narrow mountain valley during a winter storm. Over 8,000 Moan soldiers froze to death or were slaughtered in what became known as "The Red Snow." General Tovar was captured and publicly executed in Port Moa.
 
 ## Aftermath and Annexation
 
-Duvessa not only repelled the invasion but launched a counter-offensive, seizing Moa's northern territory including the coastal city of Port Moa. By 66,450 cycles ago (~182 Earth years ago), the war ended with the **Treaty of Inti's Dawn**, which:
+Duvessa not only repelled the invasion but launched a counter-offensive, seizing Moa's northern territory including the coastal city of Port Moa. By 66,450 days ago (~182 Earth years ago), the war ended with the **Treaty of Inti's Dawn**, which:
 
 * Formally annexed Moa's northern provinces as **Normoa** (population ~80,000)
 * Divided the remainder of Moa into the weakened state of **Soumoa**
@@ -48,11 +48,11 @@ The DO implemented increasingly oppressive measures in Normoa:
 
 The harsh occupation of Normoa planted the seeds of resistance that would eventually bloom into the Sombra Insurgency. Key factors included:
 
-**The Normoa Massacres (62,800 cycles ago, ~172 Earth years ago)**: DO forces executed 2,400 civilians in Port Moa during the "Festival of Dark Remembrance," a traditional Moan mourning ceremony the DO deemed seditious. The massacre, led by Colonel Atahualpa Beaumont, became a rallying cry for resistance.
+**The Normoa Massacres (62,800 days ago, ~172 Earth years ago)**: DO forces executed 2,400 civilians in Port Moa during the "Festival of Dark Remembrance," a traditional Moan mourning ceremony the DO deemed seditious. The massacre, led by Colonel Atahualpa Beaumont, became a rallying cry for resistance.
 
 **Underground Cultural Preservation**: Moan elders established secret schools to preserve their language and traditions, teaching children the phrase "Yana-Pacha yachachkan" ("The Dark Earth remembers"). These clandestine networks formed the organizational backbone of future resistance.
 
-**The Dupont-Amaru Alliance (58,900 cycles ago, ~161 Earth years ago)**: Two key figures emerged: **Isabeau Dupont**, a Duvessan deserter disgusted by DO atrocities, and **Tupac Amaru II**, grandson of a Moan general killed at Rumi Chaka. Their partnership merged Duvessan tactical knowledge with Moan guerrilla traditions and deep-seated grievances.
+**The Dupont-Amaru Alliance (58,900 days ago, ~161 Earth years ago)**: Two key figures emerged: **Isabeau Dupont**, a Duvessan deserter disgusted by DO atrocities, and **Tupac Amaru II**, grandson of a Moan general killed at Rumi Chaka. Their partnership merged Duvessan tactical knowledge with Moan guerrilla traditions and deep-seated grievances.
 
 **Formation of Yana-Pacha Ideology**: The insurgents adopted Yana-Pacha ("Dark Earth") as their counter-religion, rejecting the DO's solar worship in favor of earth-centered spirituality. The motto "Pour Yana-Pacha—mort à l'Inti!" became their battle cry.
 

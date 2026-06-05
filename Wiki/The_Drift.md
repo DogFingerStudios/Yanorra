@@ -33,7 +33,7 @@ All of this changed after the rising of a new red wanderer in the night sky: **L
 
 ### **Appearance of the Red Wanderer**
 
-Lo Disporum was first documented as a dim red point visible only to night-watchers and temple astronomers. Over many cycles it grew brighter, moving slowly through constellations in a wandering arc. For most citizens, it was merely an unusual star. For priests and sky-mappers, its steady brightening was deeply alarming.
+Lo Disporum was first documented as a dim red point visible only to night-watchers and temple astronomers. Over many days it grew brighter, moving slowly through constellations in a wandering arc. For most citizens, it was merely an unusual star. For priests and sky-mappers, its steady brightening was deeply alarming.
 
 ### **The Subtle Turning**
 
@@ -62,7 +62,7 @@ Yanorra now moves on an **elongated and unpredictable ellipse**. Astronomers can
 2. Drift outward into the cold dark,
 3. Or remain trapped in its unstable cycle indefinitely.
 
-All agree, however, that the old “year” has no meaning — hence the modern **cycle-based calendar** (centara, decara, cycle). 
+All agree, however, that the old “year” has no meaning — hence the modern **day-based calendar** (centara, decara, day). 
 
 ---
 
@@ -70,7 +70,7 @@ All agree, however, that the old “year” has no meaning — hence the modern 
 
 The Drift destroyed the previous climate model:
 
-* Summers shortened to a handful of intense cycles.
+* Summers shortened to a handful of intense days.
 * Winters became long enough to erase entire planting seasons.
 * Storm patterns lost all periodicity.
 * Entire agricultural regions collapsed.

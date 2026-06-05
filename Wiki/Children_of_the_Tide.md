@@ -30,11 +30,11 @@ The strongest archival line comes from weather logs and burial records held in D
 
 ## When It Originated
 
-Scholars disagree on a single founding cycle, but most date the cult's formation to the **late Post-Drift hardship period**, roughly **124-132 cycles after The Drift**.
+Scholars disagree on a single founding day, but most date the cult's formation to the **late Post-Drift hardship period**, roughly **124-132 days after The Drift**.
 
 This period overlaps with:
 
-- multi-cycle food failures in northern coasts,
+- multi-day food failures in northern coasts,
 - repeated navigational losses during unstable tide intervals,
 - and the deepening social despair now grouped under the **Long Sorrow**.
 
@@ -82,7 +82,7 @@ A prohibited gathering dispersed under warning fire from local Dornish detachmen
 
 ## 146.1.27 - Pride Rock's Landing, Saint Aveline
 
-Small procession (estimated 22-30). Witnesses reported near-total wind drop for the duration of the entry. Twelve participants re-emerged two cycles later and refused formal debrief.
+Small procession (estimated 22-30). Witnesses reported near-total wind drop for the duration of the entry. Twelve participants re-emerged two days later and refused formal debrief.
 
 ## 146.2.19 - The Walk of 300 (Spencer, S'Tsutodo)
 

@@ -56,7 +56,7 @@ The climate of Thornbelt is characterized by mild temperatures and high humidity
 
 ## History
 
-### Pre-Drift Era (<span class="ai-generated" data-ai-label="~1,300 Earth years" tabindex="0">~500,000 cycles ago</span>)
+### Pre-Drift Era (<span class="ai-generated" data-ai-label="~1,300 Earth years" tabindex="0">~500,000 days ago</span>)
 
 Before The Drift, Thornbelt was a narrow isthmus linking Ronobetu in the west to Duvessa in the east. Over time, well-known crossings emerged where caravans passed and local communities collected tolls. These routes were frequently contested, with local leaders negotiating with both Ronobetu and Duvessa to preserve their own influence and control over passage.
 
@@ -68,7 +68,7 @@ The people of Thornbelt developed a reputation for being pragmatically independe
 
 ---
 
-### The Drift (<span class="ai-generated" data-ai-label="~400 Earth years" tabindex="0">~146,100 cycles ago</span>)
+### The Drift (<span class="ai-generated" data-ai-label="~400 Earth years" tabindex="0">~146,100 days ago</span>)
 
 The Drift transformed Thornbelt into one of the most strategically critical locations in Yanorra. 
 
@@ -78,13 +78,13 @@ Both Ronobetu and Duvessa sought to assert control over the region. Caravans fro
 
 As the effects of The Drift settled in, the people of Thornbelt found themselves caught between two powerful neighbors, each seeking to control the flow of goods through what they viewed as their land. 
 
-Approximately <span class="ai-generated" data-ai-label="~10 Earth years" tabindex="0">3,500 cycles</span> after The Drift, leaders from across the isthmus gathered in the small town of  **Holt** to formalize their independence. They demanded all soldiers from both sides leave the isthmus, and declared that passage through Thornbelt would be controlled by its own people, not by foreign powers.
+Approximately <span class="ai-generated" data-ai-label="~10 Earth years" tabindex="0">3,500 days</span> after The Drift, leaders from across the isthmus gathered in the small town of  **Holt** to formalize their independence. They demanded all soldiers from both sides leave the isthmus, and declared that passage through Thornbelt would be controlled by its own people, not by foreign powers.
 
 This moment is remembered as **The Severing of the Belt** and is remembered not as a violent rebellion, but as a collective refusal to be a passage controlled by others.
 
 ---
 
-### North Gate 1 and the Birth of Control (~145,900 cycles)
+### North Gate 1 and the Birth of Control (~145,900 days)
 
 The newly independent Thornbelt faced an immediate problem: if it did not control the flow of people and goods, another power would. In response, leaders adopted a radical solution and built the first true gate near the narrowest, most defensible stretch of the isthmus, slightly north of Holt. This crossing became known as <strong>North Gate 1</strong>.
 
@@ -92,17 +92,17 @@ Unlike the informal passages that came before it, North Gate 1 was a permanent, 
 
 ---
 
-### The Eight Cycle War (~145,890 cycles)
+### The Eight Day War (~145,890 days)
 
 Thornbelt’s consolidation of control at North Gate 1 quickly triggered open conflict. Alarmed by rising tariffs and inspection authority, leaders in Ronobetu and Duvessa formed a military alignment, believing a coordinated strike could break Thornbelt’s hold over the isthmus before its gate system matured.
 
-The campaign became known as the **Eight Cycle War**. Thornbelt forces deliberately destroyed the main approach roads leading to North Gate 1, forcing larger armies into narrow, exposed corridors where movement, supply, and command broke down. Fighting in small mobile units, Thornbelt’s defenders relied on ambushes, night raids, and repeated disruption of forward positions, turning the isthmus itself into a weapon.
+The campaign became known as the **Eight Day War**. Thornbelt forces deliberately destroyed the main approach roads leading to North Gate 1, forcing larger armies into narrow, exposed corridors where movement, supply, and command broke down. Fighting in small mobile units, Thornbelt’s defenders relied on ambushes, night raids, and repeated disruption of forward positions, turning the isthmus itself into a weapon.
 
-By the eighth cycle, both invading coalitions had failed to secure decisive passage and were facing mounting losses with no strategic breakthrough. Delegations from Ronobetu and Duvessa requested peace, resulting in an accord that recognized Thornbelt control of its crossings in exchange for guaranteed, regulated transit.
+By the eighth day, both invading coalitions had failed to secure decisive passage and were facing mounting losses with no strategic breakthrough. Delegations from Ronobetu and Duvessa requested peace, resulting in an accord that recognized Thornbelt control of its crossings in exchange for guaranteed, regulated transit.
 
 ---
 
-### Expansion of the Gate Network (~145,900–140,000 cycles)
+### Expansion of the Gate Network (~145,900–140,000 days)
 
 Thornbelt continued to extend its control outward from North Gate 1. Gates were constructed along the primary trade routes according to a simple directional logic: crossings leading toward Ronobetu in the west and southwest became <strong>West Gate 1, West Gate 2, West Gate 3</strong>, and so on, while those leading toward Duvessa in the east became <strong>East Gate 1, East Gate 2, East Gate 3</strong>. 
 
@@ -112,7 +112,7 @@ Several early gates became especially important. <strong>East Gate 31</strong> g
 
 ---
 
-### Modern Era (~146,100 cycles, ~400 years after The Drift)
+### Modern Era (~146,100 days, ~400 years after The Drift)
 
 In the modern era, Thornbelt is defined by its gate system. The nation proudly muses the doctrine: *“Passage is a privilege, not a right.”* The crossings are designed to be nearly impenetrable, with layered inspections, fortified checkpoints, and tightly controlled approach roads that make unsanctioned movement extremely difficult. In practical terms, each gate now serves as a population center, an economic engine, and a visible symbol of Thornbelt sovereignty and power.
 

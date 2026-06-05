@@ -22,7 +22,7 @@ Fragmentary records suggest intermittent contact with Noxoch Isle during the ear
 
 A commonly referenced Intalink post from **INTA-NORTH / Mariners / Thread 4412** states:
 
-> *“We sighted the coast after three cycles of clear weather, but the wind shifted without warning. By the time we could turn, the sea no longer answered the rudder.”*
+> *“We sighted the coast after three days of clear weather, but the wind shifted without warning. By the time we could turn, the sea no longer answered the rudder.”*
 > — *User: coldwake*, archived 12.44.3
 
 No corroborating logs accompany this report.

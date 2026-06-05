@@ -81,7 +81,7 @@ The Barrel islands are a large archipelago located roughly halfway between East 
 
 ## History
 
-### Pre-Drift Era (~500,000 cycles ago, ~1,369 Earth years)
+### Pre-Drift Era (~500,000 days ago, ~1,369 Earth years)
 
 Before The Drift, Barrel was a prosperous maritime power in East Yanorra. Situated on the western coastline with sheltered harbors and skilled shipwrights, Barrel became the foremost facilitator of commerce across the Veloku Ocean.
 
@@ -89,10 +89,10 @@ Its greatest advantage was its control of the Barrel Islands — a large, strate
 
 The Barrel fleet was famed for its speed and reliability, and merchants from both East and West Yanorra relied on its captains to move goods, people, and information. Some historians argue that without Barrel, true intercontinental trade between the East and West Yanorra would have developed centuries later.
 
-### The Drift (~146,100 cycles ago, ~400 Earth years)
+### The Drift (~146,100 days ago, ~400 Earth years)
 
 
-### Post-Drift Era (~145,000–130,000 cycles ago, ~397–356 Earth years)
+### Post-Drift Era (~145,000–130,000 days ago, ~397–356 Earth years)
 
 With the Veloku crossing severed, Barrel’s economy collapsed almost immediately. Shipbuilding shifted from vast ocean-going galleons to smaller coastal craft, and the once-grand harbors silted over.
 
@@ -100,7 +100,7 @@ The fate of the Barrel Islands remained unknown. Attempts to reestablish contact
 
 The loss reshaped the nation’s culture. Songs, festivals, and seafaring traditions came to center on remembrance and the yearning for reunion.
 
-### Current Era (~146,100 cycles, ~400 Earth years since The Drift)
+### Current Era (~146,100 days, ~400 Earth years since The Drift)
 
 ### The Barrel Island
 

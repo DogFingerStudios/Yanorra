@@ -61,19 +61,19 @@ Velu is located in the northern half of East Yanorra, bordered by the Veloku Oce
 
 ## History
 
-### Pre-Drift Era (~500,000 cycles ago, ~1,369 Earth years)
+### Pre-Drift Era (~500,000 days ago, ~1,369 Earth years)
 
 Velu flourished as a cornerstone of East Yanorra’s agriculture, supplying grains, vegetables, and livestock to Duvessa, Bibi Shirif, and the Three Sisters (Totoku, Endotoku, Obetoku). Its fertile plains and river valleys supported a robust economy.
 
 Shortly before The Drift, Thalen of the Eastvoid, a legendary Velu navigator, claimed to have crossed the uncharted Eastvoid Ocean, landing on a fertile continent named Anqara, though the origin of the name is unclear. According to oral mythos, Thalen made multiple voyages across the Eastvoid Ocean, returning with settlers -- the Anqaran people -- who introduced advanced irrigation, crop diversification, and ritualistic harvest practices. These Anqaran integrated into Velu’s plains, significantly enhancing its agricultural output. However, skepticism persists, with some scholars arguing Thalen’s tales are exaggerated myths and the Anqaran origins are a fabrication to bolster Velu’s and the Anqaran's prestige.
 
-### The Drift (~146,100 cycles ago, ~400 Earth years)
+### The Drift (~146,100 days ago, ~400 Earth years)
 
 The Drift rendered the Veloku Ocean unnavigable and severed Velu’s direct trade routes with most points in West Yanorra. The Eastvoid Ocean, already treacherous, became inaccessible no more than a few miles offshore, casting further doubt on Thalen’s Anqara voyages. 
 
 Velu’s agricultural surplus, critical for West Yanorra, was rerouted through Duvessa’s Riftlands, a chain of islands that became the sole maritime trade conduit. The Anqaran people, still influential in Velu’s agriculture, helped adapt farming practices to the disrupted climate, while Velu’s economy grew increasingly dependent on Duvessa’s trade infrastructure.
 
-### Post-Drift Era (~145,000–130,000 cycles ago, ~397–356 Earth years)
+### Post-Drift Era (~145,000–130,000 days ago, ~397–356 Earth years)
 
 Velu solidified its agricultural dominance by fortifying Gate Thaurin, transforming it into a heavily guarded trade hub that strictly regulated imports and prohibited immigration to preserve resources. 
 
@@ -83,7 +83,7 @@ About 800 centara (~220 Earth years) after The Drift, the Anqaran people declare
 
 Tensions with Duvessa grew due to Duvessa's control over the Riftlands trade route, fostering resentment among Velu’s leaders and the Anqaran diaspora.
 
-### Current Era (~146,100 cycles, ~400 Earth years since The Drift)
+### Current Era (~146,100 days, ~400 Earth years since The Drift)
 
 Velu remains East Yanorra’s agricultural and economic powerhouse, exporting food to Duvessa, Bibi Shirif, and the Three Sisters. Its strict immigration protect its resources but exacerbate regional tensions, particularly as frustration with Duvessa’s trade monopoly through The Riftlands grows. 
 
@@ -147,5 +147,5 @@ Velu has advanced its communication technology, developing a cable-phone system 
 
 ## Notable Events {#notable-events}
 
-- **The Drift (~146,100 cycles ago, ~400 Earth years)**: Disrupted trade with Ronobetu, forcing reliance on Duvessa’s Riftlands route.  
+- **The Drift (~146,100 days ago, ~400 Earth years)**: Disrupted trade with Ronobetu, forcing reliance on Duvessa’s Riftlands route.  
 - **Velu’s Immigration Policy Shift (Post-Drift)**: Implementation of strict controls to protect agricultural resources, centered at Gate Thaurin.

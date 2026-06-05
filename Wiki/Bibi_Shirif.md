@@ -52,19 +52,19 @@ Located in Eanorra, Bibi Shirif occupies much of the eastern shore, with a long 
 
 ## History
 
-### Pre-Drift Era (~500,000 cycles ago, ~1,369 Earth years)
+### Pre-Drift Era (~500,000 days ago, ~1,369 Earth years)
 
 (TBD)
 
-### The Drift (~146,100 cycles ago, ~400 Earth years)
+### The Drift (~146,100 days ago, ~400 Earth years)
 
 (TBD)
 
-### Post-Drift Era (~145,000–130,000 cycles ago, ~397–356 Earth years)
+### Post-Drift Era (~145,000–130,000 days ago, ~397–356 Earth years)
 
 (TBD)
 
-### Current Era (~146,100 cycles, ~400 Earth years since The Drift)
+### Current Era (~146,100 days, ~400 Earth years since The Drift)
 
 (TBD)
 

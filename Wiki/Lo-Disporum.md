@@ -2,7 +2,7 @@
 
 Lo-Disporum is the name given to the wandering red body whose passage through the outer sky led to **[The Drift]**. Its slow crossing, visible for several generations, marked a turning point in the world's history. Though once feared as an omen or divine instrument, the modern sciences now classify it as a **cold star-fragment** -- a substellar object of immense mass but faint light.
 
-Although Lo-Disporum never neared Yanorra’s heavens directly, its gravity altered the course of **Ember Mother**, which in turn reshaped our orbit, seasons, and tides for all the cycles that have followed.
+Although Lo-Disporum never neared Yanorra’s heavens directly, its gravity altered the course of **Ember Mother**, which in turn reshaped our orbit, seasons, and tides for all the days that have followed.
 
 ## **Historical Observation**
 
@@ -44,7 +44,7 @@ At its peak brightness, witnesses describe Lo-Disporum as:
 
 * **Redder than any fixed star**
 * **Brighter than the twin moons**, though still only a point
-* A slow traveler whose motion could be tracked cycle to cycle
+* A slow traveler whose motion could be tracked day to day
 
 In northern Riftland tradition, it was said to “paint the frost with dying fire.”
 
@@ -162,7 +162,7 @@ Below are the most notable.
 * Discovered during a season of heavy ash storms; visibility was distorted.
 
 **Debunking:**
-Upon development of improved multi-cycle lenses, the object was revealed to be a distant giant undergoing natural luminosity pulses. Catalog number revoked.
+Upon development of improved multi-day lenses, the object was revealed to be a distant giant undergoing natural luminosity pulses. Catalog number revoked.
 
 ---
 

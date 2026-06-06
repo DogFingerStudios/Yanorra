@@ -3,6 +3,7 @@ from pathlib import Path
 # Set these variables
 SOURCE_DIR = Path("S:/dfs/yanorra/yanorra-wiki/Wiki")
 TOP_FILES = ["S:/dfs/yanorra/yanorra-wiki/README.md", "S:/dfs/yanorra/yanorra-wiki/Indices/nations.md"]
+BOTTOM_FILES = []
 OUTPUT_FILE = Path("S:/dfs/yanorra/yanorra-wiki/tools/combined.md")
 STRIP_FRONTMATTER = True
 
@@ -64,6 +65,19 @@ def combine_markdown_files(source_dir: Path, output_file: Path) -> None:
 
             out.write(content)
             out.write("\n\n")
+
+        for bottom_file in BOTTOM_FILES:
+            bottom_path = Path(bottom_file)
+            if bottom_path.is_file():
+                out.write(f"-------------------------------------------------------- {bottom_path.name} -------------------------------------------------------- \n\n")
+                with bottom_path.open("r", encoding="utf-8") as src:
+                    content = src.read()
+                if STRIP_FRONTMATTER:
+                    content = strip_frontmatter(content)
+                out.write(content)
+                out.write("\n\n")
+            else:
+                print(f"Warning: Bottom file '{bottom_file}' not found. Skipping.")
 
 
 if __name__ == "__main__":

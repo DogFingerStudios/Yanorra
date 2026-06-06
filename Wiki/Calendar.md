@@ -1,14 +1,14 @@
 # Calendar
 
-Yanorran timekeeping is generally divided into two broad eras: before and after [The Drift](./The_Drift.md). Older records use local pre-Drift systems that were tied to stable seasons, while most modern records use a Drift-based day count.
+Timekeeping in Yanorra is divided by [The Drift](./The_Drift.md). Pre-Drift dates are commonly recorded according to a year-based system called the **Qamar Tables**, while modern dates use the **Axial Count**, a system based on counted days. The Drift’s disruption of Yanorra’s orbit made traditional year-based calendars unreliable, gradually leading to the adoption of the modern system.
 
-## Pre-Drift
+## Pre-Drift System
 
-Before The Drift, most nations tracked time through regular seasonal years, local planting cycles, and temple or court records. Because Yanorra's orbit was more stable, calendars could be planned around expected weather windows, sea routes, and harvest periods.
+Before The Drift, most formal records in Yanorra were dated according to the **Qamar Tables**, a year-based calendar system associated with the old observatories of Bibi Shirif. Tradition holds that astronomers in Zayn al-Qamar standardized the Tables during the late Shirif period, combining older temple, maritime, and agricultural calendars into a system that could be used across regions.
 
-There was no single world calendar in universal use. Port cities, kingdoms, and religious institutions often kept different year names or regnal systems, then converted dates when trading or copying records.
+The Qamar Tables divided the year into fixed named divisions known as **tables**. These were similar to months, though they were based less on local seasons than on Yanorra’s predicted position around the Ember Mother, with secondary markings for Serya and Mirelda. A formal date might be written as **Qamar 812, Table 6, Day 14**, or described as **the fourteenth day of the Sixth Table, in the 812th Qamar year**.
 
-In modern scholarship, pre-Drift dates are usually standardized as **BD** (Before Drift) when comparing archives across regions.
+After The Drift, the Qamar Tables survived in archives, ceremonies, and local traditions, but they lost practical authority as Yanorra’s orbit became unreliable. Modern scholars still refer to old dates as being recorded **by the Qamar Tables**.
 
 ## Post-Drift
 

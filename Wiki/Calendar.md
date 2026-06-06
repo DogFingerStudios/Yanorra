@@ -12,8 +12,16 @@ After The Drift, the Qamar Tables survived in archives, ceremonies, and local tr
 
 ## Post-Drift
 
-After The Drift altered orbit and season regularity, older year systems became unreliable for practical forecasting. Most modern record-keepers shifted to Drift-relative counting and mark dates as **AD** (After Drift).
+The modern calendar of Yanorra is known as the Axial Count. It measures time by planetary rotation rather than by years, seasons, or Yanorra’s unstable orbit around the Ember Mother. Each full rotation is counted as one day.
 
-The most common modern notation uses day counts in segmented form (for example: `146.1.27`), reflecting the current era's emphasis on counting elapsed Drift-time rather than trusting fixed seasonal months.
+Day 1 of the Axial Count is traditionally fixed to the first day when Lo-Disporum could no longer be seen with the naked eye. The system groups days into larger units: a decara is 10 days, a centara is 100 days, and a milnara is 1,000 days.
 
-In everyday use, terms like **day**, **decara**, and **centara** appear in ledgers, histories, and official notices. Regional institutions still keep local observances and feast days, but interregional administration, trade, and scholarship generally rely on Drift-era day dating.
+The modern calendar of Yanorra is known as the Axial Count. Unlike the Qamar Tables, it measures time by planetary rotation. Each full rotation is one day, making the system independent of the increasingly unreliable length of the year.
+
+The Axial Count organizes days into larger units for ease of recordkeeping. A decara is ten days, a centara is one hundred days, and a milnara is one thousand days. These units are not seasons or months; they are counted intervals used in government records, trade contracts, histories, scientific logs, and ordinary datekeeping.
+
+The first day of the Axial Count is traditionally fixed to the day when Lo-Disporum was no longer visible to the naked eye. Although The Drift itself unfolded over many years, this disappearance became the symbolic boundary between the old world and the new one. This demarkation was first used by scholars in the early years after The Drift and was widely adopted in the following milanara as the old calendar became increasingly unreliable.
+
+### Date Format
+
+In formal writing, the date is often written as *Xm, Yd, Zr*, where X is the milnara, Y is the centara, and Z is the day or _rotation_. For example, **1m, 2d, 3r** would indicate the third day of the second centara in the first milnara, or the 1,023rd day of the Axial Count. In more casual contexts the date may be written in M.D.R format or simply as 1.2.3, with the understanding that the first number is the milnara, the second is the centara, and the third is the day. 

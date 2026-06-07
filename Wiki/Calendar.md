@@ -6,22 +6,14 @@ Timekeeping in Yanorra is divided by [The Drift](./The_Drift.md). Pre-Drift date
 
 Before The Drift, most formal records in Yanorra were dated according to the **Qamar Tables**, a year-based calendar system associated with the old observatories of Bibi Shirif. Tradition holds that astronomers in Zayn al-Qamar standardized the Tables during the late Shirif period, combining older temple, maritime, and agricultural calendars into a system that could be used across regions.
 
-The Qamar Tables divided the year into fixed named divisions known as **tables**. These were similar to months, though they were based less on local seasons than on Yanorra’s predicted position around the Ember Mother, with secondary markings for Serya and Mirelda. A formal date might be written as **Qamar 812, Table 6, Day 14**, or described as **the fourteenth day of the Sixth Table, in the 812th Qamar year**.
+Under the Qamar Tables, a year represented one complete revolution of Yanorra around the Ember Mother. This was calculated as approximately **365.22 days**, requiring periodic corrections to keep civic dates aligned with the true orbital year. The Tables divided the year into fixed named divisions known simply as **tables**, each corresponding to a predicted position of Yanorra along its path around the Ember Mother, with secondary markings for Serya and Mirelda. A formal date might be written as **Qamar 812, Table 6, Day 14**, or described as **the fourteenth day of the Sixth Table, in the 812th Qamar year**.
 
 After The Drift, the Qamar Tables survived in archives, ceremonies, and local traditions, but they lost practical authority as Yanorra’s orbit became unreliable. Modern scholars still refer to old dates as being recorded **by the Qamar Tables**.
 
 ## Post-Drift
 
-The modern calendar of Yanorra is known as the Axial Count. It measures time by planetary rotation rather than by years, seasons, or Yanorra’s unstable orbit around the Ember Mother. Each full rotation is counted as one day.
+The modern calendar of Yanorra is known as the **Axial Count**. It was created after The Drift made the old year-based systems unreliable, but it did not abandon the idea of a year entirely. Instead, the Axial Count defines a year as a fixed civil unit of **365 days**, independent of Yanorra’s changing position around the Ember Mother. Because the modern year no longer attempts to remain synchronized with a true solar revolution, the fractional correction used by the Qamar Tables is no longer needed.
 
-Day 1 of the Axial Count is traditionally fixed to the first day when Lo-Disporum could no longer be seen with the naked eye. The system groups days into larger units: a decara is 10 days, a centara is 100 days, and a milnara is 1,000 days.
+Year 0 of the Axial Count begins on the first day after **Lo-Disporum passed beyond naked-eye visibility**. Although The Drift itself unfolded over many years, this disappearance became the accepted symbolic boundary between the old sky and the modern era. Dates before this point are generally recorded by the Qamar Tables, while dates after it are recorded by the Axial Count.
 
-The modern calendar of Yanorra is known as the Axial Count. Unlike the Qamar Tables, it measures time by planetary rotation. Each full rotation is one day, making the system independent of the increasingly unreliable length of the year.
-
-The Axial Count organizes days into larger units for ease of recordkeeping. A decara is ten days, a centara is one hundred days, and a milnara is one thousand days. These units are not seasons or months; they are counted intervals used in government records, trade contracts, histories, scientific logs, and ordinary datekeeping.
-
-The first day of the Axial Count is traditionally fixed to the day when Lo-Disporum was no longer visible to the naked eye. Although The Drift itself unfolded over many years, this disappearance became the symbolic boundary between the old world and the new one. This demarkation was first used by scholars in the early years after The Drift and was widely adopted in the following milanara as the old calendar became increasingly unreliable.
-
-### Date Format
-
-In formal writing, the date is often written as *Xm, Yd, Zr*, where X is the milnara, Y is the centara, and Z is the day or _rotation_. For example, **1m, 2d, 3r** would indicate the third day of the second centara in the first milnara, or the 1,023rd day of the Axial Count. In more casual contexts the date may be written in M.D.R format or simply as 1.2.3, with the understanding that the first number is the milnara, the second is the centara, and the third is the day. 
+Astronomers separately track Yanorra’s actual revolutions around the Ember Mother. These are called **solar revolutions** or, in formal observatory records, **completed orbital returns**. Since The Drift stretched Yanorra’s orbit into a more eccentric path, a true revolution now takes longer than an Axial year. As a result, the number of completed revolutions since The Drift is lower than the number of years recorded by the Axial Count. In ordinary life this distinction rarely matters, but in astronomy, climate study, navigation, and Drift research, both numbers are preserved.

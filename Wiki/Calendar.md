@@ -2,7 +2,7 @@
 
 Timekeeping in Yanorra is divided by [The Drift](./The_Drift.md). Pre-Drift dates are commonly recorded according to a year-based system called the **Qamar Tables**, while modern dates use the **Axial Count**, a system based on counted days. The Drift’s disruption of Yanorra’s orbit made traditional year-based calendars unreliable, gradually leading to the adoption of the modern system.
 
-**As of the writing of this document, the current year is 419 AC, placing The Drift a little more than four centuries in the past.**
+**As of this writing, the current year is 419 AC, placing The Drift a little more than four centuries in the past.** Current astronomical observations estimate that, during that same span, Yanorra has completed approximately 380 revolutions around the Ember Mother.
 
 ## Pre-Drift System
 

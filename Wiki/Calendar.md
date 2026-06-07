@@ -34,7 +34,7 @@ Or, in a shorter form:
 
 > **Thavira 18, QT2849**
 
-| Row | Qamar Row Name   | Days | Meaning / Use                                                                                                                                            |
+| Row | Name   | Days | Meaning / Use                                                                                                                                            |
 | --: | ---------------- | ---: | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |   1 | **Veyrath**      |   41 | The opening row of the year, associated with renewal, first entries, and official beginnings. Many contracts and civic records preferred to begin here.  |
 |   2 | **Somael**       |   40 | A quieter row tied to household duties, repairs, local accounts, and the settling of ordinary obligations.                                               |

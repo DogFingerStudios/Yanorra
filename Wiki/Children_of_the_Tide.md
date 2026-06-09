@@ -90,7 +90,7 @@ Estimated 300 walkers entered at dusk in organized formation based on witness re
 
 ## 146.3.11 - Sablelight Beach, Saint Aveline
 
-Harbor observers counted 140 or more participants in parallel rows across the eastern beach. Event concluded before sunrise with widespread disappearances and no debris field.
+Harbor observers counted approximately 140 participants in parallel rows across the eastern beach. Event concluded before sunrise with widespread disappearances and no debris field.
 
 ## 146.4.02 - South Shoal Steps, Farland chain
 

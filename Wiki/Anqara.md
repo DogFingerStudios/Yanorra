@@ -1,6 +1,6 @@
 # Anqara
 
-**Anqara** is a disputed land believed by some scholars to exist beyond the **Eastvoid Ocean**. Knowledge of its existence originates primarily from accounts attributed to **Thalen of the Eastvoid**, a Veluan navigator active several decara before **The Drift**. 
+**Anqara** is a disputed land believed by some scholars to exist beyond the **Eastvoid Ocean**. Knowledge of its existence originates primarily from accounts attributed to **Thalen of the Eastvoid**, a Veluan navigator active several years before **The Drift**. 
 
 According to surviving maritime records and oral traditions, Thalen claimed to have crossed the Eastvoid Ocean and reached an unfamiliar landmass which he and members of his expedition called **Anqara**.
 

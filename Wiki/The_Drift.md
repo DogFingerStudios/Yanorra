@@ -2,7 +2,7 @@
 
 *Entry 1.0 — Celestial and Historical Events Archive*
 
-**The Drift** is the name given to the world-changing celestial disturbance that occurred approximately **146 centara** ago (current date ~146.10.0). It is recognized as the most consequential event in recorded Yanorran history, reshaping the planet’s orbit, climate, society, and collective psychology.
+**The Drift** is the name given to the world-changing celestial disturbance that occurred approximately **419 years ago**. It is recognized as the most consequential event in recorded Yanorran history, reshaping the planet’s orbit, climate, society, and collective psychology.
 Although its precise astronomical cause remains debated, most scholars agree that The Drift began with the appearance and long sky-crossing of **Lo Disporum**, a massive wandering star-fragment whose passage through the outer system altered the path of **Ember Mother** and threw Yanorra into its present unstable orbit. 
 
 ---
@@ -62,7 +62,7 @@ Yanorra now moves on an **elongated and unpredictable ellipse**. Astronomers can
 2. Drift outward into the cold dark,
 3. Or remain trapped in its unstable cycle indefinitely.
 
-All agree, however, that the old “year” has no meaning — hence the modern **day-based calendar** (centara, decara, day). 
+All agree, however, that the old “year” has no meaning — hence the modern Axial Count system, a **day-based calendar**. See [Calendar](./Calendar.md).
 
 ---
 
@@ -101,7 +101,6 @@ The Drift triggered:
 * Migrations from formerly fertile regions
 * Collapse of several coastal cities
 * Increased insularity and militarization of nations
-* A multi-centara decline in science and technology
 * A psychological era known as the **Long Sorrow**, marked by despair, fatalism, and widespread cultural pessimism
 
 Most Yanorrans today believe global extinction is a matter of time. 

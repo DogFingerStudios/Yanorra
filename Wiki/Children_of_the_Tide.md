@@ -90,7 +90,7 @@ Estimated 300 walkers entered at dusk in organized formation based on witness re
 
 ## 146.3.11 - Sablelight Beach, Saint Aveline
 
-The largest documented Walk in the current decara. Harbor observers counted 140 or more participants in parallel rows across the eastern beach. Event concluded before sunrise with widespread disappearances and no debris field.
+Harbor observers counted 140 or more participants in parallel rows across the eastern beach. Event concluded before sunrise with widespread disappearances and no debris field.
 
 ## 146.4.02 - South Shoal Steps, Farland chain
 

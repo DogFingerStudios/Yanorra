@@ -4,7 +4,7 @@
 
 **Noxoch Isle** is a remote landmass located north of Saint Aveline and beyond the established boundaries of the Farlands. Its existence is widely accepted, though its current condition, habitability, and accessibility remain unresolved.
 
-The isle appears on several pre- and early post-Drift maritime charts, typically without detail and often annotated with warnings regarding unreliable currents and atmospheric disturbance. No verified surface survey of Noxoch Isle has been conducted in the last several centara.
+The isle appears on several pre- and early post-Drift maritime charts, typically without detail and often annotated with warnings regarding unreliable currents and atmospheric disturbance. No verified surface survey of Noxoch Isle has been conducted in many years.
 
 ---
 
@@ -18,7 +18,7 @@ Several maps mark the surrounding waters with phrases translated as *“unsettle
 
 ## **History and Contact**
 
-Fragmentary records suggest intermittent contact with Noxoch Isle during the early post-Drift era, primarily by fishing fleets and independent traders operating out of Saint Aveline. These accounts diminish sharply after approximately **centara 12**, after which no confirmed round-trip voyages are recorded.
+Fragmentary records suggest intermittent contact with Noxoch Isle during the early post-Drift era, primarily by fishing fleets and independent traders operating out of Saint Aveline. These accounts diminish sharply after several years, after which no confirmed round-trip voyages are recorded.
 
 A commonly referenced Intalink post from **INTA-NORTH / Mariners / Thread 4412** states:
 
@@ -85,4 +85,4 @@ A frequently quoted Intalink remark from **INTA-LOCAL / Saint Aveline / Thread 3
 ---
 
 *Editor’s note:*
-This entry reflects the current consensus of available sources. New information regarding Noxoch Isle has not been verified in over ten centara.
+This entry reflects the current consensus of available sources. New information regarding Noxoch Isle has not been verified in more than 100 years.

@@ -66,7 +66,7 @@ I worked the political history into the Kona section, while keeping the focus on
 
 ## The Fall of Kona and the Eastern Void
 
-For several decara after **The Drift**, the city of **Kona** was the largest producer of nashi outside Reddelstone. Its fields supplied demand throughout much of East Yanorra. For a time, Kona was celebrated as proof that nashi could be grown profitably beyond Anqaran control.
+For several years after **The Drift**, the city of **Kona** was the largest producer of nashi outside Reddelstone. Its fields supplied demand throughout much of East Yanorra. For a time, Kona was celebrated as proof that nashi could be grown profitably beyond Anqaran control.
 
 At the time, the lands east of the **Chatunkut Mountains**, and south of the Khn River, were claimed by **Velu**. This was recognized on maps, tax rolls, and government records. Kona, several smaller towns, and the settlements along the eastern lowlands were governed through local magistrates, trade inspectors, agricultural officers, and military detachments who held loyalty to Byad, Velu's capital.
 
@@ -82,9 +82,9 @@ Attempts to cut it back often made matters worse. Severed runners produced new g
 
 Families began to leave as nashi spread, growing along the sides of buildings and even into homes. As the people fled, markets closed, banks withdrew their guards and temples sealed their doors. The city government continued issuing orders after large parts of Kona were already empty. In later accounts, this period is remembered less as an evacuation than as a slow admission that Kona no longer belonged to people.
 
-This pattern was repeated all along the eastern lowlands. One by one, small towns and villages to fail. Some were abandoned after their fields were overtaken, or their wells were consumed by nashi roots. Others were evacuated after nashi spread into their yards, roads or animal yards. A few held out behind salt lines and local burn crews for several decara before finally emptying. As these settlements disappeared, so did Velu’s practical authority in the region. Officially, the eastern lowlands remained Veluan territory. In reality, the government had become little more than a memory.
+This pattern was repeated all along the eastern lowlands. One by one, small towns and villages to fail. Some were abandoned after their fields were overtaken, or their wells were consumed by nashi roots. Others were evacuated after nashi spread into their yards, roads or animal yards. A few held out behind salt lines and local burn crews for several years before finally emptying. As these settlements disappeared, so did Velu’s practical authority in the region. Officially, the eastern lowlands remained Veluan territory. In reality, the government had become little more than a memory.
 
-Over the following decara, Konashi spread across much of the surrounding lowland belt. To the south and east, it was checked only by the sea. To the west, the **Chatunkut Mountains** formed a natural wall against its advance. To the north, the wide mouth of the **Khn River**, together with salted fields along its southern bank, slowed the spread enough for frontier defenses to take hold.
+Over the following years, Konashi spread across much of the surrounding lowland belt. To the south and east, it was checked only by the sea. To the west, the **Chatunkut Mountains** formed a natural wall against its advance. To the north, the wide mouth of the **Khn River**, together with salted fields along its southern bank, slowed the spread enough for frontier defenses to take hold.
 
 The northern edge of the Konashi growth is now considered one of the most important containment fronts in East Yanorra, and by many, all of Yanorra. Burn units from **Khn** regularly cross the river to salt the fields, cut new runners, and destroy fresh growth before it can establish itself. These efforts serve only to keep the line from moving.
 
@@ -140,6 +140,6 @@ Many people believe that if nashi breaks through Khn and the northern passes, th
 
 The **Khn Trail**, running south from Khn toward **Saple Town**, is the most infamous route through the Nashi Fields. On old maps it appears as a coastal trade road. In modern use, it is closer to a dare. Travel on the Khn Trail requires passage through Khn where authorities restrict journeys beyond the walls and on the trail.
 
-Even when permitted, very few attempt the Khn Trail in any given centara. Of those who do attempt it, a troubling number never arrive at Saple Town and never return to Khn. When they vanish, there is rarely a body to bury. 
+Even when permitted, very few attempt the Khn Trail in any given year. Of those who do attempt it, a troubling number never arrive at Saple Town and never return to Khn. When they vanish, there is rarely a body to bury. 
 
 The Nashi Fields are both a place and a warning. They are what happens when a useful plant is treated as an ordinary crop, when containment becomes expense, when profit outruns memory, and when no authority acts until the land itself has chosen another master.

@@ -22,7 +22,7 @@ The Farlands lie north of the main Riftlands routes and beyond Sabletown. The re
 
 ## Climate
 
-Conditions are harsh and unpredictable. Winters are long and severe, summers brief and intense, and snowfall can occur in any centara. Coastal winds are frequent and disruptive.
+Conditions are harsh and unpredictable. Winters are long and severe, summers brief and intense, and snowfall can occur in any time of year. Coastal winds are frequent and disruptive.
 
 ## History
 

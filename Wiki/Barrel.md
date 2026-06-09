@@ -114,7 +114,7 @@ The islands quickly became legend — their harbors, settlements, and people swa
 
 This began a tradition known as the **Voyage of Remembrance**. 
 
-Every year on the same day, known as **Island Day**, a single stout vessel is prepared over many decara — its hull reinforced, its sails sewn with hand-dyed cloth, and its figurehead carved anew each year. Volunteers, often descendants of families who once lived on the islands, load it with supplies, livestock, crafted gifts, and handwritten letters.
+Every year on the same day, known as **Island Day**, a single stout vessel is prepared over many [tables](./Calendar.md) — its hull reinforced, its sails sewn with hand-dyed cloth, and its figurehead carved anew each year. Volunteers, often descendants of families who once lived on the islands, load it with supplies, livestock, crafted gifts, and handwritten letters.
 
 The ship departs at dawn amid ceremonies, the docks crowded with thousands of onlookers. Bells toll, horns sound, and flower petals are scattered on the waves as the vessel slips into the southern horizon. No ship has ever returned. 
 

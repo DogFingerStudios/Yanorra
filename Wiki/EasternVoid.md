@@ -67,7 +67,7 @@ These rules are treated as survival protocol, not moral law.
 
 ## The Khn Trail
 
-The Khn Trail is the old southern coastal route from Khn to Saple Town. Pre-collapse maps mark it as a trade line with wells, shelters, and signal posts. In current use, it is a high-risk corridor attempted by very few travelers in a given centara.
+The Khn Trail is the old southern coastal route from Khn to Saple Town. Pre-collapse maps mark it as a trade line with wells, shelters, and signal posts. In current use, it is a high-risk corridor attempted by very few travelers in a given year.
 
 Most modern traffic between Khn and Saple avoids the trail and instead travels west through safer mountain passages, then south, then east again near the lower coast. The detour is longer and more expensive, but has far higher survival confidence.
 

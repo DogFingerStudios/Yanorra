@@ -13,7 +13,7 @@ The known world maintains functional governance, trade networks, and communicati
 
 ## Geography
 
-The approximate size and shape of the planet have long been established with a high degree of confidence. This understanding predates The Drift and is preserved through astronomical observation, early navigation records, and geometric measurement techniques refined over many centara.
+The approximate size and shape of the planet have long been established with a high degree of confidence. This understanding predates The Drift and is preserved through astronomical observation, early navigation records, and geometric measurement techniques refined over many years.
 
 By observing the motion of the sun, stars, and moons across different latitudes, early scholars were able to independently calculate planetary curvature in multiple regions. These results were later reinforced by overland surveys and maritime logs from the pre-Drift era, which recorded distances traveled, heading changes, and horizon behavior over extended routes. Although individual records vary in precision, their convergence supports a stable planetary circumference and mass within narrow tolerances.
 
@@ -93,7 +93,7 @@ These islands form a distinct geographical and cultural cluster, sharing histori
 
 ### Anqara
 
-Anqara is a disputed land said to exist beyond the Eastvoid Ocean. Knowledge of its existence originates primarily from accounts attributed to **Thalen of the Eastvoid**, a mariner active several decara before The Drift. Surviving records describe a voyage to an unfamiliar shore and the return of artifacts, plant specimens, and a small group of people who identified themselves as **Anqaran**. These individuals are believed to have settled primarily in Velu, where their descendants remain a distinct and insular community. While some scholars cite the continued presence of the Anqaran and associated material culture as evidence supporting Thalen's account, others argue that the voyage was misrecorded or later mythologized following the collapse of reliable navigation. No confirmed crossings of the Eastvoid Ocean have occurred since The Drift, and Anqara itself remains unverified.
+Anqara is a disputed land said to exist beyond the Eastvoid Ocean. Knowledge of its existence originates primarily from accounts attributed to **Thalen of the Eastvoid**, a mariner active several years before The Drift. Surviving records describe a voyage to an unfamiliar shore and the return of artifacts, plant specimens, and a small group of people who identified themselves as **Anqaran**. These individuals are believed to have settled primarily in Velu, where their descendants remain a distinct and insular community. While some scholars cite the continued presence of the Anqaran and associated material culture as evidence supporting Thalen's account, others argue that the voyage was misrecorded or later mythologized following the collapse of reliable navigation. No confirmed crossings of the Eastvoid Ocean have occurred since The Drift, and Anqara itself remains unverified.
 
 ### Oceans and Seas
 
@@ -138,20 +138,9 @@ Yanorra orbits a single star called the **Ember Mother** which has a slight red 
 
 ## Calendar System
 
-Time used to be measured by the planet's revolutions around the Ember Mother. After The Drift, the concept of a complete orbit became unreliable due to the planet's erratic trajectory. Time is now measured by the planet's rotations on its axis, known as cycles. Each cycle is roughly equivalent to one Earth day.
+Yanorra’s modern calendar is the Axial Count, a civil dating system that tracks time in fixed 365-day years rather than trying to follow the planet’s changing orbit. It began at the symbolic boundary set just after Lo-Disporum disappeared from naked-eye visibility, and it is now the standard system used for administration, history, and everyday records.
 
-- 1 cycle = day
-- 1 decara = 10 cycles
-- 1 centara = 100 cycles
-- 1 milarna = 1,000 cycles
-
-Dates are written in the format: milarnas.centaras.decara.cycles, where each unit represents a place value.
-
-| Megnara (1,000,000 cycles per) | Kilara (1,000 cycles per) | Decara (10 cycles per) | Cycles (1 cycle) |
-| --- | --- | --- | --- |
-| unlimited | 0-999 | 0-99 | 0-9 |
-
-The current date is approximately `146.10.0`, meaning that about 146,100 days have passed since The Drift, or about 400 Earth years.
+See [Calendar](./Wiki/Calendar.md) for more information.
 
 ## World Technology
 

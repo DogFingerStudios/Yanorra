@@ -24,7 +24,7 @@ Because Lo-Disporum moved slowly, many citizens lived entire lives beneath its w
 * Farmers noted when it passed near familiar constellations, marking planting cycles by its drift.
 * Some temples rang bells whenever its position shifted with unusual speed.
 
-The object completed its visible crossing over more than **five decara**, leaving much confusion and superstition in its wake.
+The object completed its visible crossing in a little more than one [table](./Calendar.md), leaving much confusion and superstition in its wake.
 
 ## **Role in The Drift**
 
@@ -54,7 +54,7 @@ In northern Riftland tradition, it was said to “paint the frost with dying fir
 
 ### **In Duvessa**
 
-Lo-Disporum is often taught as a symbol of humility: a reminder that the heavens may shift without warning, and the world must adapt. Several state-produced posters over the last centara depict it as a massive sphere looming over Yanorra—images not meant to be literal but to impress upon citizens the fragility of cosmic order.
+Lo-Disporum is often taught as a symbol of humility: a reminder that the heavens may shift without warning, and the world must adapt. Several state-produced posters over the last years depict it as a massive sphere looming over Yanorra—images not meant to be literal but to impress upon citizens the fragility of cosmic order.
 
 ### **In Velu**
 
@@ -218,7 +218,7 @@ Riftland monasteries retracted the candidate entry with a formal apology.
 * Many believed it to be Lo Disporum’s remnant trail.
 
 **Debunking:**
-Decara-long tracking revealed the object’s motion was too slow and did not align with any reliable pre-Drift trajectory.
+Months-long tracking revealed the object’s motion was too slow and did not align with any reliable pre-Drift trajectory.
 Now classified as a distant cold dwarf.
 
 ---

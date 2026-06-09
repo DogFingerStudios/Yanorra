@@ -41,7 +41,7 @@ Or:
 |   3 | **Kotlega**      |   41 | Traditionally associated with planting, labor, travel preparation, and the beginning of serious work after the year’s opening period.                    |
 |   4 | **Irosha**       |   40 | Considered a watchful row, often linked with legal petitions, border reports, tax declarations, and public notices.                                      |
 |   5 | **Cassia**       |   41 | The central row of the Qamar Table, regarded as the hinge of the year. Major proclamations, state ceremonies, and religious observances often fell here. |
-|   6 | **Lynn**        |   40 | A row of judgments, debt settlements, inheritance matters, and formal disputes. In older records, many court decisions were dated to Nedma.              |
+|   6 | **Lynn**        |   40 | A row of judgments, debt settlements, inheritance matters, and formal disputes. In older records, many court decisions were dated to Lynn.              |
 |   7 | **Nedma**         |   41 | Traditionally associated with musters, road inspections, trade caravans, and preparations for harsher weather or difficult travel.                       |
 |   8 | **Shirif**       |   40 | The fading row, linked with closure, repairs, reconciliations, and the settling of matters before the year’s end.                                        |
 |   9 | **Soleil**       |   41 | The final row of the year, treated as a period of stillness, remembrance, and preparation before the next table begins.                                  |

@@ -76,23 +76,23 @@ This ambiguity is one reason the movement persists despite prohibitions.
 
 The following entries are commonly cited by harbor offices, military notices, and witness testimony. Numbers vary by source.
 
-## 145.10.03 - Hautspeej Massacre, Outer Duvessa coast
+## [AC174/Lynn/28](./Calendar.md) - Hautspeej Massacre, Outer Duvessa coast
 
 A prohibited gathering dispersed under warning fire from local Dornish detachments. The front rank continued into surf while rear ranks broke formation. Reported losses: 11 confirmed dead, 27 missing, unknown number fled inland.
 
-## 146.1.27 - Pride Rock's Landing, Saint Aveline
+## [AC230/Shirif/30](./Calendar.md) - Pride Rock's Landing, Saint Aveline
 
 Small procession (estimated 22-30). Witnesses reported near-total wind drop for the duration of the entry. Twelve participants re-emerged two days later and refused formal debrief.
 
-## 146.2.19 - The Walk of 300 (Spencer, S'Tsutodo)
+## [AC287/Nedma/12](./Calendar.md) - The Walk of 300 (Spencer, S'Tsutodo)
 
 Estimated 300 walkers entered at dusk in organized formation based on witness reports. Over multiple days, authorities recovered 288 confirmed dead from the shoreline and sea, marking the largest single-Walk casualty count on record. Following this event, the S'Tsutodo government initiated a severe crackdown on cult activity, banning gatherings and increasing coastal patrols.
 
-## 146.3.11 - Sablelight Beach, Saint Aveline
+## [AC341/Soleil/3](./Calendar.md) - Sablelight Beach, Saint Aveline
 
 Harbor observers counted approximately 140 participants in parallel rows across the eastern beach. Event concluded before sunrise with widespread disappearances and no debris field.
 
-## 146.4.02 - South Shoal Steps, Farland chain
+## [AC366/Kotlega/27](./Calendar.md) - South Shoal Steps, Farland chain
 
 Mixed-age procession led by three elder watchers carrying unlit lantern frames. Entire line halted at waist depth and withdrew intact. This event is frequently cited by scholars as evidence that not all Walks are terminal rites.
 

@@ -15,7 +15,7 @@ The known world maintains functional governance, trade networks, and communicati
 
 ## Geography
 
-The approximate size and shape of the planet have long been established with a high degree of confidence. This understanding predates The Drift and is preserved through astronomical observation, early navigation records, and geometric measurement techniques refined over many centara.
+The approximate size and shape of the planet have long been established with a high degree of confidence. This understanding predates The Drift and is preserved through astronomical observation, early navigation records, and geometric measurement techniques refined over many years.
 
 By observing the motion of the sun, stars, and moons across different latitudes, early scholars were able to independently calculate planetary curvature in multiple regions. These results were later reinforced by overland surveys and maritime logs from the pre-Drift era, which recorded distances traveled, heading changes, and horizon behavior over extended routes. Although individual records vary in precision, their convergence supports a stable planetary circumference and mass within narrow tolerances.
 
@@ -95,7 +95,7 @@ These islands form a distinct geographical and cultural cluster, sharing histori
 
 ### Anqara
 
-Anqara is a disputed land said to exist beyond the Eastvoid Ocean. Knowledge of its existence originates primarily from accounts attributed to **Thalen of the Eastvoid**, a mariner active several decara before The Drift. Surviving records describe a voyage to an unfamiliar shore and the return of artifacts, plant specimens, and a small group of people who identified themselves as **Anqaran**. These individuals are believed to have settled primarily in Velu, where their descendants remain a distinct and insular community. While some scholars cite the continued presence of the Anqaran and associated material culture as evidence supporting Thalen's account, others argue that the voyage was misrecorded or later mythologized following the collapse of reliable navigation. No confirmed crossings of the Eastvoid Ocean have occurred since The Drift, and Anqara itself remains unverified.
+Anqara is a disputed land said to exist beyond the Eastvoid Ocean. Knowledge of its existence originates primarily from accounts attributed to **Thalen of the Eastvoid**, a mariner active several years before The Drift. Surviving records describe a voyage to an unfamiliar shore and the return of artifacts, plant specimens, and a small group of people who identified themselves as **Anqaran**. These individuals are believed to have settled primarily in Velu, where their descendants remain a distinct and insular community. While some scholars cite the continued presence of the Anqaran and associated material culture as evidence supporting Thalen's account, others argue that the voyage was misrecorded or later mythologized following the collapse of reliable navigation. No confirmed crossings of the Eastvoid Ocean have occurred since The Drift, and Anqara itself remains unverified.
 
 ### Oceans and Seas
 
@@ -140,20 +140,9 @@ Yanorra orbits a single star called the **Ember Mother** which has a slight red 
 
 ## Calendar System
 
-Time used to be measured by the planet's revolutions around the Ember Mother. After The Drift, the concept of a complete orbit became unreliable due to the planet's erratic trajectory. Time is now measured by the planet's rotations on its axis, known as cycles. Each cycle is roughly equivalent to one Earth day.
+Yanorra’s modern calendar is the Axial Count, a civil dating system that tracks time in fixed 365-day years rather than trying to follow the planet’s changing orbit. It began at the symbolic boundary set just after Lo-Disporum disappeared from naked-eye visibility, and it is now the standard system used for administration, history, and everyday records.
 
-- 1 cycle = day
-- 1 decara = 10 cycles
-- 1 centara = 100 cycles
-- 1 milarna = 1,000 cycles
-
-Dates are written in the format: milarnas.centaras.decara.cycles, where each unit represents a place value.
-
-| Megnara (1,000,000 cycles per) | Kilara (1,000 cycles per) | Decara (10 cycles per) | Cycles (1 cycle) |
-| --- | --- | --- | --- |
-| unlimited | 0-999 | 0-99 | 0-9 |
-
-The current date is approximately `146.10.0`, meaning that about 146,100 days have passed since The Drift, or about 400 Earth years.
+See [Calendar](./Wiki/Calendar.md) for more information.
 
 ## World Technology
 
@@ -341,7 +330,7 @@ No explanation has been confirmed by the Alonah people.
 
 # Anqara
 
-**Anqara** is a disputed land believed by some scholars to exist beyond the **Eastvoid Ocean**. Knowledge of its existence originates primarily from accounts attributed to **Thalen of the Eastvoid**, a Veluan navigator active several decara before **The Drift**. 
+**Anqara** is a disputed land believed by some scholars to exist beyond the **Eastvoid Ocean**. Knowledge of its existence originates primarily from accounts attributed to **Thalen of the Eastvoid**, a Veluan navigator active several years before **The Drift**. 
 
 According to surviving maritime records and oral traditions, Thalen claimed to have crossed the Eastvoid Ocean and reached an unfamiliar landmass which he and members of his expedition called **Anqara**.
 
@@ -593,7 +582,7 @@ The islands quickly became legend — their harbors, settlements, and people swa
 
 This began a tradition known as the **Voyage of Remembrance**. 
 
-Every year on the same day, known as **Island Day**, a single stout vessel is prepared over many decara — its hull reinforced, its sails sewn with hand-dyed cloth, and its figurehead carved anew each year. Volunteers, often descendants of families who once lived on the islands, load it with supplies, livestock, crafted gifts, and handwritten letters.
+Every year on the same day, known as **Island Day**, a single stout vessel is prepared over many [tables](./Calendar.md) — its hull reinforced, its sails sewn with hand-dyed cloth, and its figurehead carved anew each year. Volunteers, often descendants of families who once lived on the islands, load it with supplies, livestock, crafted gifts, and handwritten letters.
 
 The ship departs at dawn amid ceremonies, the docks crowded with thousands of onlookers. Bells toll, horns sound, and flower petals are scattered on the waves as the vessel slips into the southern horizon. No ship has ever returned. 
 
@@ -1058,23 +1047,54 @@ Most maritime authorities in nearby ports recommend passage well offshore whenev
 
 # Calendar
 
-Yanorran timekeeping is generally divided into two broad eras: before and after [The Drift](./The_Drift.md). Older records use local pre-Drift systems that were tied to stable seasons, while most modern records use a Drift-based day count.
+Timekeeping in Yanorra is divided by [The Drift](./The_Drift.md). Pre-Drift dates are commonly recorded according to a year-based system called the **Qamar Tables**, while modern dates use the **Axial Count**, a system based on counted days. The Drift’s disruption of Yanorra’s orbit made traditional year-based calendars unreliable, gradually leading to the adoption of the modern system.
 
-## Pre-Drift
+## Pre-Drift System
 
-Before The Drift, most nations tracked time through regular seasonal years, local planting cycles, and temple or court records. Because Yanorra's orbit was more stable, calendars could be planned around expected weather windows, sea routes, and harvest periods.
+Before The Drift, most formal records in Yanorra were dated according to the **Qamar Tables**, a year-based calendar system associated with the old observatories of Bibi Shirif. Tradition holds that astronomers in Zayn al-Qamar standardized the Tables during the late Shirif period, combining older temple, maritime, and agricultural calendars into a system that could be used across regions.
 
-There was no single world calendar in universal use. Port cities, kingdoms, and religious institutions often kept different year names or regnal systems, then converted dates when trading or copying records.
+Under the Qamar Tables, a year represented one complete revolution of Yanorra around the Ember Mother. This was calculated as approximately **365.22 days**, requiring periodic corrections to keep civic dates aligned with the true orbital year. 
 
-In modern scholarship, pre-Drift dates are usually standardized as **BD** (Before Drift) when comparing archives across regions.
+After The Drift, the Qamar Tables survived in archives, ceremonies, and local traditions, but they lost practical authority as Yanorra’s orbit became unreliable.
 
 ## Post-Drift
 
-After The Drift altered orbit and season regularity, older year systems became unreliable for practical forecasting. Most modern record-keepers shifted to Drift-relative counting and mark dates as **AD** (After Drift).
+The modern calendar of Yanorra is known as the **Axial Count**. It was created after The Drift made the old year-based systems unreliable, but it did not abandon the idea of a year entirely. Instead, the Axial Count defines a year as a fixed civil unit of **365 days**, independent of Yanorra’s changing position around the Ember Mother. Because the modern year no longer attempts to remain synchronized with a true solar revolution, the fractional correction used by the Qamar Tables is no longer needed.
 
-The most common modern notation uses day counts in segmented form (for example: `146.1.27`), reflecting the current era's emphasis on counting elapsed Drift-time rather than trusting fixed seasonal months.
+Year 0 of the Axial Count begins on the first day after **Lo-Disporum passed beyond naked-eye visibility**. Although The Drift itself unfolded over many years, this disappearance became the accepted symbolic boundary between the old sky and the modern era. Dates before this point are generally recorded by the Qamar Tables, while dates after it are recorded by the Axial Count.
 
-In everyday use, terms like **day**, **decara**, and **centara** appear in ledgers, histories, and official notices. Regional institutions still keep local observances and feast days, but interregional administration, trade, and scholarship generally rely on Drift-era day dating.
+Astronomers separately track Yanorra’s actual revolutions around the Ember Mother. These are called **solar revolutions** or, in formal observatory records, **completed orbital returns**. Since The Drift stretched Yanorra’s orbit into a more eccentric path, a true revolution now takes longer than an Axial year. As a result, the number of completed revolutions since The Drift is lower than the number of years recorded by the Axial Count. In ordinary life this distinction rarely matters, but in astronomy, climate study, navigation, and Drift research, both numbers are preserved.
+
+## The Qamar Tables
+
+The **Qamar Tables** divide the year into nine formal divisions called **rows**. Each row contains either forty or forty-one days, producing a common year of **365 days**. Prior to [The Drift](./The_Drift.md), the natural year was slightly longer than 365 days, so the Qamar Tables required periodic correction to remain aligned with the old seasonal cycle. After The Drift altered Yanorra’s orbit, the 365-day calendar gradually fell out of alignment with the planet’s revolution around [Ember Mother](./Ember_Mother.md). In the modern era, the 365-day count no longer corresponds precisely to Yanorra’s orbital position, but it remains in use for historical, administrative, and cultural reasons.
+
+In formal records, a date was written by giving the table year, the row name, and the numbered position within that row.
+
+For example:
+
+> **QT2849 / Cassia / 18**
+
+Or:
+
+> **Cassia 18, QT2849**
+
+### Qamar Table Rows
+
+| Row | Name   | Days | Meaning / Use                                                                                                                                            |
+| --: | ---------------- | ---: | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | **Nandi**        |   41 | The opening row of the year, associated with renewal, first entries, and official beginnings. Many contracts and civic records preferred to begin here.  |
+|   2 | **Samari**       |   40 | A quieter row tied to household duties, repairs, local accounts, and the settling of ordinary obligations.                                               |
+|   3 | **Kotlega**      |   41 | Traditionally associated with planting, labor, travel preparation, and the beginning of serious work after the year’s opening period.                    |
+|   4 | **Irosha**       |   40 | Considered a watchful row, often linked with legal petitions, border reports, tax declarations, and public notices.                                      |
+|   5 | **Cassia**       |   41 | The central row of the Qamar Table, regarded as the hinge of the year. Major proclamations, state ceremonies, and religious observances often fell here. |
+|   6 | **Lynn**        |   40 | A row of judgments, debt settlements, inheritance matters, and formal disputes. In older records, many court decisions were dated to Lynn.              |
+|   7 | **Nedma**         |   41 | Traditionally associated with musters, road inspections, trade caravans, and preparations for harsher weather or difficult travel.                       |
+|   8 | **Shirif**       |   40 | The fading row, linked with closure, repairs, reconciliations, and the settling of matters before the year’s end.                                        |
+|   9 | **Soleil**       |   41 | The final row of the year, treated as a period of stillness, remembrance, and preparation before the next table begins.                                  |
+
+The last year by the Qamar Tables is **QT2850**, which corresponds to the year of Lo-Disporum’s disappearance and is considered the first year of the Axial Count (**AC1**). Adoption of the Axial Count was a gradual process that took place over several decades. By the mid-2900s, the Axial Count had become the dominant system for recording dates.
+
 
 
 -------------------------------------------------------- Children_of_the_Tide.md -------------------------------------------------------- 
@@ -1171,7 +1191,7 @@ Estimated 300 walkers entered at dusk in organized formation based on witness re
 
 ## 146.3.11 - Sablelight Beach, Saint Aveline
 
-The largest documented Walk in the current decara. Harbor observers counted 140 or more participants in parallel rows across the eastern beach. Event concluded before sunrise with widespread disappearances and no debris field.
+Harbor observers counted approximately 140 participants in parallel rows across the eastern beach. Event concluded before sunrise with widespread disappearances and no debris field.
 
 ## 146.4.02 - South Shoal Steps, Farland chain
 
@@ -1339,7 +1359,7 @@ These changes lead to widespread famine and unrest in Duvessa, with the Dornish 
 
 ### Duvessa-Moa War
 
-Approximately 73 centara (~20 years) after The Drift, the Dornish Order (DO) faced a significant challenge from the rival nation of Moa. Moa attempted to seize Duvessa’s northern territory bordering the Thornbelt land-bridge, igniting the Duvessa-Moa War.
+Approximately 20 years after The Drift, the Dornish Order (DO) faced a significant challenge from the rival nation of Moa. Moa attempted to seize Duvessa’s northern territory bordering the Thornbelt land-bridge, igniting the Duvessa-Moa War.
 
 Duvessa not only successfully repelled the invasion, but was able to seize Moa's northern territory, including the coastal city of Port Moa. This victory allowed Duvessa to annex Normoa, a rugged and insular region with a population of around 80,000, while Soumoa remained an independent remnant of the former Moa.
 
@@ -1486,7 +1506,7 @@ These rules are treated as survival protocol, not moral law.
 
 ## The Khn Trail
 
-The Khn Trail is the old southern coastal route from Khn to Saple Town. Pre-collapse maps mark it as a trade line with wells, shelters, and signal posts. In current use, it is a high-risk corridor attempted by very few travelers in a given centara.
+The Khn Trail is the old southern coastal route from Khn to Saple Town. Pre-collapse maps mark it as a trade line with wells, shelters, and signal posts. In current use, it is a high-risk corridor attempted by very few travelers in a given year.
 
 Most modern traffic between Khn and Saple avoids the trail and instead travels west through safer mountain passages, then south, then east again near the lower coast. The detour is longer and more expensive, but has far higher survival confidence.
 
@@ -1818,6 +1838,22 @@ Despite these divisions, Hav has achieved modest prosperity. Its iron exports ma
 
 (TBD)
 
+-------------------------------------------------------- Horizon_Chain.md -------------------------------------------------------- 
+
+# Horizon Chain
+
+Horizon Chain is a ground-based long-range navigation system used by ships, survey teams, rescue offices, and military navigators across much of Yanorra. It allows a properly equipped receiver to estimate its position by comparing timed radio pulses sent from fixed land stations known as chain towers.
+
+The system came online in early [AC418](./Calendar.md), first providing service along the coastal nations of the [Brooding Sea](./Brooding_Sea.md). It was developed in response to the navigational failures that followed [The Drift](./The_Drift.md), when older maritime tables and compass bearings became less reliable over long distances. Horizon Chain does not make dangerous waters safe, but it gives navigators a better way to confirm where they are when weather or poor visibility has made ordinary methods uncertain.
+
+Line of sight is not required for Horizon Chain receiver to work. It only needs to receive enough timed pulses from different towers in the same operating chain. By comparing the slight differences in arrival time, the receiver can calculate a position estimate and display it as a chart reference or numbered grid position, depending on the device.
+
+Current Horizon Chain accuracy is generally listed at three to six hundred paces under normal conditions. During storms, atmospheric distortion, or heavy interference, accuracy may fall beyond a thousand paces. Even then, it remains useful enough to keep vessels near safe corridors, help rescuers locate damaged ships, and allow survey teams to correct older maps.
+
+As of the present era, most nations have deployed the chain towers and timing stations needed to provide coverage across much of Yanorra, extending as far west as [Cam Tower](./Cam_Tower.md) and as far east as [Byad](./Byad.md). Expansion north to [Sabletown](./Sabletown.md) is scheduled for late [AC420](./Calendar.md), which will bring the northern Riftlands more securely into the navigation field. By [AC425](./Calendar.md), planners expect coverage to reach as far south as [Hav](./Hav.md) in the southwest and the [Saple Islands](./Saple_Islands.md) in the southeast.
+
+Although Horizon Chain is often described as a single system, it is really a linked network of regional chains. Each chain depends on maintained towers, accurate surveys, disciplined timing engines, and clear correction tables. Local failures can create gaps, and some governments have restricted tower data for political reasons such as border disputes or war.
+
 -------------------------------------------------------- Intalink.md -------------------------------------------------------- 
 
 ## Intalink
@@ -2031,7 +2067,7 @@ Because Lo-Disporum moved slowly, many citizens lived entire lives beneath its w
 * Farmers noted when it passed near familiar constellations, marking planting cycles by its drift.
 * Some temples rang bells whenever its position shifted with unusual speed.
 
-The object completed its visible crossing over more than **five decara**, leaving much confusion and superstition in its wake.
+The object completed its visible crossing in a little more than one [table](./Calendar.md), leaving much confusion and superstition in its wake.
 
 ## **Role in The Drift**
 
@@ -2061,7 +2097,7 @@ In northern Riftland tradition, it was said to “paint the frost with dying fir
 
 ### **In Duvessa**
 
-Lo-Disporum is often taught as a symbol of humility: a reminder that the heavens may shift without warning, and the world must adapt. Several state-produced posters over the last centara depict it as a massive sphere looming over Yanorra—images not meant to be literal but to impress upon citizens the fragility of cosmic order.
+Lo-Disporum is often taught as a symbol of humility: a reminder that the heavens may shift without warning, and the world must adapt. Several state-produced posters over the last years depict it as a massive sphere looming over Yanorra—images not meant to be literal but to impress upon citizens the fragility of cosmic order.
 
 ### **In Velu**
 
@@ -2225,7 +2261,7 @@ Riftland monasteries retracted the candidate entry with a formal apology.
 * Many believed it to be Lo Disporum’s remnant trail.
 
 **Debunking:**
-Decara-long tracking revealed the object’s motion was too slow and did not align with any reliable pre-Drift trajectory.
+Months-long tracking revealed the object’s motion was too slow and did not align with any reliable pre-Drift trajectory.
 Now classified as a distant cold dwarf.
 
 ---
@@ -2314,7 +2350,7 @@ I worked the political history into the Kona section, while keeping the focus on
 
 ## The Fall of Kona and the Eastern Void
 
-For several decara after **The Drift**, the city of **Kona** was the largest producer of nashi outside Reddelstone. Its fields supplied demand throughout much of East Yanorra. For a time, Kona was celebrated as proof that nashi could be grown profitably beyond Anqaran control.
+For several years after **The Drift**, the city of **Kona** was the largest producer of nashi outside Reddelstone. Its fields supplied demand throughout much of East Yanorra. For a time, Kona was celebrated as proof that nashi could be grown profitably beyond Anqaran control.
 
 At the time, the lands east of the **Chatunkut Mountains**, and south of the Khn River, were claimed by **Velu**. This was recognized on maps, tax rolls, and government records. Kona, several smaller towns, and the settlements along the eastern lowlands were governed through local magistrates, trade inspectors, agricultural officers, and military detachments who held loyalty to Byad, Velu's capital.
 
@@ -2330,9 +2366,9 @@ Attempts to cut it back often made matters worse. Severed runners produced new g
 
 Families began to leave as nashi spread, growing along the sides of buildings and even into homes. As the people fled, markets closed, banks withdrew their guards and temples sealed their doors. The city government continued issuing orders after large parts of Kona were already empty. In later accounts, this period is remembered less as an evacuation than as a slow admission that Kona no longer belonged to people.
 
-This pattern was repeated all along the eastern lowlands. One by one, small towns and villages to fail. Some were abandoned after their fields were overtaken, or their wells were consumed by nashi roots. Others were evacuated after nashi spread into their yards, roads or animal yards. A few held out behind salt lines and local burn crews for several decara before finally emptying. As these settlements disappeared, so did Velu’s practical authority in the region. Officially, the eastern lowlands remained Veluan territory. In reality, the government had become little more than a memory.
+This pattern was repeated all along the eastern lowlands. One by one, small towns and villages to fail. Some were abandoned after their fields were overtaken, or their wells were consumed by nashi roots. Others were evacuated after nashi spread into their yards, roads or animal yards. A few held out behind salt lines and local burn crews for several years before finally emptying. As these settlements disappeared, so did Velu’s practical authority in the region. Officially, the eastern lowlands remained Veluan territory. In reality, the government had become little more than a memory.
 
-Over the following decara, Konashi spread across much of the surrounding lowland belt. To the south and east, it was checked only by the sea. To the west, the **Chatunkut Mountains** formed a natural wall against its advance. To the north, the wide mouth of the **Khn River**, together with salted fields along its southern bank, slowed the spread enough for frontier defenses to take hold.
+Over the following years, Konashi spread across much of the surrounding lowland belt. To the south and east, it was checked only by the sea. To the west, the **Chatunkut Mountains** formed a natural wall against its advance. To the north, the wide mouth of the **Khn River**, together with salted fields along its southern bank, slowed the spread enough for frontier defenses to take hold.
 
 The northern edge of the Konashi growth is now considered one of the most important containment fronts in East Yanorra, and by many, all of Yanorra. Burn units from **Khn** regularly cross the river to salt the fields, cut new runners, and destroy fresh growth before it can establish itself. These efforts serve only to keep the line from moving.
 
@@ -2388,7 +2424,7 @@ Many people believe that if nashi breaks through Khn and the northern passes, th
 
 The **Khn Trail**, running south from Khn toward **Saple Town**, is the most infamous route through the Nashi Fields. On old maps it appears as a coastal trade road. In modern use, it is closer to a dare. Travel on the Khn Trail requires passage through Khn where authorities restrict journeys beyond the walls and on the trail.
 
-Even when permitted, very few attempt the Khn Trail in any given centara. Of those who do attempt it, a troubling number never arrive at Saple Town and never return to Khn. When they vanish, there is rarely a body to bury. 
+Even when permitted, very few attempt the Khn Trail in any given year. Of those who do attempt it, a troubling number never arrive at Saple Town and never return to Khn. When they vanish, there is rarely a body to bury. 
 
 The Nashi Fields are both a place and a warning. They are what happens when a useful plant is treated as an ordinary crop, when containment becomes expense, when profit outruns memory, and when no authority acts until the land itself has chosen another master.
 
@@ -2401,7 +2437,7 @@ The Nashi Fields are both a place and a warning. They are what happens when a us
 
 **Noxoch Isle** is a remote landmass located north of Saint Aveline and beyond the established boundaries of the Farlands. Its existence is widely accepted, though its current condition, habitability, and accessibility remain unresolved.
 
-The isle appears on several pre- and early post-Drift maritime charts, typically without detail and often annotated with warnings regarding unreliable currents and atmospheric disturbance. No verified surface survey of Noxoch Isle has been conducted in the last several centara.
+The isle appears on several pre- and early post-Drift maritime charts, typically without detail and often annotated with warnings regarding unreliable currents and atmospheric disturbance. No verified surface survey of Noxoch Isle has been conducted in many years.
 
 ---
 
@@ -2415,7 +2451,7 @@ Several maps mark the surrounding waters with phrases translated as *“unsettle
 
 ## **History and Contact**
 
-Fragmentary records suggest intermittent contact with Noxoch Isle during the early post-Drift era, primarily by fishing fleets and independent traders operating out of Saint Aveline. These accounts diminish sharply after approximately **centara 12**, after which no confirmed round-trip voyages are recorded.
+Fragmentary records suggest intermittent contact with Noxoch Isle during the early post-Drift era, primarily by fishing fleets and independent traders operating out of Saint Aveline. These accounts diminish sharply after several years, after which no confirmed round-trip voyages are recorded.
 
 A commonly referenced Intalink post from **INTA-NORTH / Mariners / Thread 4412** states:
 
@@ -2482,7 +2518,7 @@ A frequently quoted Intalink remark from **INTA-LOCAL / Saint Aveline / Thread 3
 ---
 
 *Editor’s note:*
-This entry reflects the current consensus of available sources. New information regarding Noxoch Isle has not been verified in over ten centara.
+This entry reflects the current consensus of available sources. New information regarding Noxoch Isle has not been verified in more than 100 years.
 
 
 -------------------------------------------------------- Obetoku.md -------------------------------------------------------- 
@@ -3500,7 +3536,7 @@ A group of southern islands located off the shore of Saple between the Veloku Oc
 
 *Entry 1.0 — Celestial and Historical Events Archive*
 
-**The Drift** is the name given to the world-changing celestial disturbance that occurred approximately **146 centara** ago (current date ~146.10.0). It is recognized as the most consequential event in recorded Yanorran history, reshaping the planet’s orbit, climate, society, and collective psychology.
+**The Drift** is the name given to the world-changing celestial disturbance that occurred approximately **419 years ago**. It is recognized as the most consequential event in recorded Yanorran history, reshaping the planet’s orbit, climate, society, and collective psychology.
 Although its precise astronomical cause remains debated, most scholars agree that The Drift began with the appearance and long sky-crossing of **Lo Disporum**, a massive wandering star-fragment whose passage through the outer system altered the path of **Ember Mother** and threw Yanorra into its present unstable orbit. 
 
 ---
@@ -3560,7 +3596,7 @@ Yanorra now moves on an **elongated and unpredictable ellipse**. Astronomers can
 2. Drift outward into the cold dark,
 3. Or remain trapped in its unstable cycle indefinitely.
 
-All agree, however, that the old “year” has no meaning — hence the modern **day-based calendar** (centara, decara, day). 
+All agree, however, that the old “year” has no meaning — hence the modern Axial Count system, a **day-based calendar**. See [Calendar](./Calendar.md).
 
 ---
 
@@ -3599,7 +3635,6 @@ The Drift triggered:
 * Migrations from formerly fertile regions
 * Collapse of several coastal cities
 * Increased insularity and militarization of nations
-* A multi-centara decline in science and technology
 * A psychological era known as the **Long Sorrow**, marked by despair, fatalism, and widespread cultural pessimism
 
 Most Yanorrans today believe global extinction is a matter of time. 
@@ -3678,7 +3713,7 @@ The Farlands lie north of the main Riftlands routes and beyond Sabletown. The re
 
 ## Climate
 
-Conditions are harsh and unpredictable. Winters are long and severe, summers brief and intense, and snowfall can occur in any centara. Coastal winds are frequent and disruptive.
+Conditions are harsh and unpredictable. Winters are long and severe, summers brief and intense, and snowfall can occur in any time of year. Coastal winds are frequent and disruptive.
 
 ## History
 
@@ -3734,19 +3769,20 @@ The climate is mild and sea-tempered, with warm, bright summers and gentle winte
 
 ## History
 
-Their shared name reaches back to pre-Drift age, when all of Eanorra was ruled under a single crown: King Shirif.
+The name, "Three Sisters", is traced to the late pre-Drift Shirif period, when much of Eanorra is said to have been united beneath the rule of **King Shirif**. Although many details of Shirif’s reign survive only through copied court records and later chronicles, the succession crisis surrounding his children remains one of the best-known episodes in early Eanorran political history.
 
-Shirif's court followed the tradition that when a throne was vacated, it was the youngest living heir born at the moment of succession. For most of Shirif's reign, this seemed of little consequence. He had three daughters - Ende, Obe, and Tsue, each raised with the expectation that power would remain within their grasp.
+For much of King Shirif’s reign, succession appeared settled. His eldest daughter, **Ende**, was widely understood to be the heir to the throne, with her younger sisters, **Obe** and **Tsue**, expected to hold powerful positions beside her. Contemporary tradition presents the three princesses not as rivals, but as a shared royal household prepared to govern together, with Ende ruling first among them.
 
-But in his later years, King Shirif fathered a son, Bibi.
+Late in his reign, however, Shirif fathered a son, **Bibi**. The boy’s birth altered the future of the realm at once. Under the prevailing customs of Shirif’s court, a male heir took precedence over daughters, even when born much later in the royal line. Bibi’s existence therefore displaced Ende’s expected succession and reduced the political futures of all three sisters.
 
-The birth of Bibi threatened everything. Under Shirif custom, the boy's existence meant the daughters' claim to the future was no longer secure. Fear curdled into desperation, and desperation into conspiracy. In secret, the three daughters arranged the death of their young brother, extinguishing the one heir who could displace them.
+Bibi died while still a child. The most widely accepted story holds that Ende, Obe, and Tsue conspired to have their brother killed, fearing that his survival would end their claim to rule. Some modern historians caution that the surviving accounts were written under royal authority and may reflect Shirif’s condemnation more than a neutral record of events, but the accusation remains central to the region’s historical memory.
 
-In grief and fury, King Shirif did not honor his daughters with inheritance. Instead, he renamed his realm **Bibi Shirif**, binding the land forever to the memory of the son he lost. He banished Ende, Obe, and Tsue to the southern territories - distant lands beyond the heart of his power.
+King Shirif treated his son’s death as both murder and betrayal. Rather than restore his daughters to favor, he disinherited them and renamed the royal realm **Bibi Shirif**, binding the state itself to the memory of the lost heir. Ende, Obe, and Tsue were then exiled to the southern territories, far from the royal center.
 
-Over time, those exile-lands hardened into nations of their own. Thus were born the three sister states, remembered collectively as **The Three Sisters**.
+Over time, these exile territories developed separate courts, local administrations, and eventually distinct national identities. From this origin come the three sister states: **[Endotoku](./Endotoku.md)**, **[Obetoku](./Obetoku.md)**, and **[Totoku](./Totoku.md)**, remembered collectively as **The Three Sisters**.
 
-In the modern era, the Three Sisters remain bound by shared language, interwoven customs, and long-established trade routes. Free commerce flows easily across their borders, and their peoples often see one another as kin. Yet politically, each nation stands apart; independent, proud, and still shadowed by the story of three daughters, one brother, and a king who could never forgive.
+In the modern era, the Three Sisters remain closely linked by language, trade, marriage customs, and shared historical memory. Their borders are open to commerce to a degree uncommon elsewhere in Yanorra, and many inhabitants regard the three peoples as kin. Politically, however, each state remains independent and protective of its own sovereignty. The story of Ende, Obe, Tsue, Bibi, and King Shirif continues to shape how the region understands both its unity and its separation.
+
 
 ## Notable Locations
 
@@ -4247,7 +4283,7 @@ Velu solidified its agricultural dominance by fortifying Gate Thaurin, transform
 
 The Anqaran people, marginalized by Velu’s centralized policies, were displaced from the fertile plains to the rugged mountains and coastal cliffs. There, they formed insular communities, preserving their unique agricultural techniques and rituals, blending Anqaran traditions with Velu’s culture.
 
-About 800 centara (~220 Earth years) after The Drift, the Anqaran people declared independence, establishing Reddelstone, a small nation in the mountains near near the now mostly empty Velu city of Big Bay. Velu’s government, prioritizing agricultural exports, largely ignored Reddelstone, allowing it to develop as an independent, self-sufficient enclave. Velu adopted Anqaran techniques, such as terraced farming and seed preservation, to enhance its output, maintaining its role as a key food supplier to Duvessa, Bibi Shirif, and the Three Sisters. 
+About 200 years after The Drift, the Anqaran people declared independence, establishing Reddelstone, a small nation in the mountains near near the now mostly empty Velu city of Big Bay. Velu’s government, prioritizing agricultural exports, largely ignored Reddelstone, allowing it to develop as an independent, self-sufficient enclave. Velu adopted Anqaran techniques, such as terraced farming and seed preservation, to enhance its output, maintaining its role as a key food supplier to Duvessa, Bibi Shirif, and the Three Sisters. 
 
 Tensions with Duvessa grew due to Duvessa's control over the Riftlands trade route, fostering resentment among Velu’s leaders and the Anqaran diaspora.
 

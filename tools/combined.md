@@ -1053,7 +1053,7 @@ Timekeeping in Yanorra is divided by [The Drift](./The_Drift.md). Pre-Drift date
 
 Before The Drift, most formal records in Yanorra were dated according to the **Qamar Tables**, a year-based calendar system associated with the old observatories of Bibi Shirif. Tradition holds that astronomers in Zayn al-Qamar standardized the Tables during the late Shirif period, combining older temple, maritime, and agricultural calendars into a system that could be used across regions.
 
-Under the Qamar Tables, a year represented one complete revolution of Yanorra around the Ember Mother. This was calculated as approximately **365.22 days**, requiring periodic corrections to keep civic dates aligned with the true orbital year. 
+Under the Qamar Tables, a year represented one complete revolution of Yanorra around the [Ember Mother](./Ember_Mother.md). This was calculated as approximately **365.22 days**, requiring periodic corrections to keep civic dates aligned with the true orbital year. 
 
 After The Drift, the Qamar Tables survived in archives, ceremonies, and local traditions, but they lost practical authority as Yanorra’s orbit became unreliable.
 
@@ -1061,7 +1061,7 @@ After The Drift, the Qamar Tables survived in archives, ceremonies, and local tr
 
 The modern calendar of Yanorra is known as the **Axial Count**. It was created after The Drift made the old year-based systems unreliable, but it did not abandon the idea of a year entirely. Instead, the Axial Count defines a year as a fixed civil unit of **365 days**, independent of Yanorra’s changing position around the Ember Mother. Because the modern year no longer attempts to remain synchronized with a true solar revolution, the fractional correction used by the Qamar Tables is no longer needed.
 
-Year 0 of the Axial Count begins on the first day after **Lo-Disporum passed beyond naked-eye visibility**. Although The Drift itself unfolded over many years, this disappearance became the accepted symbolic boundary between the old sky and the modern era. Dates before this point are generally recorded by the Qamar Tables, while dates after it are recorded by the Axial Count.
+Year 0 of the Axial Count begins on the first day after **[Lo-Disporum](./Lo-Disporum.md) passed beyond naked-eye visibility**. Although The Drift itself unfolded over many years, this disappearance became the accepted symbolic boundary between the old sky and the modern era. Dates before this point are generally recorded by the Qamar Tables, while dates after it are recorded by the Axial Count.
 
 Astronomers separately track Yanorra’s actual revolutions around the Ember Mother. These are called **solar revolutions** or, in formal observatory records, **completed orbital returns**. Since The Drift stretched Yanorra’s orbit into a more eccentric path, a true revolution now takes longer than an Axial year. As a result, the number of completed revolutions since The Drift is lower than the number of years recorded by the Axial Count. In ordinary life this distinction rarely matters, but in astronomy, climate study, navigation, and Drift research, both numbers are preserved.
 
@@ -1095,6 +1095,27 @@ Or:
 
 The last year by the Qamar Tables is **QT2850**, which corresponds to the year of Lo-Disporum’s disappearance and is considered the first year of the Axial Count (**AC1**). Adoption of the Axial Count was a gradual process that took place over several decades. By the mid-2900s, the Axial Count had become the dominant system for recording dates.
 
+## Annual Holidays and Events
+
+The following is a list of commonly observed holidays and events in Yanorra. This is not an exhaustive list, but it includes many of the most widely recognized dates.
+
+### Fixed Holidays
+
+These holidays are observed on the same date each year according to the Axial Count.
+
+| Date (AC) | Name / Description                                                                                     |
+| ---------: | ------------------------------------------------------------------------------------------------------ | 
+| 1.1        | **New Year’s Day** - The first day of the Axial Count, marking the beginning of the new era.          |
+| 1.28       | **Lo-Disporum’s Disappearance** - Commemorates the day when Lo-Disporum passed beyond naked-eye visibility, marking the symbolic boundary between the old sky and the modern era. |
+
+### Sky Observances
+
+The following holidays are observed on different dates each year, based on various factors.
+
+| Name / Description                                                                                     | Timing                                                                                                 |
+| ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
+| Periastron | The day when Yanorra is closest to Ember Mother, marked by festivals and rituals celebrating renewal and abundance. The date varies each year due to the eccentric orbit. |
+| Apastron    | The day when Yanorra is farthest from Ember Mother, marked by festivals and rituals celebrating endurance and reflection. The date varies each year due to the eccentric orbit. |
 
 
 -------------------------------------------------------- Children_of_the_Tide.md -------------------------------------------------------- 
@@ -1177,23 +1198,23 @@ This ambiguity is one reason the movement persists despite prohibitions.
 
 The following entries are commonly cited by harbor offices, military notices, and witness testimony. Numbers vary by source.
 
-## 145.10.03 - Hautspeej Massacre, Outer Duvessa coast
+## [AC174/Lynn/28](./Calendar.md) - Hautspeej Massacre, Outer Duvessa coast
 
 A prohibited gathering dispersed under warning fire from local Dornish detachments. The front rank continued into surf while rear ranks broke formation. Reported losses: 11 confirmed dead, 27 missing, unknown number fled inland.
 
-## 146.1.27 - Pride Rock's Landing, Saint Aveline
+## [AC230/Shirif/30](./Calendar.md) - Pride Rock's Landing, Saint Aveline
 
 Small procession (estimated 22-30). Witnesses reported near-total wind drop for the duration of the entry. Twelve participants re-emerged two days later and refused formal debrief.
 
-## 146.2.19 - The Walk of 300 (Spencer, S'Tsutodo)
+## [AC287/Nedma/12](./Calendar.md) - The Walk of 300 (Spencer, S'Tsutodo)
 
 Estimated 300 walkers entered at dusk in organized formation based on witness reports. Over multiple days, authorities recovered 288 confirmed dead from the shoreline and sea, marking the largest single-Walk casualty count on record. Following this event, the S'Tsutodo government initiated a severe crackdown on cult activity, banning gatherings and increasing coastal patrols.
 
-## 146.3.11 - Sablelight Beach, Saint Aveline
+## [AC341/Soleil/3](./Calendar.md) - Sablelight Beach, Saint Aveline
 
 Harbor observers counted approximately 140 participants in parallel rows across the eastern beach. Event concluded before sunrise with widespread disappearances and no debris field.
 
-## 146.4.02 - South Shoal Steps, Farland chain
+## [AC366/Kotlega/27](./Calendar.md) - South Shoal Steps, Farland chain
 
 Mixed-age procession led by three elder watchers carrying unlit lantern frames. Entire line halted at waist depth and withdrew intact. This event is frequently cited by scholars as evidence that not all Walks are terminal rites.
 

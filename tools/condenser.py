@@ -1,10 +1,10 @@
 from pathlib import Path
 
 # Set these variables
-SOURCE_DIR = Path("S:/dfs/yanorra/yanorra-wiki/Wiki")
-TOP_FILES = ["S:/dfs/yanorra/yanorra-wiki/README.md", "S:/dfs/yanorra/yanorra-wiki/Indices/nations.md"]
+SOURCE_DIR = Path("..")
+TOP_FILES = ["../README.md", "../Indices/nations.md"]
 BOTTOM_FILES = []
-OUTPUT_FILE = Path("S:/dfs/yanorra/yanorra-wiki/tools/combined.md")
+OUTPUT_FILE = Path("combined.md")
 STRIP_FRONTMATTER = True
 
 def strip_frontmatter(content: str) -> str:

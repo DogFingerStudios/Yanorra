@@ -30,7 +30,7 @@ For example:
 
 Or:
 
-> **Cassia 18, QT2849**
+> **Cassia 18, QT2849** 
 
 ### Qamar Table Rows
 
@@ -56,10 +56,11 @@ The following is a list of commonly observed holidays and events in Yanorra. Thi
 
 These holidays are observed on the same date each year according to the Axial Count.
 
-| Date (AC) | Name / Description                                                                                     |
-| ---------: | ------------------------------------------------------------------------------------------------------ | 
-| 1.1        | **New Year’s Day** - The first day of the Axial Count, marking the beginning of the new era.          |
-| 1.28       | **Lo-Disporum’s Disappearance** - Commemorates the day when Lo-Disporum passed beyond naked-eye visibility, marking the symbolic boundary between the old sky and the modern era. |
+| Date (AC)     | Name / Description                                                                                     |
+| ---------:    | ------------------------------------------------------------------------------------------------------ | 
+| Nandi 1        | **New Year’s Day** - The first day of the Axial Count, marking the beginning of the new era.          |
+| Nandi 28       | **Lo-Disporum’s Disappearance** - Commemorates the day when Lo-Disporum passed beyond naked-eye visibility, marking the symbolic boundary between the old sky and the modern era. |
+| Shirif 34     | **The Gatefast** - A Wanorran observance most common in Duvessa, Thornbelt, and Ronobetu. Traditionally associated with open passage, settled debts, road obligations, and remembrance of those lost after The Drift made the old Brooding Sea routes unreliable.
 
 ### Sky Observances
 

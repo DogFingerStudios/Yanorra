@@ -5,7 +5,7 @@
 
 ## Summary
 
-Yanorra is a terrestrial planet orbiting the red-hued Ember Mother, similar in size to Earth. Approximately 146,100 cycles ago, a massive object called Lo-Disporum disrupted its orbit in an event known as The Drift, forcing the planet into an unstable elliptical path and rendering long-distance sea travel impossible.
+Yanorra is a terrestrial planet orbiting the red-hued Ember Mother. Approximately 400 years ago, a massive object called Lo-Disporum disrupted its orbit in an event known as The Drift, forcing the planet into an unstable elliptical path and rendering long-distance sea travel impossible.
 
 The known world consists of two major continents, East Yanorra and West Yanorra, representing roughly 35% of the planet's surface. Large portions remain inaccessible and unmapped. Whether other continents exist beyond the Eastvoid and Westvoid Oceans is unknown. The planet has two moons: Serya (stable) and Mirelda (erratic), whose competing gravity destabilizes tides. 
 

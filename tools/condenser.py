@@ -1,7 +1,7 @@
 from pathlib import Path
 
 # Set these variables
-SOURCE_DIR = Path("..")
+SOURCE_DIR = Path("../Wiki")
 TOP_FILES = ["../README.md", "../Indices/nations.md"]
 BOTTOM_FILES = []
 OUTPUT_FILE = Path("combined.md")
@@ -43,6 +43,7 @@ def combine_markdown_files(source_dir: Path, output_file: Path) -> None:
         for top_file in TOP_FILES:
             top_path = Path(top_file)
             if top_path.is_file():
+                print(f'Adding top file: {top_file}')
                 out.write(f"-------------------------------------------------------- {top_path.name} -------------------------------------------------------- \n\n")
                 with top_path.open("r", encoding="utf-8") as src:
                     content = src.read()
@@ -55,6 +56,7 @@ def combine_markdown_files(source_dir: Path, output_file: Path) -> None:
 
 
         for md_file in md_files:
+            print(f'Adding file: {md_file.name}')
             out.write(f"-------------------------------------------------------- {md_file.name} -------------------------------------------------------- \n\n")
 
             with md_file.open("r", encoding="utf-8") as src:
@@ -67,6 +69,7 @@ def combine_markdown_files(source_dir: Path, output_file: Path) -> None:
             out.write("\n\n")
 
         for bottom_file in BOTTOM_FILES:
+            print(f'Adding bottom file: {bottom_file}')
             bottom_path = Path(bottom_file)
             if bottom_path.is_file():
                 out.write(f"-------------------------------------------------------- {bottom_path.name} -------------------------------------------------------- \n\n")

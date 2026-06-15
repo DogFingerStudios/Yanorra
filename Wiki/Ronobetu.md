@@ -18,19 +18,12 @@ show_in_indexes: true
 #### Table of Contents
 - [Overview](#overview)
 - [Geography](#geography)
-- [Climate](#climate)
 - [History](#history)
-- [Politics](#politics)
-- [Economy](#economy)
-- [Culture](#culture)
 - [Technology](#technology)
-- [Military](#military)
-- [Demographics](#demographics)
-- [Infrastructure](#infrastructure)
-- [Environment](#environment)
 - [Notable Events](#notable-events)
 
-**Ronobetu** is a nation.
+Ronobetu, often called Rono, known as one of the Wanorra’s great provision lands for its vast, reliable farms and food trade. Its close relationship with Thornbelt allows Rono goods to move eastward under low tariffs, making the narrow passage a vital artery between Ronobetu and Duvessa. Though largely peaceful, Ronobetu maintains an elite military force, and threats against the nation are rare mostly because those that arise are dealt with swiftly and without mercy.
+
 
 <a href="../Maps/Ronobetu.png" target="_blank"><img src="../Maps/Ronobetu.png" width="50%" height="50%"></a>
 
@@ -48,7 +41,17 @@ show_in_indexes: true
 
 ## Geography
 
-(TBD)
+Ronobetu occupies a broad stretch of western Wanorra, defined by open plains, river-fed farmland, and long overland routes leading east toward Thornbelt. Much of the country is low and gently rolling, with its western half receiving heavier rain and supporting the richest agricultural districts.
+
+### Terrain
+
+Running roughly north to south through central Ronobetu is the **Hallowback Range**, an ancient chain of low, weathered mountains that divides the wetter western plains from the drier eastern farms. Though not especially high, the range is vast, forested in places, and important for travel, mining, and regional identity.
+
+### Key Regions
+
+* **Western Plains**: Ronobetu’s greenest and most productive farming region.
+* **Eastern Farms**: Drier than the west, but still heavily cultivated and closely tied to the Thornbelt trade roads.
+* **Nomi Island**: A large, flat island off the western coast, known for grasslands, coastal farms, and wind-exposed settlements.
 
 ### Location
 

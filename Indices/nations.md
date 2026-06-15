@@ -3,7 +3,7 @@ id: index_nations
 title: Nations
 type: index
 category: places
-subcategory: nations
+subcategory: countries
 summary: A directory of the known nations of Yanorra, organized from wiki metadata.
 nav_label: Nations
 sort_title: Nations

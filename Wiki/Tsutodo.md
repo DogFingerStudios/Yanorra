@@ -1,14 +1,13 @@
 ---
-id: nation_tsutodo
+id: country_tsutodo
 title: Tsutodo
-type: nation
 category: places
-subcategory: nations
+subcategory: countries
 region: Wanorra
 summary: A nation located in Wanorra, known for its rich history, cultural diversity, and vibrant markets.
 capital: Cliford
 status: confirmed
-map_feature_id: nation_tsutodo
+map_feature_id: country_tsutodo
 show_in_indexes: true
 ---
 # Tsutodo

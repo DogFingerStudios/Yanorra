@@ -1,14 +1,13 @@
 ---
-id: nation_reddelstone
+id: country_reddelstone
 title: Reddelstone
-type: nation
 category: places
-subcategory: nations
+subcategory: countries
 region: East Yanorra
 summary: A nation located in East Yanorra, known for its rich history, cultural diversity, and vibrant markets.
 capital: Paz
 status: confirmed
-map_feature_id: nation_reddelstone
+map_feature_id: country_reddelstone
 show_in_indexes: true
 ---
 # Reddelstone

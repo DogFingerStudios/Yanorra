@@ -1,14 +1,13 @@
 ---
-id: nation_landofwater
+id: country_landofwater
 title: Land of Water
-type: nation
 category: places
-subcategory: nations
+subcategory: countries
 region: East Yanorra
 summary: A nation located in East Yanorra, known for its extensive waterways and proximity to the sea.
 capital: Qaria
 status: confirmed
-map_feature_id: nation_landofwater
+map_feature_id: country_landofwater
 show_in_indexes: true
 ---
 # Land of Water

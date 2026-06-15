@@ -1,14 +1,13 @@
 ---
-id: nation_totoku
+id: country_totoku
 title: Totoku
-type: nation
 category: places
-subcategory: nations
+subcategory: countries
 region: Eanorra
 summary: A nation located in Eanorra, known for its rich history, cultural diversity, and vibrant markets.
 capital: Totoku
 status: confirmed
-map_feature_id: nation_totoku
+map_feature_id: country_totoku
 show_in_indexes: true
 ---
 # Totoku

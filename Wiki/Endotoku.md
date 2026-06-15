@@ -1,14 +1,13 @@
 ---
-id: nation_endotoku
+id: country_endotoku
 title: Endotoku
-type: nation
 category: places
-subcategory: nations
+subcategory: countries
 region: Eanorra
 summary: A nation located in Eanorra, known for its rich history, cultural diversity, and vibrant markets.
 capital: Onerston
 status: confirmed
-map_feature_id: nation_endotoku
+map_feature_id: country_endotoku
 show_in_indexes: true
 ---
 # Endotoku

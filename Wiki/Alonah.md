@@ -1,14 +1,13 @@
 ---
-id: nation_alonah
+id: country_alonah
 title: Alonah
-type: nation
 category: places
-subcategory: nations
+subcategory: countries
 region: Sounorra
 summary: A remote island settlement in the southern Veloku Ocean between Wanorra and Sounorra, known for its tightly controlled port stop, Alonah-Clif.
 capital: Alonah-Clif
 status: confirmed
-map_feature_id: nation_alonah
+map_feature_id: country_alonah
 show_in_indexes: true
 ---
 # Alonah

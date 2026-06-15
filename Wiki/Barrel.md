@@ -1,14 +1,13 @@
 ---
-id: nation_barrel
+id: country_barrel
 title: Barrel
-type: nation
 category: places
-subcategory: nations
+subcategory: countries
 region: East Yanorra
 summary: A former maritime power on the western coast of East Yanorra. 
 capital: Seshai
 status: confirmed
-map_feature_id: nation_barrel
+map_feature_id: country_barrel
 show_in_indexes: true
 ---
 # Barrel

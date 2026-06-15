@@ -1,14 +1,13 @@
 ---
-id: nation_stsutodo
+id: country_stsutodo
 title: S'Tsutodo
-type: nation
 category: places
-subcategory: nations
+subcategory: countries
 region: Wanorra
 summary: A nation located in Wanorra, known for its rich history, cultural diversity, and vibrant markets.
 capital: Dima Eta
 status: confirmed
-map_feature_id: nation_stsutodo
+map_feature_id: country_stsutodo
 show_in_indexes: true
 ---
 # S'Tsutodo

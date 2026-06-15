@@ -1,14 +1,13 @@
 ---
-id: nation_obetoku
+id: country_obetoku
 title: Obetoku
-type: nation
 category: places
-subcategory: nations
+subcategory: countries
 region: Eanorra
 summary: A nation located in Eanorra, known for its rich history, cultural diversity, and vibrant markets.
 capital: Sanceibei
 status: confirmed
-map_feature_id: nation_obetoku
+map_feature_id: country_obetoku
 show_in_indexes: true
 ---
 # Obetoku

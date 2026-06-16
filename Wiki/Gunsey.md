@@ -1,3 +1,11 @@
+---
+id: settlement_gunsey
+name: Gunsey
+category: places
+subcategory: settlements
+country_id: country_duvessa
+show_in_indexes: true
+---
 # Gunsey
 
 <span y-type="mapelement" y-zoom="10" y-center="29.75, -3.54" y-minzoom="2" y-maxzoom="20" y-scrollwheelzoom="true" y-debug="true"/>

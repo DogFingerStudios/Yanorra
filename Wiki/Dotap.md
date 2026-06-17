@@ -48,8 +48,3 @@ Although Ronobetu is generally peaceful, Dotap is considered strategically impor
 
 For this reason, Dotap is sometimes described as “the soft shore with a hard spine”: welcoming to travelers and beachgoers, but firmly defended when necessary.
 
-## Reputation
-
-To merchants, Dotap is a place of paperwork, and passage. To travelers, it is often their first or last memory of Ronobetu before crossing into Thornbelt. To ordinary Wanorrans, however, Dotap is best known for something simpler: a rare city on the Brooding Sea where the water is calm, the beach is safe, and the horizon does not look quite so threatening.
-
-

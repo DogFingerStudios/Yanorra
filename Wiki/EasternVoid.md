@@ -11,26 +11,21 @@ show_in_indexes: true
 ---
 ## Eastern Void
 
-The **Eastern Void** is the eastern coastal belt of East Yanorra between the Chatunkut mountain wall and the Eastvoid Ocean. On paper, it remains a mapped region with old roads, settlements, and survey marks. In lived experience, it is known primarily as the largest unmanaged nashi zone in Yanorra.
-
-People west of the Chatunkut range often shorten the entire matter to one phrase: **"Only nashi."** That phrase is an exaggeration, but not by much.
+The **Eastern** Void is the eastern coastal belt of East Yanorra, lying between the Chatunkut mountain wall and the Eastvoid Ocean, and south of the Khn River. Though not entirely uninhabited, the region has been largely emptied of permanent settlement by the spread of unmanaged nashi growth, which has made travel hazardous and long-term habitation nearly impossible.
 
 ---
 
 ## Overview
 
-The region is not empty in the strict sense. Edge communities survive. Watch posts remain active. Defensive farm belts still operate in scattered pockets. But beyond the maintained burn lines and salt trenches, nashi dominates ground cover, waterways, and former transport corridors at a scale no nearby state has reversed.
+The region has only a small permanent human presence. Most inhabitants are concentrated in the northern town of Khn, while the interior is only sparsely populated with scientists and specialists assigned to the Khn Trail Service. 
 
-The settlement of **Khn** is generally considered the northern hard boundary of regular habitation in the region. South of Khn, the old coast route toward Saple Town survives only as a hazardous remnant known as the **Khn Trail**.
+Because of this, Khn is generally considered the northern hard boundary of regular habitation in the Eastern Void. South of Khn, the former coastal road toward Saple Town survives only as a service corridor maintained less for ordinary travel and more for the maintenance of the Chain houses along the route.
 
 ## Geography
 
-The Eastern Void lies on a narrow and unstable strip between:
+The Eastern Void is a narrow coastal region in eastern East Yanorra, bounded by the Chatunkut Mountains to the west and the Eastvoid Ocean to the east. The region extends south of the Khn River and occupies the lowland corridor between the mountain slopes and the coast.
 
-- the eastern slopes and passes of the Chatunkut Mountains,
-- and the exposed coast of the Eastvoid Ocean.
-
-This geography leaves little depth for retreat or rerouting. Where old roads fail, travelers are forced toward either mountain detours or direct contact with nashi margins. Seasonal rain, marsh inlets, and clay collapse further reduce reliable movement.
+The area has limited natural routes through it. Inland travel is constrained by the Chatunkut Mountains, while coastal travel is affected by marshland, damaged roads, and the spread of nashi growth. As a result, movement through the region is generally restricted to remaining sections of older roads, maintained service corridors, and mountain detours west of the affected lowlands.
 
 ## Nashi Expansion
 
@@ -78,24 +73,13 @@ Field reports from trail-carters describe recurring hazards:
 - marsh-edge instability where old routes cross low inlets,
 - cognitive drift in prolonged exposure conditions.
 
-## Dima Eta Account
+## Khn Trail Service
 
-One widely circulated travel account from a writer originating in **Dima Eta** describes a partial Khn Trail attempt undertaken with a local trail-carter, **Orven Hask**. The party turned back after severe route degradation and direct runner contact with a draft animal near a failed bridge section.
+The **Khn Trail Service** maintains the remaining usable sections of the Khn Trail and operates a network of small technical outposts known as **Chain Houses**. These stations are spaced roughly one hundred miles apart and are usually staffed by one to four specialists on rotating assignments.
 
-The traveler later recorded that less than one quarter of the mapped Khn-to-Saple line had been covered before retreat. In Khn archival circles, this account is often cited for its practical detail about cart protocols, mule feed isolation, wheel wrapping, and perimeter behavior.
+The Chain Houses are not settlements. They serve as combined maintenance posts, radio relays, weather stations, emergency shelters, and Horizon Chain monitoring points. 
 
-The same account also includes a greenwake-related visionary episode that some readers interpret literally and others treat as stress chemistry under nashi exposure. Local editors retain the record as testimony, but not as proof of nashi sentience.
-
-## Current Status
-
-No regional authority has presented a credible near-term reclamation plan for the full Eastern Void belt. Existing policy remains defensive and local:
-
-- hold existing inhabited edges,
-- keep corridor access open where possible,
-- prevent western spread across key passes,
-- and preserve documentation for future containment science.
-
-In practical terms, the Eastern Void is mapped as land, governed in fragments, and lived as a moving frontier.
+Because the Eastern Void lies between Khn and Saple Town, the Service is considered important to the planned southern expansion of Horizon Chain. Keeping the Chain Houses supplied and reachable allows engineers to maintain correction data across a region where maps, roads, and signals are otherwise unreliable.
 
 ---
 

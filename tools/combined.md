@@ -7,7 +7,7 @@
 
 ## Summary
 
-Yanorra is a terrestrial planet orbiting the red-hued Ember Mother, similar in size to Earth. Approximately 146,100 cycles ago, a massive object called Lo-Disporum disrupted its orbit in an event known as The Drift, forcing the planet into an unstable elliptical path and rendering long-distance sea travel impossible.
+Yanorra is a terrestrial planet orbiting the red-hued Ember Mother. Approximately 400 years ago, a massive object called Lo-Disporum disrupted its orbit in an event known as The Drift, forcing the planet into an unstable elliptical path and rendering long-distance sea travel impossible.
 
 The known world consists of two major continents, East Yanorra and West Yanorra, representing roughly 35% of the planet's surface. Large portions remain inaccessible and unmapped. Whether other continents exist beyond the Eastvoid and Westvoid Oceans is unknown. The planet has two moons: Serya (stable) and Mirelda (erratic), whose competing gravity destabilizes tides. 
 
@@ -1119,6 +1119,12 @@ The following holidays are observed on different dates each year, based on vario
 | Apastron    | The day when Yanorra is farthest from Ember Mother, marked by festivals and rituals celebrating endurance and reflection. The date varies each year due to the eccentric orbit. |
 
 
+-------------------------------------------------------- Cam_Tower.md -------------------------------------------------------- 
+
+# Cam Tower
+
+
+
 -------------------------------------------------------- Children_of_the_Tide.md -------------------------------------------------------- 
 
 # Children of the Tide
@@ -1244,6 +1250,64 @@ No interpretation has achieved broad consensus.
 *See also:* [The Drift](./The_Drift.md), [The Farlands](./The_Farlands.md), [Saint Aveline](./Saint_Aveline.md), [Duvessa](./Duvessa.md)
 
 
+
+
+
+-------------------------------------------------------- Clitham.md -------------------------------------------------------- 
+
+# Citham
+
+
+
+-------------------------------------------------------- Dima_Eta.md -------------------------------------------------------- 
+
+# Dima Eta
+
+
+
+-------------------------------------------------------- Dotap.md -------------------------------------------------------- 
+
+# Dotap
+
+**Dotap** is a major coastal city in northern **Ronobetu**, situated near the border with **Thornbelt** and close to **West Gate 43**, the first Thornbelt gate encountered by goods and travelers moving west. Because of its position, Dotap serves as one of Ronobetu’s most important trade and transit cities, handling agricultural exports, overland caravans, coastal shipping, border traffic, and the steady movement of people between Ronobetu and Thornbelt.
+
+Unlike many settlements along the **Brooding Sea**, Dotap is also known for its unusually calm shoreline. Its beaches are among the few places in Wanorra where the sea is gentle enough near the coast for regular swimming, making the city both a commercial hub and a rare leisure destination.
+
+## Geography
+
+Dotap lies on the northern coast of Ronobetu, where the country’s fertile inland routes meet the sea roads and border roads leading into Thornbelt. The city’s northern districts face the Brooding Sea, while its eastern and inland approaches connect to farms, storage towns, and road stations that feed goods toward the border.
+
+The coast around Dotap is protected by a shallow, curved bay and offshore formations that break much of the sea’s force before it reaches the beach. This gives the city its famous calm waters, a striking contrast to the rougher, colder, and more dangerous stretches of the Brooding Sea found elsewhere in Wanorra.
+
+## Trade and Border Traffic
+
+Dotap’s importance comes largely from its proximity to **West Gate 43** in Thornbelt. Goods traveling west from Ronobetu often pass through Dotap before entering Thornbelt’s controlled gate system. Agricultural produce, preserved foods, textiles, tools, livestock, and seasonal labor all move through the city in large quantities.
+
+The city contains several large market yards, warehouse districts, caravan houses, customs offices, and broker halls where Thornbelt and Ronobetu merchants negotiate tariffs, inspections, and onward transport. Because Ronobetu enjoys favorable trade terms with Thornbelt, Dotap has become a preferred crossing point for merchants who want predictable fees and reliable access to western routes.
+
+## Districts
+
+Dotap is commonly divided into three broad areas: the **Harbor Quarter**, the **Gate Road District**, and the **Beach Wards**. The Harbor Quarter handles coastal shipping and fish markets, while the Gate Road District is dominated by warehouses, inns, transport yards, and administrative offices tied to West Gate 43. The Beach Wards are older residential and leisure districts built along the calmest parts of the bay.
+
+The city also has several unofficial migrant quarters, where travelers, seasonal workers, dockhands, and traders from Thornbelt, Ronobetu, and farther parts of Wanorra settle temporarily or permanently. These districts give Dotap a more cosmopolitan character than many inland Ronobetu cities.
+
+## Beaches and the Calm Sea
+
+Dotap’s beaches are famous throughout northern Wanorra. While the Brooding Sea is often associated with heavy surf, dangerous currents, and cold, unsettled waters, Dotap’s bay is calm enough for wading and swimming during much of the year. Families, merchants, travelers, and soldiers on leave often gather along the shore, especially during trade festivals and gate holidays.
+
+Swimming in Dotap is sometimes treated almost as a civic ritual. Local guides mark safe areas with poles and flags, and many inns advertise their proximity to the “quiet water.” The calm shoreline has also made Dotap a popular place for small boats, children’s rowing, and ceremonial sea blessings.
+
+## Culture
+
+Dotap’s culture reflects its dual identity as both a working border city and a coastal resort. The streets near the gate roads are noisy, crowded, and practical, filled with wagon teams, porters, inspectors, merchants, and border agents. By contrast, the beach wards are slower and more social, with tea houses, food stalls, shell markets, musicians, and evening promenades along the water.
+
+The city is known for seafood cooked with inland Ronobetu grains and Thornbelt spices, a cuisine shaped by trade as much as geography. Dotap festivals often celebrate safe passage, open roads, calm water, and the prosperity brought by movement between nations.
+
+## Strategic Importance
+
+Although Ronobetu is generally peaceful, Dotap is considered strategically important because of its location near Thornbelt and its role in moving goods westward. The city maintains a disciplined security presence around the gate road, warehouses, and harbor. In times of threat, Ronobetu’s military can quickly secure Dotap, close the road approaches, and protect the trade corridor.
+
+For this reason, Dotap is sometimes described as “the soft shore with a hard spine”: welcoming to travelers and beachgoers, but firmly defended when necessary.
 
 
 
@@ -1472,26 +1536,21 @@ Duvessa remains locked in a civil war between the DO and the Sombra Insurgents, 
 
 ## Eastern Void
 
-The **Eastern Void** is the eastern coastal belt of East Yanorra between the Chatunkut mountain wall and the Eastvoid Ocean. On paper, it remains a mapped region with old roads, settlements, and survey marks. In lived experience, it is known primarily as the largest unmanaged nashi zone in Yanorra.
-
-People west of the Chatunkut range often shorten the entire matter to one phrase: **"Only nashi."** That phrase is an exaggeration, but not by much.
+The **Eastern** Void is the eastern coastal belt of East Yanorra, lying between the Chatunkut mountain wall and the Eastvoid Ocean, and south of the Khn River. Though not entirely uninhabited, the region has been largely emptied of permanent settlement by the spread of unmanaged nashi growth, which has made travel hazardous and long-term habitation nearly impossible.
 
 ---
 
 ## Overview
 
-The region is not empty in the strict sense. Edge communities survive. Watch posts remain active. Defensive farm belts still operate in scattered pockets. But beyond the maintained burn lines and salt trenches, nashi dominates ground cover, waterways, and former transport corridors at a scale no nearby state has reversed.
+The region has only a small permanent human presence. Most inhabitants are concentrated in the northern town of Khn, while the interior is only sparsely populated with scientists and specialists assigned to the Khn Trail Service. 
 
-The settlement of **Khn** is generally considered the northern hard boundary of regular habitation in the region. South of Khn, the old coast route toward Saple Town survives only as a hazardous remnant known as the **Khn Trail**.
+Because of this, Khn is generally considered the northern hard boundary of regular habitation in the Eastern Void. South of Khn, the former coastal road toward Saple Town survives only as a service corridor maintained less for ordinary travel and more for the maintenance of the Chain houses along the route.
 
 ## Geography
 
-The Eastern Void lies on a narrow and unstable strip between:
+The Eastern Void is a narrow coastal region in eastern East Yanorra, bounded by the Chatunkut Mountains to the west and the Eastvoid Ocean to the east. The region extends south of the Khn River and occupies the lowland corridor between the mountain slopes and the coast.
 
-- the eastern slopes and passes of the Chatunkut Mountains,
-- and the exposed coast of the Eastvoid Ocean.
-
-This geography leaves little depth for retreat or rerouting. Where old roads fail, travelers are forced toward either mountain detours or direct contact with nashi margins. Seasonal rain, marsh inlets, and clay collapse further reduce reliable movement.
+The area has limited natural routes through it. Inland travel is constrained by the Chatunkut Mountains, while coastal travel is affected by marshland, damaged roads, and the spread of nashi growth. As a result, movement through the region is generally restricted to remaining sections of older roads, maintained service corridors, and mountain detours west of the affected lowlands.
 
 ## Nashi Expansion
 
@@ -1539,24 +1598,13 @@ Field reports from trail-carters describe recurring hazards:
 - marsh-edge instability where old routes cross low inlets,
 - cognitive drift in prolonged exposure conditions.
 
-## Dima Eta Account
+## Khn Trail Service
 
-One widely circulated travel account from a writer originating in **Dima Eta** describes a partial Khn Trail attempt undertaken with a local trail-carter, **Orven Hask**. The party turned back after severe route degradation and direct runner contact with a draft animal near a failed bridge section.
+The **Khn Trail Service** maintains the remaining usable sections of the Khn Trail and operates a network of small technical outposts known as **Chain Houses**. These stations are spaced roughly one hundred miles apart and are usually staffed by one to four specialists on rotating assignments.
 
-The traveler later recorded that less than one quarter of the mapped Khn-to-Saple line had been covered before retreat. In Khn archival circles, this account is often cited for its practical detail about cart protocols, mule feed isolation, wheel wrapping, and perimeter behavior.
+The Chain Houses are not settlements. They serve as combined maintenance posts, radio relays, weather stations, emergency shelters, and Horizon Chain monitoring points. 
 
-The same account also includes a greenwake-related visionary episode that some readers interpret literally and others treat as stress chemistry under nashi exposure. Local editors retain the record as testimony, but not as proof of nashi sentience.
-
-## Current Status
-
-No regional authority has presented a credible near-term reclamation plan for the full Eastern Void belt. Existing policy remains defensive and local:
-
-- hold existing inhabited edges,
-- keep corridor access open where possible,
-- prevent western spread across key passes,
-- and preserve documentation for future containment science.
-
-In practical terms, the Eastern Void is mapped as land, governed in fragments, and lived as a moving frontier.
+Because the Eastern Void lies between Khn and Saple Town, the Service is considered important to the planned southern expansion of Horizon Chain. Keeping the Chain Houses supplied and reachable allows engineers to maintain correction data across a region where maps, roads, and signals are otherwise unreliable.
 
 ---
 
@@ -2775,24 +2823,7 @@ The greatest environmental concern in Reddelstone is not drought or flood, but *
 
 <span y-type="mapelement" y-zoom="4" y-center="-4.09, -63.15" y-minzoom="2" y-scrollwheelzoom="true" y-debug="true"/>
 
-#### Table of Contents
-- [Overview](#overview)
-- [Geography](#geography)
-- [Climate](#climate)
-- [History](#history)
-- [Politics](#politics)
-- [Economy](#economy)
-- [Culture](#culture)
-- [Technology](#technology)
-- [Military](#military)
-- [Demographics](#demographics)
-- [Infrastructure](#infrastructure)
-- [Environment](#environment)
-- [Notable Events](#notable-events)
-
-**Ronobetu** is a nation.
-
-<a href="../Maps/Ronobetu.png" target="_blank"><img src="../Maps/Ronobetu.png" width="50%" height="50%"></a>
+**Ronobetu**, often called Rono, known as one of the Wanorra’s great provision lands for its vast, reliable farms and food trade. Its close relationship with Thornbelt allows Rono goods to move eastward under low tariffs, making the narrow passage a vital artery between Ronobetu and Duvessa. Though largely peaceful, Ronobetu maintains an elite military force, and threats against the nation are rare mostly because those that arise are dealt with swiftly and without mercy.
 
 ## Overview
 
@@ -2806,57 +2837,67 @@ The greatest environmental concern in Reddelstone is not drought or flood, but *
 - **Currency**: (TBD)  
 - **Religion**: (TBD)  
 
+---
+
 ## Geography
 
-(TBD)
+Ronobetu occupies a broad stretch of western Wanorra, defined by open plains, river-fed farmland, and long overland routes leading east toward Thornbelt. Much of the country is low and gently rolling, with its western half receiving heavier rain and supporting the richest agricultural districts.
 
-### Location
+### Terrain
 
-(TBD)
-
-### Terrain 
-
-(TBD)
+Running roughly north to south through central Ronobetu is the **Hallowback Range**, an ancient chain of low, weathered mountains that divides the wetter western plains from the drier eastern farms. Though not especially high, the range is vast, forested in places, and important for travel, mining, and regional identity.
 
 ### Key Regions
 
-(TBD)
+* **Western Plains**: Ronobetu’s greenest and most productive farming region.
+* **Eastern Farms**: Drier than the west, but still heavily cultivated and closely tied to the Thornbelt trade roads.
+* **Nomi Island**: A large, flat island off the western coast, known for grasslands, coastal farms, and wind-exposed settlements.
+
+---
 
 ## Climate
 
-(TBD)
+Ronobetu’s climate is shaped heavily by warm, moisture-bearing currents from the Westvoid Ocean, which bring frequent rain and mild coastal air to the western plains. The eastern half of the country is somewhat drier, with warmer summers, cooler winters, and more variable rainfall, though it remains suitable for large-scale agriculture. The Hallowback Range is wetter, mistier, and cooler than the surrounding lowlands, while the southern districts near the Mirelda Sea are colder and windier, with long gray seasons but few truly severe freezes.
+
+---
 
 ## History
 
-### Pre-Drift Era (~500,000 days ago, ~1,369 Earth years)
+### Pre-Drift Era
+
+Before The Drift, Ronobetu was one of the great provisioning powers of western Yanorra, its wealth built on grain, preserved food, livestock, and the movement of those goods across both land and sea. The eastern coast was especially important, with major port towns facing the Brooding Sea and sending regular cargo traffic toward Duvessa, Bibi Shirif, and the southern Eanorran markets. In this period, Ronobetu was not only an agricultural nation, but a maritime trading power whose ships and dock cities helped bind Wanorra to the rest of West Yanorra.
+
+As demand for Ronobetuan food increased, the country became an early innovator in rail construction. Rail lines were first built to move harvests from the western plains and Hallowback valleys toward the eastern ports, reducing the dependence on slow caravan roads and allowing larger quantities of grain and preserved goods to reach the coast before spoilage or weather delays. By the final generations before The Drift, Ronobetu was expanding its rail network aggressively, not as a replacement for sea trade, but as a way to feed the ports that made sea trade possible.
+
+This combination of rail and maritime commerce shaped Ronobetu’s pre-Drift identity. Inland farmers, rail engineers, port merchants, and shipowners all depended on one another, creating a national economy centered on movement: from field to storehouse, from storehouse to railhead, from railhead to harbor, and from harbor across the Brooding Sea. The system was prosperous, efficient, and increasingly ambitious, but it also left Ronobetu deeply exposed to the disaster that would follow when The Drift made the old sea routes unreliable.
+
+
+### The Drift
 
 (TBD)
 
-### The Drift (~146,100 days ago, ~400 Earth years)
+### Post-Drift Era
 
 (TBD)
 
-### Post-Drift Era (~145,000–130,000 days ago, ~397–356 Earth years)
+### Current Era
 
 (TBD)
 
-### Current Era (~146,100 days, ~400 Earth years since The Drift)
+---
 
-(TBD)
+## Government
 
-## Politics
+Ronobetu is governed under **The Hallowback Accord**, a foundational civic agreement that balances authority between the country’s farming districts and military offices. Its public government is centered on the **Field Assembly**, which manages ordinary law, taxation, land use, and regional representation, while the smaller **Plains Council** oversees food reserves, seed banks, export quotas, and emergency planning. Security is managed by the Field Security Authority, a military-intelligence authority charged with protecting Ronobetu’s fields, roads, and storehouses; its role helps explain how a famously peaceful nation can respond to serious threats with sudden and decisive force.
 
-- **Government**: (TBD)  
-- **Foreign Relations**: (TBD)  
-- **Key Issues**: (TBD)
+---
 
 ## Economy
 
-- **Overview**: (TBD)  
-- **Main Exports**: (TBD)  
-- **Main Imports**: (TBD)  
-- **Trade Hubs**: (TBD)  
-- **Challenges**: (TBD)
+Ronobetu’s economy is built around large-scale agriculture, food preservation, livestock, and overland trade through Thornbelt. The western plains produce the country’s richest harvests, including grain, root crops, orchard fruit, dairy, and preserved foods, while the eastern farms supply hardier crops and livestock for export along the Thornbelt roads. Because much of Wanorra and Eanorra depends on Rono goods, the Plains Council tightly monitors food reserves, seed stores, and export quotas, especially during unstable seasons.
+
+Ronobetu’s most important trade relationship is with Thornbelt, where long-standing agreements allow Rono goods to move eastward under lower tariffs than those imposed on most foreign merchants. This arrangement makes Ronobetu one of the chief suppliers of food to Duvessa and the broader Eanorran market, while also giving Thornbelt a steady flow of valuable trade through its gate towns. Although agriculture dominates public life, Ronobetu also maintains secondary industries in milling, canning, wool, leather, road freight, farm machinery repair, and Hallowback timber and stone.
+
 
 ## Culture
 
@@ -2882,20 +2923,20 @@ The greatest environmental concern in Reddelstone is not drought or flood, but *
 - **Ethnicity**: (TBD)  
 - **Languages**: (TBD)  
 
+---
+
 ## Infrastructure
 
-- **Ports**: (TBD)  
-- **Fortifications**: (TBD)  
-- **Housing**: (TBD)
+Ronobetu’s internal transport system is among the most developed in the known world. Horizon Chain coverage across the country is generally considered complete, allowing rail operators, road convoys and survey crews to coordinate movement with unusual precision even during poor weather or seasonal disruption. This reliability is especially important during harvest transfers, when grain, livestock, preserved food, and seed stock must be moved quickly between farms, storehouses, river depots, and eastern export routes.
 
-## Environment
+Ronobetu also maintains more railroad per person than any other nation on Yanorra, a necessity created by the scale of its agricultural output and the distance between its western plains, Hallowback passes, eastern farms, and Thornbelt crossings. The government has begun funding a rail extension across Thornbelt to reduce dependence on haulers along the eastern trade road, though much of the route still relies on heavy freight haulers for the final movement of goods between gates and railheads. 
 
-- **Post-Drift Effects**: (TBD)  
-- **Natural Resources**: (TBD)
+Ronobetu is also one of the most connected Intalink nations by private access, generally ranked second in household and farm-office connections, with terminals used for market prices, rail scheduling, weather notices, seed inventories, and long-distance trade coordination.
 
-## Notable Events
+## See Also
 
-(TBD)
+*See also:* [Cam Tower](./Cam_Tower.md), [Clitham](./Clitham.md). [Dotap](./Dotop.md).
+
 
 -------------------------------------------------------- S_Tsutodo.md -------------------------------------------------------- 
 
@@ -4249,8 +4290,6 @@ Thornbelt’s strict tariff regime remains the foundation of its power and the s
 - [Notable Events](#notable-events)
 
 **Velu** is a prominent agricultural nation located in East Yanorra, known for its fertile lands and strict immigration policies. Positioned as a critical trade partner for Duvessa, Velu plays a significant role in the post-Drift economy, supplying agricultural goods across the Veloku Ocean.
-
-<a href="../Maps/Velu.png" target="_blank"><img src="../Maps/Velu.png" width="50%" height="50%"></a>
 
 ## Overview
 

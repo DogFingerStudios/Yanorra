@@ -14,22 +14,7 @@ show_in_indexes: true
 
 <span y-type="mapelement" y-zoom="5" y-center="-13.91, -64.89" y-minzoom="2" y-scrollwheelzoom="true" y-debug="true"/>
 
-#### Table of Contents
-- [Overview](#overview)
-- [Geography](#geography)
-- [Climate](#climate)
-- [History](#history)
-- [Politics](#politics)
-- [Economy](#economy)
-- [Culture](#culture)
-- [Technology](#technology)
-- [Military](#military)
-- [Demographics](#demographics)
-- [Infrastructure](#infrastructure)
-- [Environment](#environment)
-- [Notable Events](#notable-events)
-
-**S'Tsutodo** is a nation.
+S'Tsutodo is a nation located in the southern part of West Yanorra, bordered by the Brooding Sea to the south and Ronobetu to the west. It is known for its dense forests, and mountainous regions. The nation is known for its technological advancements, and research in the fields of agriculture, forestry, and renewable energy.
 
 ## Overview
 
@@ -45,17 +30,15 @@ show_in_indexes: true
 
 ## Geography
 
-- Located in the southern part of West Yanorra.
-- Borders the Brooding Sea to the south Ronobetu to the west.
-- Known for its rugged terrain, dense forests, and mountainous regions.
+S'Tsutodo occupies the southeastern coast of the Ronobetuan landmass, facing the Brooding Sea. Its coastline includes several sheltered harbors and fishing towns, though the most important settlement, **Dima Eta**, sits on the southern shore, where it serves as the country’s capital and main connection to southern routes toward Alonah and Hav.
 
-### Location
+Off the eastern shore lies **Reyga Island**, a broad, low island known for its flat fields and reliable farmland. Although exposed to Brooding Sea weather, Reyga's workable soil makes it one of S'Tsutodo's most important agricultural districts, supplying grain, vegetables, and grazing stock to the mainland.
 
-(TBD)
+### Terrain
 
-### Terrain 
+Much of S'Tsutodo consists of coastal lowlands, wet forest, and rolling interior country broken by short ridges, river valleys, and cultivated basins. The western portion of the nation contains a small mountain group, the most prominent summit of which is traditionally known as Mount Auralis in the religion of Old Tsutodo.
 
-(TBD)
+Outside the western uplands, the land descends toward a softer coastal belt of farms, market towns, and old road settlements. The interior is greener and less densely populated than the coast, with forested slopes, seasonal streams, and small agricultural valleys feeding the larger settlements near the sea.
 
 ### Key Regions
 

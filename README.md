@@ -118,7 +118,7 @@ Anqara is a disputed land said to exist beyond the Eastvoid Ocean. Knowledge of 
 - Rotational cycle ≈ 1 Earth day
 - Yearly cycle = Increasingly unpredictable, no longer follows a fixed calendar. Calendar system is based on cycles (i.e. days) rather than years.
 
-### Celestial Satellites
+### Satellites
 
 Yanorra has two satellites. Their competing gravitation has made sea travel difficult—an issue amplified by The Drift.
 
@@ -128,6 +128,20 @@ Yanorra has two satellites. Their competing gravitation has made sea travel diff
 ### Local Star
 
 Yanorra orbits a single star called the **Ember Mother** which has a slight red hue. The Ember Mother has remained stable since The Drift.
+
+### Solar System
+
+The known solar system consists of four planets, including Yanorra, and a belt of debris. There are no known planets closer to the Ember Mother than Yanorra, and no known planets beyond Solar-Mar.
+
+- **Nemei**: Nemei is Yanorra’s nearest planetary sister, a cold world whose shifting green-white and blue-gray colors suggest seasons, ice, oceans, or possible vegetation.
+
+- **Hita**: Hita is a massive storm-banded gas giant whose strange upright orbit shapes the Amar-Ket Belt and gives it a reputation as both shield and threat.
+
+- **Amar-Ket Belt**: The Amar-Ket Belt is the system’s great scar, a broken field of debris whose meteor showers are tied to omen, prophecy, and fear.
+
+- **Solar-Mar**: Solaq-Mar is the farthest known planet, a dim blue-black giant that disappears from sight for decades before returning like a remembered myth.
+
+See [Solar System](./Wiki/Solar_System.md) for more information.
 
 ## Geopolitics
 

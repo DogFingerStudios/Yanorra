@@ -56,12 +56,11 @@ Ronobetu’s climate is shaped heavily by warm, moisture-bearing currents from t
 
 ### Pre-Drift Era
 
-Before The Drift, Ronobetu was one of the great provisioning powers of western Yanorra, its wealth built on grain, preserved food, livestock, and the movement of those goods across both land and sea. The eastern coast was especially important, with major port towns facing the Brooding Sea and sending regular cargo traffic toward Duvessa, Bibi Shirif, and the southern Eanorran markets. In this period, Ronobetu was not only an agricultural nation, but a maritime trading power whose ships and dock cities helped bind Wanorra to the rest of West Yanorra.
+Before The Drift, Ronobetu was one of the great agricultural powers of western Yanorra, its wealth built on grain, preserved food, livestock, rail transport, and Brooding Sea trade. Its western plains and Hallowback valleys fed the country’s eastern ports, where cargo moved toward Duvessa, Bibi Shirif, and the southern Eanorran markets.
 
-As demand for Ronobetuan food increased, the country became an early innovator in rail construction. Rail lines were first built to move harvests from the western plains and Hallowback valleys toward the eastern ports, reducing the dependence on slow caravan roads and allowing larger quantities of grain and preserved goods to reach the coast before spoilage or weather delays. By the final generations before The Drift, Ronobetu was expanding its rail network aggressively, not as a replacement for sea trade, but as a way to feed the ports that made sea trade possible.
+Ronobetu’s eastern expansion brought it into conflict with **Old Tsutodo**, which had once controlled much of the eastern coast through the fortified **Shore-Road**. During the final generations before The Drift, disputes over tariffs, port access, and military control drew Ronobetu into the Tsutodan crisis. Ronobetu claimed its occupation of the middle shore was necessary to secure trade, but the territory eventually became permanent Ronobetuan land, separating Tsutodo from S'Tsutodo.
 
-This combination of rail and maritime commerce shaped Ronobetu’s pre-Drift identity. Inland farmers, rail engineers, port merchants, and shipowners all depended on one another, creating a national economy centered on movement: from field to storehouse, from storehouse to railhead, from railhead to harbor, and from harbor across the Brooding Sea. The system was prosperous, efficient, and increasingly ambitious, but it also left Ronobetu deeply exposed to the disaster that would follow when The Drift made the old sea routes unreliable.
-
+By the eve of The Drift, Ronobetu’s identity was built around moving food from field to storehouse, storehouse to railhead, railhead to harbor, and harbor across the Brooding Sea. The system was prosperous and efficient, but deeply exposed to the disaster that followed when The Drift made the old sea routes unreliable.
 
 ### The Drift
 
@@ -79,7 +78,11 @@ This combination of rail and maritime commerce shaped Ronobetu’s pre-Drift ide
 
 ## Government
 
-Ronobetu is governed under **The Hallowback Accord**, a foundational civic agreement that balances authority between the country’s farming districts and military offices. Its public government is centered on the **Field Assembly**, which manages ordinary law, taxation, land use, and regional representation, while the smaller **Plains Council** oversees food reserves, seed banks, export quotas, and emergency planning. Security is managed by the Field Security Authority, a military-intelligence authority charged with protecting Ronobetu’s fields, roads, and storehouses; its role helps explain how a famously peaceful nation can respond to serious threats with sudden and decisive force.
+Ronobetu is governed under **The Hallowback Accord**, a representative civic agreement that divides authority between the elected **Field Assembly**, the agricultural **Plains Council**, and the security-focused **Field Security Authority**. The Field Assembly manages ordinary law, taxation, land use, trade, and regional representation, while the Plains Council oversees food reserves, seed banks, export quotas, and emergency planning. 
+
+Ronobetu is generally considered a functioning democracy, though not an entirely transparent one; the Field Security Authority holds broad powers over rail corridors, ports, border security, and Tsutodan militant activity, especially in the eastern provinces. 
+
+While generally a peaceful nation, the Field Security Authority is believed to maintain several elite units of trained personnel. Details about these units are difficult to verify, as much of Ronobetu’s security structure is classified, and several units commonly described in foreign reports may be speculative or based on incomplete information.
 
 ---
 

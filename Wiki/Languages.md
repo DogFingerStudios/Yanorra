@@ -8,7 +8,7 @@ subcategory: languages
 summary: An overview of the major spoken and written languages of Yanorra.
 status: draft
 show_in_indexes: true
----------------------
+---
 
 # Languages of Yanorra
 

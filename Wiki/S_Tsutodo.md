@@ -42,7 +42,16 @@ Outside the western uplands, the land descends toward a softer coastal belt of f
 
 ### Key Regions
 
-(TBD)
+* **Dima Eta**: The capital and largest port of S'Tsutodo, located on the southern shore. Dima Eta serves as the country’s political center, main naval harbor, and principal connection to southern sea routes toward Alonah and Hav.
+
+* **Reyga Island**: A broad, low island off the eastern shore, known for its flat farmland and reliable agricultural output. Reyga supplies grain, vegetables, and grazing stock to the mainland and is considered one of S'Tsutodo’s most important food-producing regions.
+
+* **Mount Auralis**: The highest summit in the small western mountain group. In the religion of Old Tsutodo, Mount Auralis held significance as a place from which the Eastern Light could be watched before sunrise.
+
+* **The Greenfold**: A wet interior forest-and-valley region between the western uplands and the coast. The Greenfold is sparsely settled compared with the shore, but its timber, streams, and sheltered farms support many smaller market towns.
+
+* **The Southward Quays**: The harbor district and surrounding coastal settlements south and east of Dima Eta. This region handles much of S'Tsutodo’s trade with Hav, and passing Brooding Sea vessels, and is known for ship repair, warehouses, and maritime insurance houses.
+
 
 ## Climate
 

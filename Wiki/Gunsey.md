@@ -21,3 +21,9 @@ Gunsey sits near one of the safer but still dangerous stretches of the Veloku cr
 **Terrain**: Gunsey is low, compact, and wind-exposed, measuring no more than twelve miles across at its widest point. Gunsey is not dominated by high peaks or a dramatic caldera. Its terrain consists mainly of low ridgelines, salt-stiff grasslands, weathered stone shelves, and narrow coastal bluffs broken by small coves.
 
 Because Gunsey is closer to Velu than to Duvessa, its geography has long complicated its political status. To Duvessa, it is a necessary watchpoint on the maritime road east. To Velu, it is an island sitting uncomfortably near its coast under a foreign flag.
+
+---
+
+## Political Status
+
+Gunsey is part of The Farlands](./The_Farlands.md) and under the jurisdiction of Duvessa. Duvessa operates two prisons on the island, one for political prisoners and another for immigration offenders, often people who were denied entry to Velu and sent back.

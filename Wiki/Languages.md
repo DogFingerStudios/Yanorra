@@ -12,23 +12,15 @@ show_in_indexes: true
 
 # Languages of Yanorra
 
-The **languages of Yanorra** do not always follow national borders. Some are tied to states, some to older peoples, and some to trade routes, ports, and borderlands.
+Yanorran languages are usually understood in three broad categories.
 
-The closest thing to a common language is **Trade Speech**, formally known as **Amang**. Most people simply call it Trade Speech.
+**Native languages** are older regional tongues tied to people, family, culture, and inherited identity.
 
----
+**State languages** are used by governments, schools, courts, military offices, and official records.
 
-## Overview
+**Working languages** are used across borders for trade, travel, inspection, engineering, and long-distance communication.
 
-Yanorran languages are usually understood in three broad categories:
-
-**Native languages** are older regional tongues, often tied to people and culture rather than modern borders.
-
-**State languages** are used by governments, schools, courts, and official records.
-
-**Working languages** are used across borders for trade, travel, military coordination, and technical work.
-
-Most educated or well-traveled Yanorrans speak more than one language.
+Many Yanorrans speak more than one language, especially in ports, border towns, occupied regions, and trade corridors.
 
 ---
 
@@ -38,7 +30,39 @@ Most educated or well-traveled Yanorrans speak more than one language.
 
 It is used in ports, customs houses, Thornbelt gates, shipping records, Horizon Chain offices, Intalink posts, and long-distance trade. The name **Amang** is most common in formal writing, while **Trade Speech** is the ordinary spoken name.
 
-Trade Speech has no single homeland. It belongs to merchants, sailors, engineers, clerks, haulers, and travelers.
+Trade Speech has no single homeland. It belongs to merchants, sailors, engineers, clerks, haulers, soldiers, and travelers.
+
+---
+
+## Qheswa
+
+**Qheswa** is an old language of eastern West Yanorra and the ancestral source of several later languages, most notably **Duvessan** and **Shirif**.
+
+In the modern era, Qheswa is no longer the dominant everyday language of a major state, but it survives in older religious texts, rural speech, family names, legal phrases, songs, and inherited ceremonial language. Scholars often treat Qheswa as the old root from which Duvessan and Shirif developed, much as related neighboring languages may share an older common background while becoming distinct in daily use.
+
+Qheswa remains culturally important because many pre-Drift records, prayers, border agreements, and early court documents were written in older Qheswan forms.
+
+---
+
+## Duvessan
+
+**Duvessan** is the dominant language of **Duvessa** and its controlled territories.
+
+It developed from Qheswa, but became distinct through Duvessa's ports, military institutions, coastal settlements, and later the rule of the Dornish Order. Modern Duvessan is standardized in schools, permits, ration notices, military records, and state broadcasts.
+
+Duvessan is closely related to **Shirif**, but the two are not the same language. Speakers may recognize familiar words or patterns, but ordinary conversation usually requires study or repeated exposure.
+
+Regional Duvessan can sound different depending on whether it is spoken in Port Sable, Normoa, Saint Aveline, or the Riftlands.
+
+---
+
+## Shirif
+
+**Shirif** is the principal language of **Bibi Shirif**.
+
+Like Duvessan, Shirif developed from older Qheswa, but it followed a different path through Bibi Shirif's courts, observatories, religious institutions, schools, and scholarly traditions. Formal Shirif is strongly associated with law, astronomy, history, theology, and old written records.
+
+Shirif is especially important in **Zayn al-Qamar**, where many calendar texts, religious commentaries, and pre-Drift records were preserved.
 
 ---
 
@@ -59,16 +83,6 @@ Regional forms of Tsu vary, but speakers from different areas can usually unders
 It is used in government, schools, port administration, agricultural records, and trade offices. Because Velu is a major food-producing nation, formal Veluan contains a large amount of agricultural, technical, and bureaucratic vocabulary.
 
 Veluan has also borrowed many words from **Anqaran**, especially in connection with nashi cultivation, irrigation, Reddle Stone, and upland farming.
-
----
-
-## Duvessan
-
-**Duvessan** is the dominant language of **Duvessa** and its controlled territories.
-
-Modern Duvessan developed from older native speech, especially **Qheswa**, along with coastal, military, and administrative influences. The Dornish Order promotes a standardized official form in schools, permits, ration notices, and military records.
-
-Regional Duvessan can sound very different depending on whether it is spoken in Port Sable, Normoa, Saint Aveline, or the Riftlands.
 
 ---
 
@@ -108,7 +122,7 @@ The Alonah do not speak to outsiders, and no verified outsider has heard their n
 
 Most major Yanorran languages have written forms. Trade Speech has the most standardized practical writing system because it is used in trade, shipping, Intalink messages, technical documents, and official forms.
 
-State languages such as Veluan and Duvessan are standardized through schools and government offices. Tsu and Anqaran both preserve older written traditions, especially in religious, household, and agricultural records.
+State languages such as Veluan, Duvessan, and Shirif are standardized through schools and government offices. Tsu and Anqaran preserve older written traditions, especially in religious, household, and agricultural records.
 
 In border regions and ports, public signs and documents often appear in multiple languages.
 
@@ -116,17 +130,18 @@ In border regions and ports, public signs and documents often appear in multiple
 
 ## Major Languages
 
-| Language                  | Common Region                                  | Status                           |
-| ------------------------- | ---------------------------------------------- | -------------------------------- |
-| **Trade Speech / Amang**  | Known World, especially ports and trade routes | Common working language          |
-| **Tsu**                   | Tsutodo, S'Tsutodo, eastern Ronobetu           | Native and regional language     |
-| **Veluan**                | Velu                                           | State language                   |
-| **Duvessan**              | Duvessa and Duvessan holdings                  | State language                   |
-| **Qheswa**                | Older Duvessan regions                         | Native root language             |
-| **Anqaran**               | Reddelstone, Paz, Anqaran communities          | Community and ritual language    |
-| **Moan**                  | Soumoa, Normoa, Moan communities               | Regional and resistance language |
-| **Thornbelt Gate Speech** | Thornbelt gates and trade roads                | Border working language          |
-| **Alonah Sign**           | Alonah-Clif                                    | Contact sign language            |
+| Language                  | Common Region                                        | Status                                   |
+| ------------------------- | ---------------------------------------------------- | ---------------------------------------- |
+| **Trade Speech / Amang**  | Known World, especially ports and trade routes       | Common working language                  |
+| **Qheswa**                | Eastern West Yanorra, old records and ceremonial use | Ancestral language                       |
+| **Duvessan**              | Duvessa and Duvessan holdings                        | State language                           |
+| **Shirif**                | Bibi Shirif                                          | State, scholarly, and religious language |
+| **Tsu**                   | Tsutodo, S'Tsutodo, eastern Ronobetu                 | Native and regional language             |
+| **Veluan**                | Velu                                                 | State language                           |
+| **Anqaran**               | Reddelstone, Paz, Anqaran communities                | Community and ritual language            |
+| **Moan**                  | Soumoa, Normoa, Moan communities                     | Regional and resistance language         |
+| **Thornbelt Gate Speech** | Thornbelt gates and trade roads                      | Border working language                  |
+| **Alonah Sign**           | Alonah-Clif                                          | Contact sign language                    |
 
 ---
 
@@ -134,6 +149,7 @@ In border regions and ports, public signs and documents often appear in multiple
 
 * [Velu](./Velu.md)
 * [Duvessa](./Duvessa.md)
+* [Bibi Shirif](./Bibi_Shirif.md)
 * [Ronobetu](./Ronobetu.md)
 * [Tsutodo](./Tsutodo.md)
 * [S'Tsutodo](./S_Tsutodo.md)

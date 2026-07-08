@@ -64,9 +64,15 @@ These holidays are observed on the same date each year according to the Axial Co
 
 ### Sky Observances
 
-The following holidays are observed on different dates each year, based on various factors.
+The following observances do not fall on fixed Axial Count dates. They are based on Yanorra’s changing position around the [Ember Mother](./Ember_Mother.md), and their dates are forecast by observatories as each approaches.
 
-| Name / Description                                                                                     | Timing                                                                                                 |
-| ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
-| Periastron | The day when Yanorra is closest to Ember Mother, marked by festivals and rituals celebrating renewal and abundance. The date varies each year due to the eccentric orbit. |
-| Apastron    | The day when Yanorra is farthest from Ember Mother, marked by festivals and rituals celebrating endurance and reflection. The date varies each year due to the eccentric orbit. |
+| Name / Description      | Timing                                                                                                                                                                                                                                    |
+| ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **The Falling Season**  | The period when Yanorra is moving inward toward the Ember Mother. Its beginning is determined by observatory calculation rather than a fixed calendar date.                                                                               |
+| **Near Day**            | The forecasted civil day expected to contain **the Near Turn**, the point when Yanorra is closest to the Ember Mother. A few weeks out, Near Day is usually given as a 2–4 day window, then narrowed as additional observations are made. |
+| **The Near Turn**       | The exact moment of closest approach to the Ember Mother, known formally as periastron. It is usually confirmed after the fact within a few hours to half a day.                                                                          |
+| **The Escaping Season** | The period when Yanorra is moving outward away from the Ember Mother after the Near Turn. Its length varies and is revised by observatories.                                                                                              |
+| **Far Day**             | The forecasted civil day expected to contain **the Far Turn**, the point when Yanorra is farthest from the Ember Mother. A few weeks out, Far Day is usually given as a 2–5 day window.                                                   |
+| **The Far Turn**        | The exact moment of farthest distance from the Ember Mother, known formally as apastron. It is usually confirmed after the fact within a few hours to half a day, though it is slightly harder to determine cleanly than the Near Turn.   |
+
+Public notices usually refer to **Near Day** or **Far Day** rather than periastron or apastron. For example, a notice may state that **Near Day is expected between Nedma 10 and Nedma 13**, while an observatory bulletin may give a favored estimate within that range.

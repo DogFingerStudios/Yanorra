@@ -120,7 +120,7 @@ Anqara is a disputed land said to exist beyond the Eastvoid Ocean. Knowledge of 
 - Rotational cycle ≈ 1 Earth day
 - Yearly cycle = Increasingly unpredictable, no longer follows a fixed calendar. Calendar system is based on cycles (i.e. days) rather than years.
 
-### Celestial Satellites
+### Satellites
 
 Yanorra has two satellites. Their competing gravitation has made sea travel difficult—an issue amplified by The Drift.
 
@@ -130,6 +130,20 @@ Yanorra has two satellites. Their competing gravitation has made sea travel diff
 ### Local Star
 
 Yanorra orbits a single star called the **Ember Mother** which has a slight red hue. The Ember Mother has remained stable since The Drift.
+
+### Solar System
+
+The known solar system consists of four planets, including Yanorra, and a belt of debris. There are no known planets closer to the Ember Mother than Yanorra, and no known planets beyond Solar-Mar.
+
+- **Nemei**: Nemei is Yanorra’s nearest planetary sister, a cold world whose shifting green-white and blue-gray colors suggest seasons, ice, oceans, or possible vegetation.
+
+- **Hita**: Hita is a massive storm-banded gas giant whose strange upright orbit shapes the Amar-Ket Belt and gives it a reputation as both shield and threat.
+
+- **Amar-Ket Belt**: The Amar-Ket Belt is the system’s great scar, a broken field of debris whose meteor showers are tied to omen, prophecy, and fear.
+
+- **Solar-Mar**: Solaq-Mar is the farthest known planet, a dim blue-black giant that disappears from sight for decades before returning like a remembered myth.
+
+See [Solar System](./Wiki/Solar_System.md) for more information.
 
 ## Geopolitics
 
@@ -1111,12 +1125,18 @@ These holidays are observed on the same date each year according to the Axial Co
 
 ### Sky Observances
 
-The following holidays are observed on different dates each year, based on various factors.
+The following observances do not fall on fixed Axial Count dates. They are based on Yanorra’s changing position around the [Ember Mother](./Ember_Mother.md), and their dates are forecast by observatories as each approaches.
 
-| Name / Description                                                                                     | Timing                                                                                                 |
-| ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
-| Periastron | The day when Yanorra is closest to Ember Mother, marked by festivals and rituals celebrating renewal and abundance. The date varies each year due to the eccentric orbit. |
-| Apastron    | The day when Yanorra is farthest from Ember Mother, marked by festivals and rituals celebrating endurance and reflection. The date varies each year due to the eccentric orbit. |
+| Name / Description      | Timing                                                                                                                                                                                                                                    |
+| ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **The Falling Season**  | The period when Yanorra is moving inward toward the Ember Mother. Its beginning is determined by observatory calculation rather than a fixed calendar date.                                                                               |
+| **Near Day**            | The forecasted civil day expected to contain **the Near Turn**, the point when Yanorra is closest to the Ember Mother. A few weeks out, Near Day is usually given as a 2–4 day window, then narrowed as additional observations are made. |
+| **The Near Turn**       | The exact moment of closest approach to the Ember Mother, known formally as periastron. It is usually confirmed after the fact within a few hours to half a day.                                                                          |
+| **The Escaping Season** | The period when Yanorra is moving outward away from the Ember Mother after the Near Turn. Its length varies and is revised by observatories.                                                                                              |
+| **Far Day**             | The forecasted civil day expected to contain **the Far Turn**, the point when Yanorra is farthest from the Ember Mother. A few weeks out, Far Day is usually given as a 2–5 day window.                                                   |
+| **The Far Turn**        | The exact moment of farthest distance from the Ember Mother, known formally as apastron. It is usually confirmed after the fact within a few hours to half a day, though it is slightly harder to determine cleanly than the Near Turn.   |
+
+Public notices usually refer to **Near Day** or **Far Day** rather than periastron or apastron. For example, a notice may state that **Near Day is expected between Nedma 10 and Nedma 13**, while an observatory bulletin may give a favored estimate within that range.
 
 
 -------------------------------------------------------- Cam_Tower.md -------------------------------------------------------- 
@@ -1757,6 +1777,12 @@ Gunsey sits near one of the safer but still dangerous stretches of the Veloku cr
 
 Because Gunsey is closer to Velu than to Duvessa, its geography has long complicated its political status. To Duvessa, it is a necessary watchpoint on the maritime road east. To Velu, it is an island sitting uncomfortably near its coast under a foreign flag.
 
+---
+
+## Political Status
+
+Gunsey is part of The Farlands](./The_Farlands.md) and under the jurisdiction of Duvessa. Duvessa operates two prisons on the island, one for political prisoners and another for immigration offenders, often people who were denied entry to Velu and sent back.
+
 
 -------------------------------------------------------- Hav.md -------------------------------------------------------- 
 
@@ -2108,6 +2134,158 @@ Today, Intalink is often taken for granted, but its history is still remembered 
 ## Notable Events
 
 (TBD)
+
+-------------------------------------------------------- Languages.md -------------------------------------------------------- 
+
+# Languages of Yanorra
+
+Yanorran languages are usually understood in three broad categories.
+
+**Native languages** are older regional tongues tied to people, family, culture, and inherited identity.
+
+**State languages** are used by governments, schools, courts, military offices, and official records.
+
+**Working languages** are used across borders for trade, travel, inspection, engineering, and long-distance communication.
+
+Many Yanorrans speak more than one language, especially in ports, border towns, occupied regions, and trade corridors.
+
+---
+
+## Trade Speech / Amang
+
+**Trade Speech**, formally called **Amang**, is the most widely understood second language in the Known World.
+
+It is used in ports, customs houses, Thornbelt gates, shipping records, Horizon Chain offices, Intalink posts, and long-distance trade. The name **Amang** is most common in formal writing, while **Trade Speech** is the ordinary spoken name.
+
+Trade Speech has no single homeland. It belongs to merchants, sailors, engineers, clerks, haulers, soldiers, and travelers.
+
+---
+
+## Qheswa
+
+**Qheswa** is an old language of eastern West Yanorra and the ancestral source of several later languages, most notably **Duvessan** and **Shirif**.
+
+In the modern era, Qheswa is no longer the dominant everyday language of a major state, but it survives in older religious texts, rural speech, family names, legal phrases, songs, and inherited ceremonial language. Scholars often treat Qheswa as the old root from which Duvessan and Shirif developed, much as related neighboring languages may share an older common background while becoming distinct in daily use.
+
+Qheswa remains culturally important because many pre-Drift records, prayers, border agreements, and early court documents were written in older Qheswan forms.
+
+---
+
+## Duvessan
+
+**Duvessan** is the dominant language of **Duvessa** and its controlled territories.
+
+It developed from Qheswa, but became distinct through Duvessa's ports, military institutions, coastal settlements, and later the rule of the Dornish Order. Modern Duvessan is standardized in schools, permits, ration notices, military records, and state broadcasts.
+
+Duvessan is closely related to **Shirif**, but the two are not the same language. Speakers may recognize familiar words or patterns, but ordinary conversation usually requires study or repeated exposure.
+
+Regional Duvessan can sound different depending on whether it is spoken in Port Sable, Normoa, Saint Aveline, or the Riftlands.
+
+---
+
+## Shirif
+
+**Shirif** is the principal language of **Bibi Shirif**.
+
+Like Duvessan, Shirif developed from older Qheswa, but it followed a different path through Bibi Shirif's courts, observatories, religious institutions, schools, and scholarly traditions. Formal Shirif is strongly associated with law, astronomy, history, theology, and old written records.
+
+Shirif is especially important in **Zayn al-Qamar**, where many calendar texts, religious commentaries, and pre-Drift records were preserved.
+
+---
+
+## Tsu
+
+**Tsu** is an old language spoken in **Tsutodo**, **S'Tsutodo**, and parts of eastern **Ronobetu**, especially east of the **Hallowback Range**.
+
+In S'Tsutodo, Tsu remains a major everyday language. In Tsutodo, it carries strong historical and cultural importance. In eastern Ronobetu, it is often spoken in family and village settings, though its political status is more complicated because of Ronobetu's history with Tsutodo.
+
+Regional forms of Tsu vary, but speakers from different areas can usually understand one another.
+
+---
+
+## Veluan
+
+**Veluan** is the principal state language of **Velu**.
+
+It is used in government, schools, port administration, agricultural records, and trade offices. Because Velu is a major food-producing nation, formal Veluan contains a large amount of agricultural, technical, and bureaucratic vocabulary.
+
+Veluan has also borrowed many words from **Anqaran**, especially in connection with nashi cultivation, irrigation, Reddle Stone, and upland farming.
+
+---
+
+## Anqaran
+
+**Anqaran** is associated with the **Anqaran people** of **Reddelstone**, **Paz**, and related communities in Velu.
+
+It is used most strongly in household life, ritual practice, agriculture, nashi cultivation, and Reddle Stone containment traditions. Many Anqaran speakers also use Veluan and Trade Speech.
+
+---
+
+## Moan
+
+**Moan** is associated with **Moa**, **Soumoa**, and **Normoa**.
+
+In Duvessan-controlled areas, Moan has often been suppressed or treated as a rebellious language. Among Moan communities, it remains an important marker of memory, identity, and resistance.
+
+---
+
+## Thornbelt Gate Speech
+
+**Thornbelt Gate Speech** is a practical border language used around Thornbelt's gate system.
+
+It mixes local Thornbelt speech, Trade Speech, legal commands, tariff terms, route numbers, inspection phrases, and borrowed words from neighboring languages. It is especially common among gate clerks, haulers, guards, and caravan workers.
+
+---
+
+## Alonah Sign
+
+**Alonah Sign** is the sign language used by the people of **Alonah** when dealing with foreigners at Alonah-Clif.
+
+The Alonah do not speak to outsiders, and no verified outsider has heard their native spoken language. Whether Alonah Sign is used only for trade or also among the Alonah themselves is unknown.
+
+---
+
+## Language and Writing
+
+Most major Yanorran languages have written forms. Trade Speech has the most standardized practical writing system because it is used in trade, shipping, Intalink messages, technical documents, and official forms.
+
+State languages such as Veluan, Duvessan, and Shirif are standardized through schools and government offices. Tsu and Anqaran preserve older written traditions, especially in religious, household, and agricultural records.
+
+In border regions and ports, public signs and documents often appear in multiple languages.
+
+---
+
+## Major Languages
+
+| Language                  | Common Region                                        | Status                                   |
+| ------------------------- | ---------------------------------------------------- | ---------------------------------------- |
+| **Trade Speech / Amang**  | Known World, especially ports and trade routes       | Common working language                  |
+| **Qheswa**                | Eastern West Yanorra, old records and ceremonial use | Ancestral language                       |
+| **Duvessan**              | Duvessa and Duvessan holdings                        | State language                           |
+| **Shirif**                | Bibi Shirif                                          | State, scholarly, and religious language |
+| **Tsu**                   | Tsutodo, S'Tsutodo, eastern Ronobetu                 | Native and regional language             |
+| **Veluan**                | Velu                                                 | State language                           |
+| **Anqaran**               | Reddelstone, Paz, Anqaran communities                | Community and ritual language            |
+| **Moan**                  | Soumoa, Normoa, Moan communities                     | Regional and resistance language         |
+| **Thornbelt Gate Speech** | Thornbelt gates and trade roads                      | Border working language                  |
+| **Alonah Sign**           | Alonah-Clif                                          | Contact sign language                    |
+
+---
+
+## See Also
+
+* [Velu](./Velu.md)
+* [Duvessa](./Duvessa.md)
+* [Bibi Shirif](./Bibi_Shirif.md)
+* [Ronobetu](./Ronobetu.md)
+* [Tsutodo](./Tsutodo.md)
+* [S'Tsutodo](./S_Tsutodo.md)
+* [Reddelstone](./Reddelstone.md)
+* [Anqara](./Anqara.md)
+* [Thornbelt](./Thornbelt.md)
+* [Alonah](./Alonah.md)
+* [Intalink](./Intalink.md)
+
 
 -------------------------------------------------------- Lo-Disporum.md -------------------------------------------------------- 
 
@@ -2865,12 +3043,11 @@ Ronobetu’s climate is shaped heavily by warm, moisture-bearing currents from t
 
 ### Pre-Drift Era
 
-Before The Drift, Ronobetu was one of the great provisioning powers of western Yanorra, its wealth built on grain, preserved food, livestock, and the movement of those goods across both land and sea. The eastern coast was especially important, with major port towns facing the Brooding Sea and sending regular cargo traffic toward Duvessa, Bibi Shirif, and the southern Eanorran markets. In this period, Ronobetu was not only an agricultural nation, but a maritime trading power whose ships and dock cities helped bind Wanorra to the rest of West Yanorra.
+Before The Drift, Ronobetu was one of the great agricultural powers of western Yanorra, its wealth built on grain, preserved food, livestock, rail transport, and Brooding Sea trade. Its western plains and Hallowback valleys fed the country’s eastern ports, where cargo moved toward Duvessa, Bibi Shirif, and the southern Eanorran markets.
 
-As demand for Ronobetuan food increased, the country became an early innovator in rail construction. Rail lines were first built to move harvests from the western plains and Hallowback valleys toward the eastern ports, reducing the dependence on slow caravan roads and allowing larger quantities of grain and preserved goods to reach the coast before spoilage or weather delays. By the final generations before The Drift, Ronobetu was expanding its rail network aggressively, not as a replacement for sea trade, but as a way to feed the ports that made sea trade possible.
+Ronobetu’s eastern expansion brought it into conflict with **Old Tsutodo**, which had once controlled much of the eastern coast through the fortified **Shore-Road**. During the final generations before The Drift, disputes over tariffs, port access, and military control drew Ronobetu into the Tsutodan crisis. Ronobetu claimed its occupation of the middle shore was necessary to secure trade, but the territory eventually became permanent Ronobetuan land, separating Tsutodo from S'Tsutodo.
 
-This combination of rail and maritime commerce shaped Ronobetu’s pre-Drift identity. Inland farmers, rail engineers, port merchants, and shipowners all depended on one another, creating a national economy centered on movement: from field to storehouse, from storehouse to railhead, from railhead to harbor, and from harbor across the Brooding Sea. The system was prosperous, efficient, and increasingly ambitious, but it also left Ronobetu deeply exposed to the disaster that would follow when The Drift made the old sea routes unreliable.
-
+By the eve of The Drift, Ronobetu’s identity was built around moving food from field to storehouse, storehouse to railhead, railhead to harbor, and harbor across the Brooding Sea. The system was prosperous and efficient, but deeply exposed to the disaster that followed when The Drift made the old sea routes unreliable.
 
 ### The Drift
 
@@ -2888,7 +3065,11 @@ This combination of rail and maritime commerce shaped Ronobetu’s pre-Drift ide
 
 ## Government
 
-Ronobetu is governed under **The Hallowback Accord**, a foundational civic agreement that balances authority between the country’s farming districts and military offices. Its public government is centered on the **Field Assembly**, which manages ordinary law, taxation, land use, and regional representation, while the smaller **Plains Council** oversees food reserves, seed banks, export quotas, and emergency planning. Security is managed by the Field Security Authority, a military-intelligence authority charged with protecting Ronobetu’s fields, roads, and storehouses; its role helps explain how a famously peaceful nation can respond to serious threats with sudden and decisive force.
+Ronobetu is governed under **The Hallowback Accord**, a representative civic agreement that divides authority between the elected **Field Assembly**, the agricultural **Plains Council**, and the security-focused **Field Security Authority**. The Field Assembly manages ordinary law, taxation, land use, trade, and regional representation, while the Plains Council oversees food reserves, seed banks, export quotas, and emergency planning. 
+
+Ronobetu is generally considered a functioning democracy, though not an entirely transparent one; the Field Security Authority holds broad powers over rail corridors, ports, border security, and Tsutodan militant activity, especially in the eastern provinces. 
+
+While generally a peaceful nation, the Field Security Authority is believed to maintain several elite units of trained personnel. Details about these units are difficult to verify, as much of Ronobetu’s security structure is classified, and several units commonly described in foreign reports may be speculative or based on incomplete information.
 
 ---
 
@@ -2944,22 +3125,7 @@ Ronobetu is also one of the most connected Intalink nations by private access, g
 
 <span y-type="mapelement" y-zoom="5" y-center="-13.91, -64.89" y-minzoom="2" y-scrollwheelzoom="true" y-debug="true"/>
 
-#### Table of Contents
-- [Overview](#overview)
-- [Geography](#geography)
-- [Climate](#climate)
-- [History](#history)
-- [Politics](#politics)
-- [Economy](#economy)
-- [Culture](#culture)
-- [Technology](#technology)
-- [Military](#military)
-- [Demographics](#demographics)
-- [Infrastructure](#infrastructure)
-- [Environment](#environment)
-- [Notable Events](#notable-events)
-
-**S'Tsutodo** is a nation.
+S'Tsutodo is a nation located in the southern part of West Yanorra, bordered by the Brooding Sea to the south and Ronobetu to the west. It is known for its dense forests, and mountainous regions. The nation is known for its technological advancements, and research in the fields of agriculture, forestry, and renewable energy.
 
 ## Overview
 
@@ -2975,21 +3141,28 @@ Ronobetu is also one of the most connected Intalink nations by private access, g
 
 ## Geography
 
-- Located in the southern part of West Yanorra.
-- Borders the Brooding Sea to the south Ronobetu to the west.
-- Known for its rugged terrain, dense forests, and mountainous regions.
+S'Tsutodo occupies the southeastern coast of the Ronobetuan landmass, facing the Brooding Sea. Its coastline includes several sheltered harbors and fishing towns, though the most important settlement, **Dima Eta**, sits on the southern shore, where it serves as the country’s capital and main connection to southern routes toward Alonah and Hav.
 
-### Location
+Off the eastern shore lies **Reyga Island**, a broad, low island known for its flat fields and reliable farmland. Although exposed to Brooding Sea weather, Reyga's workable soil makes it one of S'Tsutodo's most important agricultural districts, supplying grain, vegetables, and grazing stock to the mainland.
 
-(TBD)
+### Terrain
 
-### Terrain 
+Much of S'Tsutodo consists of coastal lowlands, wet forest, and rolling interior country broken by short ridges, river valleys, and cultivated basins. The western portion of the nation contains a small mountain group, the most prominent summit of which is traditionally known as Mount Auralis in the religion of Old Tsutodo.
 
-(TBD)
+Outside the western uplands, the land descends toward a softer coastal belt of farms, market towns, and old road settlements. The interior is greener and less densely populated than the coast, with forested slopes, seasonal streams, and small agricultural valleys feeding the larger settlements near the sea.
 
 ### Key Regions
 
-(TBD)
+* **Dima Eta**: The capital and largest port of S'Tsutodo, located on the southern shore. Dima Eta serves as the country’s political center, main naval harbor, and principal connection to southern sea routes toward Alonah and Hav.
+
+* **Reyga Island**: A broad, low island off the eastern shore, known for its flat farmland and reliable agricultural output. Reyga supplies grain, vegetables, and grazing stock to the mainland and is considered one of S'Tsutodo’s most important food-producing regions.
+
+* **Mount Auralis**: The highest summit in the small western mountain group. In the religion of Old Tsutodo, Mount Auralis held significance as a place from which the Eastern Light could be watched before sunrise.
+
+* **The Greenfold**: A wet interior forest-and-valley region between the western uplands and the coast. The Greenfold is sparsely settled compared with the shore, but its timber, streams, and sheltered farms support many smaller market towns.
+
+* **The Southward Quays**: The harbor district and surrounding coastal settlements south and east of Dima Eta. This region handles much of S'Tsutodo’s trade with Hav, and passing Brooding Sea vessels, and is known for ship repair, warehouses, and maritime insurance houses.
+
 
 ## Climate
 

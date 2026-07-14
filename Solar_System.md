@@ -1,8 +1,24 @@
 ## Yanorra System
 
+### Irosha
+
+**Type:** Lost rocky terrestrial planet
+**Common titles:** The Fallen World, The Watcher, The Burned Planet
+**Former orbit:** Between Ember Mother and Yanorra
+**Estimated orbital period:** ~219 Yanorran days
+**Estimated diameter:** Roughly half to two-thirds of Yanorra’s diameter
+**Estimated mass:** Uncertain; commonly estimated at less than one-third of Yanorra’s mass
+**Moons:** None known
+
+Irosha was the lost inner planet once observed between Yanorra and the Ember Mother. Before The Drift, it was bright enough to hold a place in common sky lore, appearing most often near dawn or dusk as a steady inner wanderer. The fourth row of the Qamar Tables preserves its name, a remnant from an older age when Irosha was associated with vigilance, judgment, and careful recordkeeping.
+
+After The Drift, Irosha’s orbit became increasingly unstable. For generations, observatories recorded its position drifting farther from the old tables, its close passages growing more difficult to predict. In the year AC344, Irosha disappeared during a final close approach to the Ember Mother. 
+
+---
+
 ### Yanorra
 
-The inhabited world of the system, orbiting Ember Mother with its two moons, Serya and Mirelda. Yanorra’s present orbit was altered during The Drift, leaving its calendar, seasons, and religious traditions permanently marked by celestial disorder.
+Yanorra is the inhabited heart of the Ember Mother system, circling the star beside its two moons, Serya and Mirelda. Its present orbit was bent during The Drift, a celestial wound that still governs the world’s calendar, unsettles its seasons, and shapes the rites by which many peoples reckon sacred time.
 
 ---
 
@@ -16,7 +32,7 @@ The inhabited world of the system, orbiting Ember Mother with its two moons, Ser
 **Mass:** ~0.89 Yanorra masses
 **Moons:** Two small captured moons
 
-Nemei is Yanorra’s nearest planetary sister, a cold but possibly living world near the outer edge of the habitable zone. Its faint seasonal shifts from green-white to blue-gray have long inspired speculation that it may have oceans, retreating ice, or even some form of vegetation. To many cultures, Nemei represents reflection, longing, fertility, and the life Yanorra might have lived under different heavens.
+Nemei is Yanorra’s nearest surviving planetary sister, a cold world near the outer edge of the habitable zone and the subject of long-standing speculation among astronomers. Its faint seasonal shifts from green-white to blue-gray have been interpreted as signs of retreating ice, exposed ocean, atmospheric change, or, more controversially, some form of vegetation. To many cultures, Nemei represents reflection, longing, fertility, and the life Yanorra might have lived under different heavens.
 
 ---
 

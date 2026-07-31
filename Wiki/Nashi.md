@@ -1,10 +1,12 @@
 # Nashi
 
-**Nashi** is a highly valued agricultural plant of Anqaran origin, known equally for its usefulness and its danger. In controlled cultivation, it produces a dark, bitter-sweet flesh used in food, drink, medicine, ceremony, and trade. Its fibers and oils are also prized in several industries. In unmanaged soil, however, nashi spreads aggressively through root-runners and can overwhelm surrounding crops, native vegetation, roads, riverbanks, and even small settlements.
+**Nashi** is a highly valued agricultural plant known equally for its usefulness and its danger.
 
-Among scholars, nashi is often described as one of Yanorra’s most contradictory gifts: a plant that has fed towns, enriched nations, inspired rituals, soothed the sick, clothed the poor, and destroyed entire districts.
+In controlled cultivation, it produces a dark, bitter-sweet herb used in food, drink and medicine. Its fibers and oils are also prized in several industries. 
 
-In most of East Yanorra, nashi is regulated as a high-value crop. In the **Nashi Fields of the Eastern Void**, it is regarded as an advancing disaster.
+In the wild, nashi spreads quickly and aggressively, and can overwhelm surrounding crops, native vegetation, roads, riverbanks, and even small settlements.
+
+In most of Yanorra, nashi is regulated as a high-value crop. In the **Nashi Fields of the Eastern Void**, it is regarded as an advancing disaster.
 
 ---
 
@@ -48,27 +50,21 @@ For this reason, most respectable physicians distinguish between **kept nashi** 
 
 ## History
 
-## History
+The earliest accounts of nashi connect it to the Anqaran people, who are said to have arrived in Velu after the disputed voyages of **Thalen of the Eastvoid**. According to Veluan-Anqaran folklore, Thalen returned from the land called **Anqara** with unfamiliar artifacts, plant specimens, and a small group of Anqaran people. Among the plants attributed to those settlers was nashi.
 
-The earliest accounts of nashi connect it to the Anqaran people, who are said to have arrived in Velu after the disputed voyages of **Thalen of the Eastvoid**. According to Veluan and Anqaran folklore, Thalen returned from the land called **Anqara** with unfamiliar artifacts, plant specimens, and a small group of Anqaran settlers. Among the plants attributed to those settlers was nashi.
+The Anqarans understood that it could not be treated like ordinary grain, vine, or orchard stock. It required barriers, burn circles,and disciplined cutting. Early Anqaran growers cultivated it in small, watched plots and passed down strict rules for its handling.
 
-At first, nashi was rare and closely guarded. The Anqarans understood that it could not be treated like ordinary grain, vine, or orchard stock. It required barriers, burn circles, sealed vessels, and disciplined cutting. Early Anqaran growers cultivated it in small, watched plots and passed down strict rules for its handling.
+Veluan farmers attempted to grow nashi themselves. These efforts produced mixed results at first, then disaster. In open farmland, nashi roots spread quickly into nearby fields, choking other crops and returning after ordinary clearing. Within only a few growing seasons, several districts learned that nashi was not merely difficult to control, but capable of making land unusable.
 
-Veluan farmers, impressed by the plant’s value and suspicious of Anqaran secrecy, attempted to grow nashi themselves. These efforts produced mixed results at first, then disaster. In open farmland, nashi root-runners spread quickly into nearby fields, choking other crops and returning after ordinary clearing. Within only a few growing seasons, several districts learned that nashi was not merely difficult to control, but capable of making land unusable.
-
-As tensions between Veluans and Anqarans increased, Anqaran communities were pushed away from the fertile plains and into the mountainous interior of central Velu. There they discovered deposits of **Reddle Stone**, a mineral that, when crushed and mixed into clay, hardened into a barrier capable of blocking the underground spread of nashi roots. This discovery changed the history of the plant. With Reddle Stone, nashi could be cultivated at scale without immediately destroying the surrounding land.
+Anqaran communities were pushed away from the fertile plains of eastern Velu and into the mountainous interior of central Velu. There the Anqarans discovered deposits of **Reddle Stone**, a mineral that, when crushed and mixed into clay, hardened into a barrier capable of blocking the underground spread of nashi roots. This discovery changed the history of the plant. With Reddle Stone, nashi could be cultivated at scale without immediately destroying the surrounding land.
 
 The settlement of **Paz** became the center of controlled nashi production. Over time, Paz and the surrounding highland communities formed the heart of **Reddelstone**, now the largest Anqaran settlement and the greatest producer of nashi-derived goods in Yanorra. In Reddelstone, nashi is not treated as a wild force, but as a profitable and, in some cases, sacred crop—dangerous only when handled without respect.
 
-### The Fall of Kona and the Eastern Void
-
-I worked the political history into the Kona section, while keeping the focus on nashi rather than turning it into a full Khn politics entry.
-
 ## The Fall of Kona and the Eastern Void
 
-For several years after **The Drift**, the city of **Kona** was the largest producer of nashi outside Reddelstone. Its fields supplied demand throughout much of East Yanorra. For a time, Kona was celebrated as proof that nashi could be grown profitably beyond Anqaran control.
+For several years after **The Drift**, the city of **Kona** was the largest producer of nashi outside of Reddelstone. Its fields supplied demand throughout much of East Yanorra. For a time, Kona was celebrated as proof that nashi could be grown profitably beyond Anqaran control.
 
-At the time, the lands east of the **Chatunkut Mountains**, and south of the Khn River, were claimed by **Velu**. This was recognized on maps, tax rolls, and government records. Kona, several smaller towns, and the settlements along the eastern lowlands were governed through local magistrates, trade inspectors, agricultural officers, and military detachments who held loyalty to Byad, Velu's capital.
+At the time, the lands east of the **Chatunkut Mountains**, and south of the Khn River, were claimed by **Velu**. This was recognized on maps, tax rolls, and government records. Kona, several smaller towns, and the settlements along the eastern lowlands were governed through local magistrates, and military detachments who held loyalty to Byad, Velu's capital.
 
 As demand for nashi increased, unlicensed growers began planting nashi outside the sanctioned fields. Some did so in hidden plots beyond the city’s inspection zone. Others bribed local officials, falsified field records, or simply counted on the authorities to look away. Whether through corruption, negligence or incompetence enforcement weakened. Nashi spread from legal fields into illegal ones, then from illegal ones into ditches, roadbeds, marshes, riverbanks, and the edges of ordinary farmland.
 
